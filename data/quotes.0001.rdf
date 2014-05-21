@@ -46,4 +46,26 @@
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/History"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academia"/>
 	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Un chef, c'est fait pour cheffer.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Jacques_Chirac"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Jacques%20Chirac"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Politics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Leadership"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">J’ai horreur des gens qui parlent pendant que je les interromps.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Robert_Charlebois"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Robert%20Charlebois"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Conversation"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">If you wish to make an apple pie from scratch, you must first invent the universe.</q:quote>
+		<dc:source rdf:resource="https://en.wikiquote.org/wiki/Carl_Sagan"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Carl%20Sagan"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Physics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cosmology"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Apple"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pie"/>
+	</q:Quote>
 </rdf:RDF>
