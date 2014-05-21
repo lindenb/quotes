@@ -30,4 +30,13 @@
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Salary"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academia"/>
 	</q:Quote>
+	
+	<q:Quote>
+		<q:quote xml:lang="en">It's very reassuring to hear Heng Li say that he doesn't understand all the details of mapping. Very.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/ctitusbrown/status/426816442168643584"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Heng%20Li"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sequence%20alignment"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Understanding"/>
+	</q:Quote>
 </rdf:RDF>
