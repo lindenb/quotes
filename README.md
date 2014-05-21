@@ -1,4 +1,8 @@
-quotes
+Quotes
 ======
 
-RDF/XML quotes
+RDF/XML quotes.
+
+See also: http://lindenb.github.io/pages/quotes/
+
+
