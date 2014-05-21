@@ -7,7 +7,12 @@
 	xml:lang="en"
 	>
 
-
+	<q:Quote>
+		<q:quote xml:lang="en">Maturity is realizing how many things don't require your comment.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/gergina_ch/status/460825101681045506"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Maturity%20(psychological)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Comment"/>
+	</q:Quote>
 
 
 
