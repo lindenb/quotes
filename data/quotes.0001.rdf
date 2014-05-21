@@ -39,4 +39,11 @@
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sequence%20alignment"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Understanding"/>
 	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Les historiens sont les seuls à ne pas savoir ce qui se passe au moment où ça se passe, et à ne pas savoir ce qui s'est passé quand c'est fini.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Historien"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Historian"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/History"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academia"/>
+	</q:Quote>
 </rdf:RDF>
