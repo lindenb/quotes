@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">La télévision a une sorte de monopole de fait sur la formation des cerveaux d'une partie très importante de la population.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Pierre_Bourdieu"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Pierre%20Bourdieu"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Television"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Education"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">L’idée la plus utile aux tyrans est celle de Dieu.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Stendhal"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Dictator"/>
