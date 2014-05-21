@@ -6,7 +6,13 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
-
+	<q:Quote>
+		<q:quote xml:lang="fr">L’idée la plus utile aux tyrans est celle de Dieu.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Stendhal"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Dictator"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Religion"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Stendhal"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="en">Maturity is realizing how many things don't require your comment.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/gergina_ch/status/460825101681045506"/>
