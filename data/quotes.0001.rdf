@@ -22,5 +22,12 @@
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/People"/>
 	</q:Quote>
-
+	
+	<q:Quote>
+		<q:quote xml:lang="en">Most people work for their employers. Faculty members at research universities work for their disciplines</q:quote>
+		<dc:source rdf:resource="https://twitter.com/johnhawks/status/460889640451706880"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Work"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Salary"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academia"/>
+	</q:Quote>
 </rdf:RDF>
