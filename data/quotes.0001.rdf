@@ -14,6 +14,13 @@
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Comment"/>
 	</q:Quote>
 
-
+	<q:Quote>
+		<q:quote xml:lang="en">There are two different types of people in the world, those who want to know, and those who want to believe</q:quote>
+		<dc:source rdf:resource="https://twitter.com/jhagel/status/464786930123952128"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Nietzsche"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Faith"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/People"/>
+	</q:Quote>
 
 </rdf:RDF>
