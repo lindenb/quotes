@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">If you think research is expensive, try disease</q:quote>
+		<dc:source rdf:resource="https://twitter.com/CemmaM/status/469520229832613888"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Mary%20Lasker"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Disease%20prevention"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Research"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Government%20budget"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Scientists who can, have minions. Others settle for scripts.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/modernscientist/status/389428581073707008"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Despicable%20Me"/>
