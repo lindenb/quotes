@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Le monde a commencé sans l’homme et il s’achèvera sans lui</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Evene/status/467218000014483456"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Claude%20L%C3%A9vi-Strauss"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Homo%20sapiens"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Global%20catastrophic%20risks"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Don't think of yourself as an ugly person, think of yourself as a beautiful monkey.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/silures1/status/468747713174306816"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Beauty"/>
