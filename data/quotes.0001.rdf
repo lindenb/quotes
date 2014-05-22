@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Scientists who can, have minions. Others settle for scripts.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/modernscientist/status/389428581073707008"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Despicable%20Me"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Computer%20programming"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">10 lines of code = 10 issues.
 500 lines of code = "looks fine."
 Code reviews.</q:quote>
