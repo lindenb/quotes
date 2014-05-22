@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">10 lines of code = 10 issues.
+500 lines of code = "looks fine."
+Code reviews.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/iamdevloper/status/397664295875805184"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Code%20review"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Le monde a commencé sans l’homme et il s’achèvera sans lui</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Evene/status/467218000014483456"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Claude%20L%C3%A9vi-Strauss"/>
