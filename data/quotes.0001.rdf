@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Two simple rules for dealing with difficult academic colleagues: 1. Never reveal everything you know.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/AcademicsSay/status/469226728225636352"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academia"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Secret"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Social%20relationship"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">La télévision a une sorte de monopole de fait sur la formation des cerveaux d'une partie très importante de la population.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Pierre_Bourdieu"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Pierre%20Bourdieu"/>
