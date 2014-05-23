@@ -7,6 +7,20 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">La folie est de toujours se comporter de la même manière et de s'attendre à un résultat différent</q:quote>
+		<dc:source rdf:resource="https://twitter.com/vinyll/status/327697853722009601"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Insanity"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Albert%20Einstein"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Experience"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">N'arrête jamais de sourire ... parce que tu ne sais pas qui pourrait tomber amoureux de ton sourire.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/MotsDeToujours/status/457054491360387072"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Gabriel%20Garc%C3%ADa%20M%C3%A1rquez"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Smile"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Love"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Moins on a de connaissances, plus on a de convictions</q:quote>
 		<dc:source rdf:resource="https://twitter.com/MotsDeToujours/status/468671274622128128"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Boris%20Cyrulnik"/>
