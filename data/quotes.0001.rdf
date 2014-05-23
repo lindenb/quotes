@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Moins on a de connaissances, plus on a de convictions</q:quote>
+		<dc:source rdf:resource="https://twitter.com/MotsDeToujours/status/468671274622128128"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Boris%20Cyrulnik"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Knowledge"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Obscurantism"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Travailler pour la postérité est vulgaire.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Orson_Welles"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Orson%20Welles"/>
