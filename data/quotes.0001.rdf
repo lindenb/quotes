@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">The only place where success comes before work is in the dictionary</q:quote>
+		<dc:source rdf:resource="https://twitter.com/chachingqueen/status/470244150097772544"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Vidal%20Sassoon"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Success"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Manual%20labour"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Goal"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Social%20status"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">- Some people say they can’t understand your writing, even after they read it two or three times. What approach would you suggest for them?
 - Read it four times.</q:quote>
 		<dc:source rdf:resource="http://www.theparisreview.org/interviews/4954/the-art-of-fiction-no-12-william-faulkner"/>
