@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Sir, The best description of peer review that I know is that is it the process whereby one group of scientists does its best to prevent another group from publishing</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academic%20publishing"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Peer%20review"/>
+		<dc:author xml:lang="en">Tony Waldron</dc:author>
+		<dc:source rdf:resource="http://johnblakey.wordpress.com/"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">La folie est de toujours se comporter de la même manière et de s'attendre à un résultat différent</q:quote>
 		<dc:source rdf:resource="https://twitter.com/vinyll/status/327697853722009601"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Insanity"/>
