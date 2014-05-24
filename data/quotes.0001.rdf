@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">- Some people say they can’t understand your writing, even after they read it two or three times. What approach would you suggest for them?
+- Read it four times.</q:quote>
+		<dc:source rdf:resource="http://www.theparisreview.org/interviews/4954/the-art-of-fiction-no-12-william-faulkner"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/William%20Faulkner"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Reading%20(process)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Reading%20comprehension"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Sir, The best description of peer review that I know is that is it the process whereby one group of scientists does its best to prevent another group from publishing</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academic%20publishing"/>
