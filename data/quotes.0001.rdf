@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Oui, le public est d'une merveilleuse tolérance. Il pardonne tout, sauf le génie.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Oscar_Wilde"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Oscar%20Wilde"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Public"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Genius"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Constructive%20criticism"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Experience is simply the name we give our mistakes</q:quote>
 		<dc:source rdf:resource="https://twitter.com/toryburch/status/340460551010410497"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Oscar%20Wilde"/>
