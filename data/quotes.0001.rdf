@@ -7,6 +7,20 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Les dictateurs naissent dans les maisons où on n'ose pas donner un ordre à la bonne.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Henry_de_Montherlant"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Henry%20de%20Montherlant"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Dictatorship"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Birth"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Maid"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Le repliement sur soi-même n'est bon qu'aux natures singulières et fortes, et encore, à condition d'être relatif et entrecoupé. Les autres le payent cher. On ne s'enferme pas dans sa chambre impunément. On ne vit pas sur soi seul impunément.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Henry_de_Montherlant"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Henry%20de%20Montherlant"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Social%20isolation"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Oui, le public est d'une merveilleuse tolérance. Il pardonne tout, sauf le génie.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Oscar_Wilde"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Oscar%20Wilde"/>
