@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Experience is simply the name we give our mistakes</q:quote>
+		<dc:source rdf:resource="https://twitter.com/toryburch/status/340460551010410497"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Oscar%20Wilde"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Experience"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Error"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">The only place where success comes before work is in the dictionary</q:quote>
 		<dc:source rdf:resource="https://twitter.com/chachingqueen/status/470244150097772544"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Vidal%20Sassoon"/>
