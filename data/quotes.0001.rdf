@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I sometimes fear that people might think that fascism arrives in fancy dress worn by grotesques and monsters as played out in endless re-runs of the Nazis. Fascism arrives as your friend. It will restore your honour, make you feel proud, protect your house, give you a job, clean up the neighbourhood, remind you of how great you once were, clear out the venal and the corrupt, remove anything you feel is unlike you...It doesn't walk in saying, "Our programme means militias, mass imprisonments, transportations, war and persecution."</q:quote>
+		<dc:source rdf:resource="http://michaelrosenblog.blogspot.fr/2014/04/i-sometimes-fear.html"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Michael%20Rosen"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fascism"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Les dictateurs naissent dans les maisons où on n'ose pas donner un ordre à la bonne.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Henry_de_Montherlant"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Henry%20de%20Montherlant"/>
