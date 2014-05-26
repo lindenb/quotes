@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">C’est ainsi qu’on peut se targuer d’aimer la bande dessinée. Pourquoi ne pas aimer la bande dessinée? Mais s’en targuer c’est autre chose. C’est dire, en sous main, il n’y a pas d’art mineur. Et quand on dit il n’y a pas d’art mineur, non seulement on réhabilite les arts mineurs mais on vide les autres</q:quote>
+		<dc:source rdf:resource="http://www.arretsurimages.net/breves/2014-05-26/Finkielkraut-la-BD-cet-art-mineur-qu-il-faut-cacher-id17485"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Alain%20Finkielkraut"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Comics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Minor%20arts"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">If only there was some kind of historical precedent that could tell us whether Europe embracing xenophobia would result in anything bad</q:quote>
 		<dc:source rdf:resource="https://twitter.com/jimrossignol/status/470853761574113282"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Europe"/>
