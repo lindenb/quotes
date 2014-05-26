@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">If only there was some kind of historical precedent that could tell us whether Europe embracing xenophobia would result in anything bad</q:quote>
+		<dc:source rdf:resource="https://twitter.com/jimrossignol/status/470853761574113282"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Europe"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/History"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Xenophobia"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I love mankind ... it's people I can't stand!!</q:quote>
 		<dc:source rdf:resource="http://www.goodreads.com/quotes/1024-i-love-mankind-it-s-people-i-can-t-stand"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Charles%20M.%20Schulz"/>
