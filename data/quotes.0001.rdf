@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I love mankind ... it's people I can't stand!!</q:quote>
+		<dc:source rdf:resource="http://www.goodreads.com/quotes/1024-i-love-mankind-it-s-people-i-can-t-stand"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Charles%20M.%20Schulz"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Human"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Antipathy"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Love"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Blame acts of terrorism by white men on mental illness, and terrorism by brown men on culture? This is a Fundamental Attribution Error.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/jessitron/status/470652108845629440"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Terrorism"/>
