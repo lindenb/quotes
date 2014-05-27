@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Il est des quartiers où je peux comprendre l'exaspération de certains de nos compatriotes, père ou mère de famille rentrant du travail le soir, apprenant que leur fils s'est fait arracher son pain au chocolat par des voyous qui lui expliquent qu'on ne mange pas pendant le ramadan</q:quote>
+		<dc:source rdf:resource="http://www.lexpress.fr/actualite/politique/cope-le-pain-au-chocolat-et-le-ramadan_1171072.html"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois%20Cop%C3%A9"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ramadan"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Viennoiserie"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Racism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Politics"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Religion is like bug-free software.
 Discuss.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/iamdevloper/status/467324043528781825"/>
