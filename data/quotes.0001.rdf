@@ -7,6 +7,20 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Religion is like bug-free software.
+Discuss.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/iamdevloper/status/467324043528781825"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Religion"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bug%20(software)"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">95% of Software Development is trying to avoid becoming Dilbert.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/iamdevloper/status/471285868964380672"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programmer"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Dilbert"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Workplace"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Pour les menteurs et fraudeurs la sanction doit être exemplaire assortie d'une inéligibilité à vie</q:quote>
 		<dc:source rdf:resource="http://www.huffingtonpost.fr/2014/05/27/nadine-morano-tweet-supprime-efface-crise-ump-menteur_n_5397825.html"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Nadine%20Morano"/>
