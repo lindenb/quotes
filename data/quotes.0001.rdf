@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Pour les menteurs et fraudeurs la sanction doit être exemplaire assortie d'une inéligibilité à vie</q:quote>
+		<dc:source rdf:resource="http://www.huffingtonpost.fr/2014/05/27/nadine-morano-tweet-supprime-efface-crise-ump-menteur_n_5397825.html"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Nadine%20Morano"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fraud"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Politics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Lie"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">What sculpture is to a block of marble, education is to the human soul.</q:quote>
 		<dc:source rdf:resource="https://en.wikiquote.org/wiki/Joseph_Addison"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Joseph%20Addison"/>
