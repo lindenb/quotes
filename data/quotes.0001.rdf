@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Voilà un homme qui a le talent de ne pas embêter les personnes pour qui il travaille avec des problèmes [qu']elles n'ont pas à connaître</q:quote>
+		<dc:source rdf:resource="http://tempsreel.nouvelobs.com/politique/20140526.OBS8562/le-directeur-de-cabinet-de-cope-confesse-il-y-a-eu-des-derapages-en-2012.html"/>
+		<q:keyword rdf:resource="http://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me%20Lavrilleux"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Nicolas%20Sarkozy"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/National%20Order%20of%20Merit%20(France)"/>
+		<q:keyword rdf:resource="http://fr.wikipedia.org/wiki/Directeur%20de%20cabinet%20(France)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">C’est ainsi qu’on peut se targuer d’aimer la bande dessinée. Pourquoi ne pas aimer la bande dessinée? Mais s’en targuer c’est autre chose. C’est dire, en sous main, il n’y a pas d’art mineur. Et quand on dit il n’y a pas d’art mineur, non seulement on réhabilite les arts mineurs mais on vide les autres</q:quote>
 		<dc:source rdf:resource="http://www.arretsurimages.net/breves/2014-05-26/Finkielkraut-la-BD-cet-art-mineur-qu-il-faut-cacher-id17485"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Alain%20Finkielkraut"/>
