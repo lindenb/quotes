@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">- Would you defend Hitler?
+- I said I'd even defend Bush! but only if he agrees to plead guilty.</q:quote>
+		<dc:source rdf:resource="https://en.wikipedia.org/wiki/Jacques_Verg%C3%A8s"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Jacques%20Verg%C3%A8s"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/George%20W.%20Bush"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Adolf%20Hitler"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Advocate"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Guilt%20(law)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">What you do speaks so loudly that I cannot hear what you say</q:quote>
 		<dc:source rdf:resource="https://twitter.com/OldSmellOfBooks/status/470663093966897153"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Ralph%20Waldo%20Emerson"/>
