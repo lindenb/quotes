@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Nous devons dire à l'Europe qu'elle ne peut sauver ses banques et ne pas en faire autant pour les femmes et enfants secourus en mer</q:quote>
+		<dc:source rdf:resource="http://www.lefigaro.fr/international/2014/05/14/01003-20140514ARTFIG00311-l-italie-menace-de-laisser-entrer-les-refugies-dans-l-ue.php"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Matteo%20Renzi"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/European%20Union"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/2013%20Lampedusa%20migrant%20shipwreck"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Financial%20crisis%20of%202007%E2%80%9308"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">the amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it</q:quote>
 		<dc:source rdf:resource="https://twitter.com/ziobrando/status/289635060758507521"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Energy"/>
