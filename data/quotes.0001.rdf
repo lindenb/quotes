@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">the amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it</q:quote>
+		<dc:source rdf:resource="https://twitter.com/ziobrando/status/289635060758507521"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Energy"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Reason"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bullshit"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Objection%20(argument)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">- Would you defend Hitler?
 - I said I'd even defend Bush! but only if he agrees to plead guilty.</q:quote>
 		<dc:source rdf:resource="https://en.wikipedia.org/wiki/Jacques_Verg%C3%A8s"/>
