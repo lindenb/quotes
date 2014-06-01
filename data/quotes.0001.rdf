@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Si tu parles à ton eau de javel quand tu fais la vaisselle, elle est moins concentrée.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Jean-Claude_Van_Damme"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sodium%20hypochlorite"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Jean-Claude%20Van%20Damme"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Concentration"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Conversation"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Dishwashing"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Cette propension du moment à penser que tout est à disposition, que tout est à tous, sans réserves, sans distinction, sans précautions, me rend taré. Mes images me sont précieuses. C’est du travail et de l’émotion. </q:quote>
 		<dc:source rdf:resource="http://rue89.nouvelobs.com/rue89-culture/2014/05/30/marre-tout-est-a-tous-lauteur-bd-manu-larcenet-arrete-blog-252561"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Manu%20Larcenet"/>
