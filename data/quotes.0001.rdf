@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">A programer is a person who fixes a problem that you didn't know could be solved, in a way you don't understand</q:quote>
+		<dc:source rdf:resource="https://twitter.com/billkennedy_go/status/473079663762604032"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programmer"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Comprehension%20approach"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Software%20bug"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Si tu parles à ton eau de javel quand tu fais la vaisselle, elle est moins concentrée.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Jean-Claude_Van_Damme"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sodium%20hypochlorite"/>
