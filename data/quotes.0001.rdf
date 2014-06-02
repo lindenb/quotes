@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">If you torture data sufficiently, it will confess to almost anything</q:quote>
+		<dc:source rdf:resource="https://twitter.com/jahendler/status/473279145812561920"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Big%20data"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Analysis"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Torture"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">A programer is a person who fixes a problem that you didn't know could be solved, in a way you don't understand</q:quote>
 		<dc:source rdf:resource="https://twitter.com/billkennedy_go/status/473079663762604032"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programmer"/>
