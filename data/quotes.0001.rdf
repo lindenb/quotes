@@ -7,6 +7,21 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">L'évolution ne connait pas la marche arrière.</q:quote>
+		<dc:source rdf:resource="http://evene.lefigaro.fr/citations/boris-cyrulnik"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Boris%20Cyrulnik"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Evolutionary%20biology"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Entropy"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">De tout temps la politique a été la science de l'absurdité</q:quote>
+		<dc:source rdf:resource="https://twitter.com/MotsDeToujours/status/471328035195850753"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Stefan%20Zweig"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Politics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Absurdity"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Creativity is intelligence having fun</q:quote>
 		<dc:source rdf:resource="https://twitter.com/eclectante/status/473343337080954880"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Albert%20Einstein"/>
