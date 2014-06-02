@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Creativity is intelligence having fun</q:quote>
+		<dc:source rdf:resource="https://twitter.com/eclectante/status/473343337080954880"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Albert%20Einstein"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Creativity"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Intelligence"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fun"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">If you torture data sufficiently, it will confess to almost anything</q:quote>
 		<dc:source rdf:resource="https://twitter.com/jahendler/status/473279145812561920"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Big%20data"/>
