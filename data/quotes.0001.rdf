@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">La plus utile et honorable occupation d'une femme, c'est la science du ménage.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Michel_de_Montaigne"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Woman"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Michel%20de%20Montaigne"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Domestic%20worker"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Housekeeping"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">L'évolution ne connait pas la marche arrière.</q:quote>
 		<dc:source rdf:resource="http://evene.lefigaro.fr/citations/boris-cyrulnik"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Boris%20Cyrulnik"/>
