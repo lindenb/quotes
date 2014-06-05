@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Le serment d'Hippocrate demande au médecin de ne pas causer de tort. En finance, je pense que les modèles conventionnels et leurs « corrections » les plus récentes violent ce serment.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Beno%C3%AEt_Mandelbrot"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Benoit%20Mandelbrot"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hippocrates%20oath"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Finance"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">La plus utile et honorable occupation d'une femme, c'est la science du ménage.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Michel_de_Montaigne"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Woman"/>
