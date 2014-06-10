@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Ah, Birthdays... That special time once a year when I actually have to log on to Facebook.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/scottmccloud/status/476384202959499264"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Scott%20McCloud"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Facebook"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Birthday"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Le serment d'Hippocrate demande au médecin de ne pas causer de tort. En finance, je pense que les modèles conventionnels et leurs « corrections » les plus récentes violent ce serment.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Beno%C3%AEt_Mandelbrot"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Benoit%20Mandelbrot"/>
