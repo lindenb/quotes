@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">George R.R. Martin has joined twitter! He will introduce 140 characters, and then kill off your favorite ones.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/StephenAtHome/status/476740918847217664"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/George%20R.%20R.%20Martin"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Stephen%20Colbert"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Game%20of%20Thrones"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Quand quelqu'un paye un tableau 3.000 frs, c'est qu'il lui plaît. Quand il le paye 300.000 frs, c'est qu'il plaît aux autres</q:quote>
 		<dc:source rdf:resource="https://twitter.com/nicolasancion/status/476346841018400768"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Edgar%20Degas"/>
