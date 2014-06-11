@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">if you think you understand git, you don't understand git</q:quote>
+		<dc:source rdf:resource="https://twitter.com/BioMickWatson/status/476802633177366528"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Git%20(software)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">George R.R. Martin has joined twitter! He will introduce 140 characters, and then kill off your favorite ones.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/StephenAtHome/status/476740918847217664"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/George%20R.%20R.%20Martin"/>
