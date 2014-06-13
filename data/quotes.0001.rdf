@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">When I say to someone "that took me about twenty minutes" I should add "after twenty years experience"</q:quote>
+		<dc:source rdf:resource="https://twitter.com/geospacedman/status/477421655573413888"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Skill"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Competence%20(human%20resources)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Les gens qui ont besoin de rejoindre le FN pour voir que c'est un parti raciste, ils sautent aussi de 15 étages pour tester la gravité ?</q:quote>
 		<dc:source rdf:resource="https://twitter.com/ADAN_Officiel/status/477397527038545920"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Front%20National%20(France)"/>
