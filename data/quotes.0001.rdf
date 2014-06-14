@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Time spent determining that attending a talk was a mistake: 30 seconds.
+Time spent overthinking exit strategy: The rest of the talk.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/AcademicsSay/status/477866891491688449"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academic%20conference"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emergency%20exit"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">When I say to someone "that took me about twenty minutes" I should add "after twenty years experience"</q:quote>
 		<dc:source rdf:resource="https://twitter.com/geospacedman/status/477421655573413888"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Skill"/>
