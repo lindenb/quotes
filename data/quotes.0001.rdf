@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">En politique il faut guérir les maux, jamais les venger.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Napol%C3%A9on_III"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Napoleon%20III"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Politics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vengeance%20(concept)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Suffering"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Mon tourment à moi c'est le sommeil. Si j'avais bien dormi toujours j'aurais jamais écrit une ligne.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Mort_%C3%A0_cr%C3%A9dit"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Louis-Ferdinand%20C%C3%A9line"/>
