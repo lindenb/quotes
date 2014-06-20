@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Mon tourment à moi c'est le sommeil. Si j'avais bien dormi toujours j'aurais jamais écrit une ligne.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Mort_%C3%A0_cr%C3%A9dit"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Louis-Ferdinand%20C%C3%A9line"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sleep"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Writing"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Artistic%20inspiration"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Connais-toi toi-même !</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Thal%C3%A8s"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Thales"/>
