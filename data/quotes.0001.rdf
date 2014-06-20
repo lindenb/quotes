@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">On ne peut se passer d'une méthode pour se mettre en quête de la vérité des choses.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Ren%C3%A9_Descartes"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Ren%C3%A9%20Descartes"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Scientific%20method"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Time spent determining that attending a talk was a mistake: 30 seconds.
 Time spent overthinking exit strategy: The rest of the talk.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/AcademicsSay/status/477866891491688449"/>
