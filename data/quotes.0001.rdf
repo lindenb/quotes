@@ -7,6 +7,23 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">L'État n'est pas la raison ni l'éloquence, c'est la force. Et la force, comme le feu, est un serviteur dangereux et un maître épouvantable. À aucun moment on ne devrait le laisser commettre des actions irresponsables.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/George_Washington"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/George%20Washington"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Politics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fire"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Eloquence"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Comment reconnaît-on un communiste ? Eh bien, c'est quelqu'un qui lit Marx et Lénine. Et comment reconnaît-on un anti-communiste ? C'est quelqu'un qui a compris Marx et Lénine.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Ronald_Reagan"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Ronald%20Reagan"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Communism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Karl%20Marx"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vladimir%20Lenin"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cold%20War"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">En politique il faut guérir les maux, jamais les venger.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Napol%C3%A9on_III"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Napoleon%20III"/>
