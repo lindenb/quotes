@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Un prisonnier est plus possédé de l'idée de s'enfuir que son gardien n'est possédé de l'idée de le garder. Donc un prisonnier doit toujours réussir à se sauver.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Jules_Verne"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Jules%20Verne"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Prison"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Prison%20escape"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">L'État n'est pas la raison ni l'éloquence, c'est la force. Et la force, comme le feu, est un serviteur dangereux et un maître épouvantable. À aucun moment on ne devrait le laisser commettre des actions irresponsables.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/George_Washington"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/George%20Washington"/>
