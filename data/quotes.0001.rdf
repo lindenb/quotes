@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Connais-toi toi-même !</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Thal%C3%A8s"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Thales"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Gnothi%20seauton"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Consciousness"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Lemme I. - On fait dire à une statistique ce qu'on veut, à une condition : c'est qu'on évite de dire comment elle est faite.
 Lemme II. - On ne demande comment une statistique est faite que lorsqu'elle prouve autre chose que ce qu'on désire.
 Théorème. - Quand vous désirez qu'une statistique vous renseigne, cachez soigneusement ce que vous voudriez qu'elle prouve. Car si on le sait, elle le prouvera et, puisqu'elle le prouvera, vous oublierez de demander comment on l'a faite.</q:quote>
