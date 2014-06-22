@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Pour la carotte, le lapin est la parfaite incarnation du mal.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Robert_Sheckley"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Robert%20Sheckley"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Carrot"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Evil"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">L'avantage du pessimisme, c'est qu'on ne peut avoir que de bonnes surprises.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Guy_Bedos"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Guy%20Bedos"/>
