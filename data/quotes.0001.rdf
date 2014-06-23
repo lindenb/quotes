@@ -7,6 +7,23 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Vous avez tendance à reprendre le refrain d'il y a sept ans : l'homme du passé. C'est quand même ennuyeux que, dans l'intervalle, vous soyez devenu, vous, l'homme du passif</q:quote>
+		<dc:source rdf:resource="http://www.francesoir.fr/actualite/politique/debat-en-1981-mitterrand-crucifie-vge-l-homme-du-passif-216625.html"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Fran%C3%A7ois%20Mitterrand"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fran%C3%A7ois%20Mitterrand"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Val%C3%A9ry%20Giscard%20d'Estaing"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Past"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Politics"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Félix Faure est retourné au néant, il a dû se sentir chez lui</q:quote>
+		<dc:source rdf:resource="http://www.herodote.net/16_fevrier_1899-evenement-18990216.php"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/George%20Cl%C3%A9menceau"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/F%C3%A9lix%20Faure"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Death"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nothing"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Tout ce ramdam autour du métier d’acteur n’a pas de sens pour moi. Tout le monde est acteur, on passe ses journées à jouer la comédie. Tout le monde a vécu des moments où on pense quelque chose, on sent quelque chose et on ne le montre pas. C’est ça être un acteur.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Marlon_Brando"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Marlon%20Brando"/>
