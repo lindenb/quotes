@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">By a State I mean, a complete body of free persons united together for their common benefit, to enjoy peaceably what is their own, and to do justice to others.</q:quote>
+		<dc:source rdf:resource="https://en.wikiquote.org/wiki/James_Wilson"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/James%20Wilson"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/United%20States"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Justice"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Liberty"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Pour la carotte, le lapin est la parfaite incarnation du mal.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Robert_Sheckley"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Robert%20Sheckley"/>
