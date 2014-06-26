@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Drawing is giving yourself up to an exercise with no immediate application. It is a form of communion with your subject, be it in front of you or in your head</q:quote>
+		<dc:source rdf:resource="https://en.wikiquote.org/wiki/John_Howe_(illustrator)"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/John%20Howe%20(illustrator)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Drawing"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">It's nothing personal, but I'm going to kill this guy</q:quote>
 		<dc:source rdf:resource="https://en.wikiquote.org/wiki/Mike_Tyson"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Mike%20Tyson"/>
