@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">It's nothing personal, but I'm going to kill this guy</q:quote>
+		<dc:source rdf:resource="https://en.wikiquote.org/wiki/Mike_Tyson"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Mike%20Tyson"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Boxing"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Murder"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Wonderful theory, wrong species</q:quote>
 		<dc:source rdf:resource="https://en.wikiquote.org/wiki/E._O._Wilson"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Edward%20O.%20Wilson"/>
