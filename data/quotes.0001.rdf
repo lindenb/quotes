@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Pour se marier il faut un témoin. Comme pour un accident ou un duel.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/bernardpivot1/status/482386286389772288"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Sacha%20Guitry"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Wedding"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Duel"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Accident"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Groomsman"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Drawing is giving yourself up to an exercise with no immediate application. It is a form of communion with your subject, be it in front of you or in your head</q:quote>
 		<dc:source rdf:resource="https://en.wikiquote.org/wiki/John_Howe_(illustrator)"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/John%20Howe%20(illustrator)"/>
