@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Internet: please stop making everything with video tutorials. I can read faster than you can talk.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/jvdgoot/status/481708625082474496"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Internet"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Webcast"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Reading"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Whenever I hear the word cyberculture, I 3D-print a revolver.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/NeinQuarterly/status/479656463149703168"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/3D%20printing"/>
