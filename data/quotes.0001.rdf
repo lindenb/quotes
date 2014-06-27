@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Whenever I hear the word cyberculture, I 3D-print a revolver.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/NeinQuarterly/status/479656463149703168"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/3D%20printing"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cyberculture"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Revolver"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Pour se marier il faut un témoin. Comme pour un accident ou un duel.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/bernardpivot1/status/482386286389772288"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Sacha%20Guitry"/>
