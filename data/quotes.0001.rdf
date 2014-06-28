@@ -7,9 +7,17 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Tout s'effacera en une seconde. Le dictionnaire accumulé du berceau au dernier lit s'éliminera. Ce sera le silence et aucun mot pour le dire. De la bouche ouverte il ne sortira rien. Ni je ni moi. La langue continuera à mettre en mots le monde. Dans les conversations autour d'une table de fête on ne sera qu'un prénom, de plus en plus sans visage, jusqu'à disparaître dans la masse anonyme d'une lointaine génération.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Annie_Ernaux"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Annie%20Ernaux"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Life"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Death"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Generation"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">…d'un point de vue structurel, le design est totalement inutile. […] J'ai essayé de donner à mes produits un peu de sens et d'énergie. Mais même quand j'ai donné le meilleur de moi-même, c'était absurde.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Philippe_Starck"/>
-		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Philippe%20Starck"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Philippe%20Starck"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Design"/>
 	</q:Quote>
 	<q:Quote>
