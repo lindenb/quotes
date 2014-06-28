@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Vise les étoiles pour atteindre le sommet des arbres, au moins tu auras décollé du sol.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Shirley_Ann_Jackson"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Shirley%20Ann%20Jackson"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Tree"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Star"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Je m'appelle Kate Schechter. Deux c, deux h, deux e, et aussi un t, un r et un s. À condition qu'ils soient tous là, les gens de la banque ne feront pas d'histoire sur l'ordre dans lequel ils arrivent. Ils n'ont jamais l'air de le savoir eux-mêmes.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Douglas_Adams"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Douglas%20Adams"/>
