@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">…d'un point de vue structurel, le design est totalement inutile. […] J'ai essayé de donner à mes produits un peu de sens et d'énergie. Mais même quand j'ai donné le meilleur de moi-même, c'était absurde.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Philippe_Starck"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Philippe%20Starck"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Design"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Internet: please stop making everything with video tutorials. I can read faster than you can talk.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/jvdgoot/status/481708625082474496"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Internet"/>
