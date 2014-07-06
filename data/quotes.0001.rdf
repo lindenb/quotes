@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Aucun homme normal n'irait jamais à la chasse aux lapins pour son plaisir, s'il devait tuer le gibier avec ses dents et ses ongles.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Mod%C3%A8le:Citation_du_jour/6_juillet_2014"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Konrad%20Lorenz"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hunting"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Rabbit"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Human%20condition"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">La jeunesse sait ce qu’elle ne veut pas avant de savoir ce qu’elle veut.</q:quote>
 		<dc:source rdf:resource="http://evene.lefigaro.fr/citations"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Jean%20Cocteau"/>
