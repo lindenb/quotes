@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">How to stop a social network manipulating you in 3 easy steps! 
+1. Delete your account 
+2.
+3.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/PunDMT/status/486223223617753088"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Social%20network"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Login"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Please eliminate 'We believe'. This is science. Nobody cares what you believe</q:quote>
 		<dc:source rdf:resource="https://twitter.com/stuartcantrill/status/486069779015680001"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Peer%20review"/>
