@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">doing things you don't enjoy with the time you don't have is not much better than buying stuff you don't need with the money you don't have</q:quote>
+		<dc:source rdf:resource="https://twitter.com/sclopit/status/486395306461126656"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Debt"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Passion%20(emotion)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Nostalgia isn't what it used to be.</q:quote>
 		<dc:source rdf:resource="http://www.brainyquote.com/quotes/quotes/p/peterdevri136826.html"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Peter%20De%20Vries"/>
