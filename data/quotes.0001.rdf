@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Le code pénal est ce qui empêche les pauvres de voler les riches et le code Civil ce qui permet aux riches de voler les pauvres.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Emmanuel_Carr%C3%A8re"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Emmanuel%20Carr%C3%A8re"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Criminal%20law"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Civil%20law%20(common%20law)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Poverty"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Wealth"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Most scientists think of programming as a tax they have to pay in order to do science</q:quote>
 		<dc:source rdf:resource="https://twitter.com/EvanBianco/status/487238776800817153"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
