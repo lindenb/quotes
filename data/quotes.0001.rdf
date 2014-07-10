@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I hope you're all Republican.</q:quote>
+		<dc:source rdf:resource="https://en.wikiquote.org/wiki/Ronald_Reagan"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Ronald%20Reagan"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Republican%20Party%20(United%20States)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Surgery"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Reagan%20assassination%20attempt"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">That is the marvel of true art, that no one has yet found a way to commercialize it.</q:quote>
 		<dc:source rdf:resource="https://en.wikiquote.org/wiki/Alejandro_Jodorowsky"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Alexandro%20Jodorowsky"/>
