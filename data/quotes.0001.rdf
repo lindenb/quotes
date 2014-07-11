@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Some people aspire to read Ulysses, War and Peace, Moby Dick. Me? I hope to someday reach the end of the GNU find man page.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/slyphon/status/487385527193042944"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Find"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ulysses"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/War%20and%20Peace"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Moby-Dick"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Reading%20(process)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Man%20page"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Le code pénal est ce qui empêche les pauvres de voler les riches et le code Civil ce qui permet aux riches de voler les pauvres.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Emmanuel_Carr%C3%A8re"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Emmanuel%20Carr%C3%A8re"/>
