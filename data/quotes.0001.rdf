@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Courage is not the absence of fear, but rather the judgement that something is more important than your fear</q:quote>
+		<dc:source rdf:resource="https://twitter.com/marshallbooks/status/488452468154437632"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Ambrose%20Redmoon"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Courage"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fear"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Some people aspire to read Ulysses, War and Peace, Moby Dick. Me? I hope to someday reach the end of the GNU find man page.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/slyphon/status/487385527193042944"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Find"/>
