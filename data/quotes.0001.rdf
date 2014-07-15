@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Arguing with an Engineer is a lot like wrestling in the mud with a pig: After a few hours, you realize the pig likes it.</q:quote>
+		<dc:source rdf:resource="http://engineering_jokes.webs.com/jokes2.htm"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Engineer"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Argument"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pig"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Happiness"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Wrestling"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Quand je pense à tous ces cons qui sont sortis faire la Révolution en 1789 alors que nous on peut écrire des statuts Facebook engagés.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/pierrot_yap/status/488634193401118720"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Facebook"/>
