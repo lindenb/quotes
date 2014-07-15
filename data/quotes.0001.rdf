@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Quand je pense à tous ces cons qui sont sortis faire la Révolution en 1789 alors que nous on peut écrire des statuts Facebook engagés.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/pierrot_yap/status/488634193401118720"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Facebook"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/French%20Revolution"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Courage is not the absence of fear, but rather the judgement that something is more important than your fear</q:quote>
 		<dc:source rdf:resource="https://twitter.com/marshallbooks/status/488452468154437632"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Ambrose%20Redmoon"/>
