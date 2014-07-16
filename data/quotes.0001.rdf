@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Tab: A metric for how difficult a problem is to solve, counted by the number of browser tabs open when complete. eg: "A 19 tab problem."</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Grathio/status/484821422296924160"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Tab%20(GUI)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Computational%20complexity%20theory"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Web%20browser"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Douter de tout ou tout croire, ce sont deux solutions également commodes, qui l'une et l'autre nous dispensent de réfléchir</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Henri_Poincar%C3%A9"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Henri%20Poincar%C3%A9"/>
