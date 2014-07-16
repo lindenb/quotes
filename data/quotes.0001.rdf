@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Douter de tout ou tout croire, ce sont deux solutions également commodes, qui l'une et l'autre nous dispensent de réfléchir</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Henri_Poincar%C3%A9"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Henri%20Poincar%C3%A9"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Doubt"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Belief"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Knowledge"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Critical%20thinking"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Arguing with an Engineer is a lot like wrestling in the mud with a pig: After a few hours, you realize the pig likes it.</q:quote>
 		<dc:source rdf:resource="http://engineering_jokes.webs.com/jokes2.htm"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Engineer"/>
