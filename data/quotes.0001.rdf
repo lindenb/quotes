@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">We are lonesome animals. We spend all our life trying to be less lonesome.</q:quote>
+		<dc:source rdf:resource="https://en.wikiquote.org/wiki/John_Steinbeck"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/John%20Steinbeck"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Animal"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Solitude"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Human%20condition"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Tab: A metric for how difficult a problem is to solve, counted by the number of browser tabs open when complete. eg: "A 19 tab problem."</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Grathio/status/484821422296924160"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Tab%20(GUI)"/>
