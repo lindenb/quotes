@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I have lost control of the situation.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/TheTweetOfGod/status/489862399264952320"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/God"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Malaysia%20Airlines%20Flight%2017"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Operation%20Protective%20Edge"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Ideas are like rabbits. You get a couple and learn how to handle them, and pretty soon you have a dozen.</q:quote>
 		<dc:source rdf:resource="https://en.wikiquote.org/wiki/John_Steinbeck"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/John%20Steinbeck"/>
