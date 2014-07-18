@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Quand l'ordre est l'injustice, le désordre est déjà un commencement de justice.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Romain_Rolland"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Romain%20Rolland"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Justice"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Civil%20disobedience"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I have lost control of the situation.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/TheTweetOfGod/status/489862399264952320"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/God"/>
