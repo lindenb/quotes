@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">L'esprit est un tableau noir. L'alcool, la brosse à effacer.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Alcool"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Stephen%20King"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Alcohol"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Brush"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Blackboard"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Recall%20(memory)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Créer, c'est tuer la mort.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Romain_Rolland"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Romain%20Rolland"/>
