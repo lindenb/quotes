@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Naming your kid's first pet is such a responsibility now it's a security question. I'm tempted to call the cat "Password".</q:quote>
+		<dc:source rdf:resource="https://twitter.com/davidschneider/status/429555448594071552"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pet"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cat"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Internet%20security"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Password"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">L'esprit est un tableau noir. L'alcool, la brosse à effacer.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Alcool"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Stephen%20King"/>
