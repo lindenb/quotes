@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">How do I become a billionaire computer programmer? Step 1) get a billion dollars Step 2) learn to code</q:quote>
+		<dc:source rdf:resource="https://twitter.com/softmodeling/status/493696398458880000"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Billionaire"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programmer"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Naming your kid's first pet is such a responsibility now it's a security question. I'm tempted to call the cat "Password".</q:quote>
 		<dc:source rdf:resource="https://twitter.com/davidschneider/status/429555448594071552"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pet"/>
