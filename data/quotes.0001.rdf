@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Les adultes ne peuvent pas faire plus beau cadeau aux enfants que de les oublier.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Cadeau"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Am%C3%A9lie%20Nothomb"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Adult"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Childhood"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Memory"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Gift"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">La tolérance sans dialogue est un euphémisme pour l'indifférence.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Mikl%C3%B3s_Cseszneky_de_Milv%C3%A1ny_et_Csesznek"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Mikl%C3%B3s%20Cseszneky%20de%20Milv%C3%A1ny"/>
