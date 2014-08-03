@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Donnez-moi quarante trous du cul et je vous fais une Académie française.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Georges_Clemenceau"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/George%20Clemenceau"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Acad%C3%A9mie%20fran%C3%A7aise"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Asshole"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Les adultes ne peuvent pas faire plus beau cadeau aux enfants que de les oublier.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Cadeau"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Am%C3%A9lie%20Nothomb"/>
