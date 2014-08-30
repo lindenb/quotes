@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Merveilleux, le cinéma. On voit des femmes, elles ont des robes ; elles font du cinéma, crac on voit leurs culs.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Le_M%C3%A9pris"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Jean-Luc%20Godard"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Woman"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cinema%20of%20France"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Dress"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nudity%20in%20film"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Je ne me suis jamais privé de donner mon temps aux sciences
 Par la science j'ai dénoué les quelques noeuds d'obscurs secrets
 Après soixante-douze années de réflexion sans jour de trêve
