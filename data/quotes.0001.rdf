@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Nothing is as effective as homeopathy.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/serafinowicz/status/501673237508804608"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Homeopathy"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Merveilleux, le cinéma. On voit des femmes, elles ont des robes ; elles font du cinéma, crac on voit leurs culs.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Le_M%C3%A9pris"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Jean-Luc%20Godard"/>
