@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">La science du beau est une drôlerie inventée par les philosophes pour la plus grande hilarité des artistes.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/%C3%89mile_Zola"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/%C3%89mile%20Zola"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Aesthetics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Art"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Philosophy"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Je ne crois pas en Dieu, mais j'ai le sens de l'infini.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Robert_Desnos"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Robert%20Desnos"/>
