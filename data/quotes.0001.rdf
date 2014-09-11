@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Dans le domaine du moindre risque, je ne vois que le bilboquet ou le cerceau.</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Le_Clan_des_Siciliens"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Le%20clan%20des%20siciliens"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cup-and-ball"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hula%20hoop"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">La science du beau est une drôlerie inventée par les philosophes pour la plus grande hilarité des artistes.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/%C3%89mile_Zola"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/%C3%89mile%20Zola"/>
