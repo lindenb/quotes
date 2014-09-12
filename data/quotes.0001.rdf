@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">L'enfant attendit, ordonnant ses pensées, avec tous ses pouvoirs encore inutilisés. Il était maintenant maître du monde, et il n'était pas très sûr de ce qu'il allait faire ensuite. Mais il lui viendrait bien une idée</q:quote>
+		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/2001_:_l%27odyss%C3%A9e_de_l%27espace_(livre)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Arthur%20C.%20Clarke"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/2001:%20A%20Space%20Odyssey"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Deity"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Dans le domaine du moindre risque, je ne vois que le bilboquet ou le cerceau.</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/Le_Clan_des_Siciliens"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Le%20clan%20des%20siciliens"/>
