@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">1. It is not My desire that you behead humanitarian workers. 2. I can't fucking believe I need to say that.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/TheTweetOfGod/status/510975203883495424"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/God"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Humanitarian%20aid"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Decapitation"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Islamic%20State%20of%20Iraq%20and%20the%20Levant"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">L'enfant attendit, ordonnant ses pensées, avec tous ses pouvoirs encore inutilisés. Il était maintenant maître du monde, et il n'était pas très sûr de ce qu'il allait faire ensuite. Mais il lui viendrait bien une idée</q:quote>
 		<dc:source rdf:resource="https://fr.wikiquote.org/wiki/2001_:_l%27odyss%C3%A9e_de_l%27espace_(livre)"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Arthur%20C.%20Clarke"/>
