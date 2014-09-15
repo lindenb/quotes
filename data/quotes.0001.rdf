@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Il ne s’agit pas de dire que la science est devenue tricheuse, mais de reconnaître que, dans un monde où la compétition  tend à prendre la place sur le savoir, les dérives deviennent inévitables. Les institutions doivent le reconnaître et y faire face.</q:quote>
+		<dc:source rdf:resource="https://lejournal.cnrs.fr/billets/osons-parler-de-la-fraude-scientifique"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Scientific%20fraud"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Competition"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">1. It is not My desire that you behead humanitarian workers. 2. I can't fucking believe I need to say that.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/TheTweetOfGod/status/510975203883495424"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/God"/>
