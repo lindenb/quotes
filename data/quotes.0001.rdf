@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">"The first draft of anything is shit" -- Ernest Hemingway
+In related news, I write like Hemingway.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/iddux/status/512343875978289152"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Writing"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ernest%20Hemingway"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Draft%20document"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">The amount of nonsense packed into the term "BigData" doubles approximately every two years</q:quote>
 		<dc:source rdf:resource="https://twitter.com/mikepluta/status/502878691740090369"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Big%20data"/>
