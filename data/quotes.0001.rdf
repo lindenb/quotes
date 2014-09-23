@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I do no believe the scientists because it is their profession, not their hobby</q:quote>
+		<dc:source rdf:resource="https://twitter.com/shawnmilrad/status/514496679048118272"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Climate%20change"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Denial"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Most people have more than the average number of legs</q:quote>
 		<dc:source rdf:resource="http://sven.soup.io/post/98583261/most-people-have-more-than-the-average"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Hans%20Rosling"/>
