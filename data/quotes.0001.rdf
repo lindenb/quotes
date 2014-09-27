@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Un geek ne s'ennuie pas, il se fichier.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/DirectorELB/status/506353237948002304"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Geek"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Boredom"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Computer_file"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I do no believe the scientists because it is their profession, not their hobby</q:quote>
 		<dc:source rdf:resource="https://twitter.com/shawnmilrad/status/514496679048118272"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Climate%20change"/>
