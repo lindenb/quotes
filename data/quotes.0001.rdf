@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Okay guys, it’s been great but I think I’m gonna take a break from twitter &amp; check out Facebook for a while.
+Will be back
+
+I’m back</q:quote>
+		<dc:source rdf:resource="https://twitter.com/secularbloke/status/516186397850353664"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Facebook"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Un geek ne s'ennuie pas, il se fichier.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/DirectorELB/status/506353237948002304"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Geek"/>
