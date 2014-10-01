@@ -6,7 +6,12 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
-	
+	<q:Quote>
+		<q:quote xml:lang="en">"data science" is staring at a CSV file from nobody-knows-where, wondering what the heck "age_f_med" or "race_tot_2" mean.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/aphyr/status/517410661001748482"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Data%20science"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Comma-separated%20values"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="fr">Si ce pays était un peu drôle, après les sirènes du premier mercredi du mois des haut-parleurs diffuseraient des rugissements de dinosaure.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/517256325114634241"/>
