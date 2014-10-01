@@ -6,6 +6,15 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+	
+	<q:Quote>
+		<q:quote xml:lang="fr">Si ce pays était un peu drôle, après les sirènes du premier mercredi du mois des haut-parleurs diffuseraient des rugissements de dinosaure.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/517256325114634241"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emergency%20population%20warning"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Civil%20defense%20siren"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Dinosaur"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Boulet%20(comics)"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="en">Okay guys, it’s been great but I think I’m gonna take a break from twitter &amp; check out Facebook for a while.
 Will be back
