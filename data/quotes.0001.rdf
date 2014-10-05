@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Some fat kid just prayed for an X box. I gave him diabetes instead, LOL</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Jesusontwittorr/status/518764469921775616"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Obesity"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Xbox%20(console)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Diabetes%20mellitus"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Prayer"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Procaffeinating: The tendency to not start anything until you have had enough coffee.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/fishmark/status/511529209110724608"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Coffee"/>
