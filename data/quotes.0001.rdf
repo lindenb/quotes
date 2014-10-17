@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Tout le monde veut sauver la planète, mais personne ne veut descendre les poubelles.</q:quote>
+		<dc:source rdf:resource="http://jolouvet.free.fr/fichiers/recueil/images/yanne.htm"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Jean%20Yanne"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ecology"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bin%20bag"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Some fat kid just prayed for an X box. I gave him diabetes instead, LOL</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Jesusontwittorr/status/518764469921775616"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Obesity"/>
