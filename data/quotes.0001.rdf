@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">To a biologist, big data is whatever doesn't fit in excel</q:quote>
+		<dc:source rdf:resource="https://twitter.com/B_ologist/status/523861346698280960"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Big%20data"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Microsoft%20Excel"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Biologist"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Tout le monde veut sauver la planète, mais personne ne veut descendre les poubelles.</q:quote>
 		<dc:source rdf:resource="http://jolouvet.free.fr/fichiers/recueil/images/yanne.htm"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Jean%20Yanne"/>
