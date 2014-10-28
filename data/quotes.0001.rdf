@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Un enfant qui lit, c'est un candidat de télé-réalité qui meurt</q:quote>
+		<dc:source rdf:resource="https://twitter.com/JessicaLymae/status/527130706829668352"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Reality%20television"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Child"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Reading%20(process)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">To a biologist, big data is whatever doesn't fit in excel</q:quote>
 		<dc:source rdf:resource="https://twitter.com/B_ologist/status/523861346698280960"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Big%20data"/>
