@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">"Des CE2 qui disent des conneries en espérant que les CP les répètent et que les CM2 les remarquent." J'ai expliqué Twitter à mon fils...</q:quote>
+		<dc:source rdf:resource="https://twitter.com/DrStrangeLOL/status/430118570908192768"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Education%20in%20France"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Un enfant qui lit, c'est un candidat de télé-réalité qui meurt</q:quote>
 		<dc:source rdf:resource="https://twitter.com/JessicaLymae/status/527130706829668352"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Reality%20television"/>
