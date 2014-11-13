@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Rosetta, c'est l'anti-Twitter</q:quote>
+		<dc:source rdf:resource="http://www.arretsurimages.net/breves/2014-11-13/Quand-Rosetta-et-Philae-colonisent-les-medias-id18196"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Rosetta%20(spacecraft)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Patience"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">"Des CE2 qui disent des conneries en espérant que les CP les répètent et que les CM2 les remarquent." J'ai expliqué Twitter à mon fils...</q:quote>
 		<dc:source rdf:resource="https://twitter.com/DrStrangeLOL/status/430118570908192768"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
