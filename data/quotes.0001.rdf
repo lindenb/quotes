@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Founder &amp; CEO of [website I made over the weekend]”</q:quote>
+		<dc:source rdf:resource="https://twitter.com/iamdevloper/status/534376878870921216"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Chief%20executive%20officer"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Entrepreneurship"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Website"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Retenez ce théorème: dans tout domaine scientifique, quelqu'un finit par essayer le machine learning et publier "c'est cool".</q:quote>
 		<dc:source rdf:resource="https://twitter.com/dmonniaux/status/533948886935556098"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
