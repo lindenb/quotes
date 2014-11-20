@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Prerequisites for academic writing: 1. A deadline.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/AcademicsSay/status/535393144582701056"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Deadline"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Time%20limit"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academic%20writing"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Founder &amp; CEO of [website I made over the weekend]”</q:quote>
 		<dc:source rdf:resource="https://twitter.com/iamdevloper/status/534376878870921216"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Chief%20executive%20officer"/>
