@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Never trust a man with an empty browser history</q:quote>
+		<dc:source rdf:resource="https://twitter.com/davidwalshblog/status/535608920908115968"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Web%20browsing%20history"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Anonymity"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Trust%20(social%20sciences)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Prerequisites for academic writing: 1. A deadline.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/AcademicsSay/status/535393144582701056"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Deadline"/>
