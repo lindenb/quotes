@@ -7,6 +7,17 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Some people, confronted with a problem, think "I know, I'll use branches."
+&lt;&lt;&lt;
+Now you have 2 problems.
+===
+Now you have 2 problems.
+&gt;&gt;&gt;</q:quote>
+		<dc:source rdf:resource="https://twitter.com/tattlemuss/status/538318484539998209"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Git%20(software)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Branching%20(revision%20control)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I've been using Vim for about 2 years now, mostly because I can't figure out how to exit it</q:quote>
 		<dc:source rdf:resource="https://twitter.com/softmodeling/status/537166951253311489"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vim%20(text%20editor)"/>
