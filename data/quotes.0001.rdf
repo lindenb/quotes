@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">If it moves, sequence it</q:quote>
+		<dc:source rdf:resource="http://thescienceweb.wordpress.com/2014/12/01/90-of-researchers-sequencing-things-because-they-cant-think-of-anything-else-to-do/"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/DNA%20sequencing"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Genomics"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">1. "Hey, here's a great public API! Build something amazing our platform!"
 2. "Whoa, way too amazing. We are shutting down our public API."</q:quote>
 		<dc:source rdf:resource="https://twitter.com/shanselman/status/533348797595021313"/>
