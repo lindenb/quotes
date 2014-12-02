@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">1. "Hey, here's a great public API! Build something amazing our platform!"
+2. "Whoa, way too amazing. We are shutting down our public API."</q:quote>
+		<dc:source rdf:resource="https://twitter.com/shanselman/status/533348797595021313"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Application%20programming%20interface"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Deprecation"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Some people, confronted with a problem, think "I know, I'll use branches."
 &lt;&lt;&lt;
 Now you have 2 problems.
