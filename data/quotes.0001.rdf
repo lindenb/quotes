@@ -7,6 +7,21 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Dans votre bureau, il fait : 
+* moins de 8°
+* 8°
+* 9°
+* 10°
+* 11°
+* 12
+* 13°
+* plus : vous ne travaillez pas dans une université française.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Maitre_de_conf/status/539783506210324480"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/List%20of%20colleges%20and%20universities%20in%20France"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Central%20Heating"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Budget%20of%20France"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">If it moves, sequence it</q:quote>
 		<dc:source rdf:resource="http://thescienceweb.wordpress.com/2014/12/01/90-of-researchers-sequencing-things-because-they-cant-think-of-anything-else-to-do/"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/DNA%20sequencing"/>
