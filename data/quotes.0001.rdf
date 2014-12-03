@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">On ne réagit plus aux sirènes du premier mercredi du mois, alors que c'est précisément à ce moment-là qu'attaquerait un ennemi un peu malin.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/540098829828489216"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emergency%20population%20warning"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Offensive%20(military)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Dans votre bureau, il fait : 
 * moins de 8°
 * 8°
