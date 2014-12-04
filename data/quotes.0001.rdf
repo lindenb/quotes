@@ -7,6 +7,19 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">1) L'incompréhension.
+2) La douleur
+3) Le déni.
+4) La tristesse.
+5) L'acceptation.
+
+ Les 5 phases du réveil.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/FlorianMIYAZAWA/status/539635776573935616"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/K%C3%BCbler-Ross%20model"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Alarm%20clock"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sleep"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">On ne réagit plus aux sirènes du premier mercredi du mois, alors que c'est précisément à ce moment-là qu'attaquerait un ennemi un peu malin.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/540098829828489216"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emergency%20population%20warning"/>
