@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">The world: "We've done it, we have a solution for world hunger", 
+Hacker News: "That's fine, but I see no JSON endpoint, so it's useless".</q:quote>
+		<dc:source rdf:resource="https://twitter.com/iamdevloper/status/540774959220789249"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hunger"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hacker%20News"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Web%20service"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/JSON"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">1) L'incompréhension.
 2) La douleur
 3) Le déni.
