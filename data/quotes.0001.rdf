@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">What is a coder's worst nightmare?
+
+Going to Stackoverflow and seeing someone's post with the exact same question you have been trying to get answered. Posted a year ago with no answers.</q:quote>
+		<dc:source rdf:resource="http://www.quora.com/What-is-a-coders-worst-nightmare"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bug%20(software)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Stackoverflow"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nightmare"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">The world: "We've done it, we have a solution for world hunger", 
 Hacker News: "That's fine, but I see no JSON endpoint, so it's useless".</q:quote>
 		<dc:source rdf:resource="https://twitter.com/iamdevloper/status/540774959220789249"/>
