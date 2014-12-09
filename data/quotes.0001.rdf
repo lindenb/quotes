@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Avant d'apprendre le catéchisme, j'ignorais l'existence du point d'interrogation</q:quote>
+		<dc:source rdf:resource="https://twitter.com/OlivierQuelier/status/542282387485626368"/>
+		<dc:author>Pierre Dumayet</dc:author>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Catechism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Critisism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Question%20mark"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">What is a coder's worst nightmare?
 
 Going to Stackoverflow and seeing someone's post with the exact same question you have been trying to get answered. Posted a year ago with no answers.</q:quote>
