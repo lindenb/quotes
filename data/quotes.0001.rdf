@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">"Does torture work?" needs to be put in the bin with "Is slavery commercially feasible?"</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Nikora79/status/544224079708823552"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Slavery"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Torture"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Commerce"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Avant d'apprendre le catéchisme, j'ignorais l'existence du point d'interrogation</q:quote>
 		<dc:source rdf:resource="https://twitter.com/OlivierQuelier/status/542282387485626368"/>
 		<dc:author>Pierre Dumayet</dc:author>
