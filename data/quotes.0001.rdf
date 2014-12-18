@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Sony's decision to pull THE INTERVIEW is unsettling in so many ways. Good thing they didn't publish THE SATANIC VERSES.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/StephenKing/status/545391851138973696"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Stephen%20King"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/The%20Satanic%20Verses"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sony"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/The%20Interview%20(2014%20film)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/North%20Korea"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Blackmail"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">"Does torture work?" needs to be put in the bin with "Is slavery commercially feasible?"</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Nikora79/status/544224079708823552"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Slavery"/>
