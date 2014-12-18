@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Q. How many humanities professors does it take to change a light bulb. A. Just one, but 700 applied for the job.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/AcademicsSay/status/544819149659459586"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Humanities"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academic"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Unemployment"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Sony's decision to pull THE INTERVIEW is unsettling in so many ways. Good thing they didn't publish THE SATANIC VERSES.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/StephenKing/status/545391851138973696"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Stephen%20King"/>
