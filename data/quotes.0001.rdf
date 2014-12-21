@@ -6,6 +6,22 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+	
+	<q:Quote>
+		<q:quote xml:lang="en">* Be open-minded and be willing to alter your beliefs with new evidence.
+* Strive to understand what is most likely to be true, not to believe what you wish to be true.
+* The scientific method is the most reliable way of understanding the natural world.
+* Every person has the right to control over their body.
+* God is not necessary to be a good person or to live a full and meaningful life.
+* Be mindful of the consequences of all your actions and recognize that you must take responsibility for them.
+* Treat others as you would want them to treat you, and can reasonably expect them to want to be treated. Think about their perspective.
+* We have the responsibility to consider others, including future generations.
+* There is no one right way to live.
+* Leave the world a better place than you found it.</q:quote>
+		<dc:source rdf:resource="http://www.inquisitr.com/1692212/atheists-rewrite-ten-commandments-mythbusters-adam-savage-judged-new-commands/"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ten%20Commandments"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Atheism"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="en">Q. How many humanities professors does it take to change a light bulb. A. Just one, but 700 applied for the job.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/AcademicsSay/status/544819149659459586"/>
