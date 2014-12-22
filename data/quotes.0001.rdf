@@ -6,7 +6,15 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
-	
+	<q:Quote>
+		<q:quote xml:lang="en">"Athiests shouldn't share our christian holiday. Just work instead" &lt; Haha. &amp; you shouldn't share our medical research. Just pray instead.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/rickygervais/status/546788717936271360"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Atheism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Holiday"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Christmas"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Prayer"/>
+	</q:Quote>	
 	<q:Quote>
 		<q:quote xml:lang="en">* Be open-minded and be willing to alter your beliefs with new evidence.
 * Strive to understand what is most likely to be true, not to believe what you wish to be true.
