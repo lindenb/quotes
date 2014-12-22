@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">To prevent conversation from being boring, say the wrong thing</q:quote>
+		<dc:source rdf:resource="https://twitter.com/TheBrowser/status/546956704102232064"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Frank%20Sheed"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Conversation"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Boredom"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">"Athiests shouldn't share our christian holiday. Just work instead" &lt; Haha. &amp; you shouldn't share our medical research. Just pray instead.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/rickygervais/status/546788717936271360"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Atheism"/>
