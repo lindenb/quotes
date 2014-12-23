@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">What doesn’t kill you makes you smaller</q:quote>
+		<dc:source rdf:resource="https://twitter.com/BiIIMurray/status/547461937697935360"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mario%20Bros."/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nietzsche"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Il est doux, quand la vaste mer est troublée par les vents, de contempler du rivage la détresse d’un autre ; non qu’on se plaise à voir souffrir, mais par la douceur de sentir de quels maux on est exempt. Il est doux encore d’assister aux grandes luttes de la guerre se développant dans les plaines, sans prendre sa part du danger. Mais il n’est rien de plus doux que d’habiter ces sommets élevés et sereins, ces forts construits par la doctrine des sages, d’où l’on peut apercevoir au loin le reste des hommes égarés dans les routes de la vie, y luttant de génie, y contestant de noblesse, s’épuisant en efforts et le jour et la nuit, surnageant enfin pour saisir la fortune et la puissance. Ô malheureuses pensées des humains ! esprits aveugles !</q:quote>
 		<dc:source rdf:resource="http://www.notesdumontroyal.com/note/190"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Lucretius"/>
