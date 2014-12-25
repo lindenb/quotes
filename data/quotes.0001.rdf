@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">By our measure, the half life of a remote controlled helicopter is 9 seconds.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/aaronquinlan/status/548137648054099969"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Half-life"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Christmas"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Helicopter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Toy"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">What doesn’t kill you makes you smaller</q:quote>
 		<dc:source rdf:resource="https://twitter.com/BiIIMurray/status/547461937697935360"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mario%20Bros."/>
