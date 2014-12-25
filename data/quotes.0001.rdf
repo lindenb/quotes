@@ -7,7 +7,7 @@
 	xml:lang="en"
 	>
 	<q:Quote>
-		<q:quote xml:lang="en">Skype ou la plaie des repas familiaux.</q:quote>
+		<q:quote xml:lang="fr">Skype ou la plaie des repas familiaux.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/mathgon/status/548152201240412160"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Skype"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Christmas"/>
