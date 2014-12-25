@@ -22,7 +22,7 @@
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Toy"/>
 	</q:Quote>
 	<q:Quote>
-		<q:quote xml:lang="en">What doesn’t kill you makes you smaller</q:quote>
+		<q:quote xml:lang="en">What doesn’t kill you makes you smaller [Mario]</q:quote>
 		<dc:source rdf:resource="https://twitter.com/BiIIMurray/status/547461937697935360"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mario%20Bros."/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nietzsche"/>
