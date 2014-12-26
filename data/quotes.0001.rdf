@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Pour trouver le mâle alpha dans une pièce avec cheminée: c'est celui qui se lève dès que vous avez mis une bûche pour la réajuster de 3mm.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/548565924421578754"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Alpha%20(ethology)"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Boulet%20(comics)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fireplace"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Skype ou la plaie des repas familiaux.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/mathgon/status/548152201240412160"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Skype"/>
