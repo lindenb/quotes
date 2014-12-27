@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">At 6y/o my software development training began when my dog went missing &amp; I followed his tracks 5mi into the woods. He was in the garage.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/RebeccaSlatkin/status/547524364422610944"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Software%20development"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Software%20bug"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Debugging"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Dog"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Pour trouver le mâle alpha dans une pièce avec cheminée: c'est celui qui se lève dès que vous avez mis une bûche pour la réajuster de 3mm.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/548565924421578754"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Alpha%20(ethology)"/>
