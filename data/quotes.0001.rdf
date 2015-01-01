@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">je ne pense pas que ce soit le rôle d'un gouvernement de décider qui est honorable</q:quote>
+		<dc:source rdf:resource="http://www.lemonde.fr/culture/article/2015/01/01/l-economiste-thomas-piketty-refuse-la-legion-d-honneur_4548309_3246.html#1FgFZt8WCfyjPOqC.99"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Thomas%20Piketty"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Legion%20of%20Honour"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nation"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">c’est le jour où t’as plein de SMS de gens qui croient qu’à voir leur numéro tu sauras leur nom</q:quote>
 		<dc:source rdf:resource="https://twitter.com/fbon/status/550566161080123392"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Short%20Message%20Service"/>
