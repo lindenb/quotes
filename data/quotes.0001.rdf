@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">c’est le jour où t’as plein de SMS de gens qui croient qu’à voir leur numéro tu sauras leur nom</q:quote>
+		<dc:source rdf:resource="https://twitter.com/fbon/status/550566161080123392"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Short%20Message%20Service"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Signature"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/New%20Year's%20Day"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">At 6y/o my software development training began when my dog went missing &amp; I followed his tracks 5mi into the woods. He was in the garage.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/RebeccaSlatkin/status/547524364422610944"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Software%20development"/>
