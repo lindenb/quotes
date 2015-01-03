@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">You should be required to read a book for every 10 selfies you take.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/ozchrisrock/status/550613896038719488"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Selfie"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Chris%20Rock"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Reading%20(process)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">je ne pense pas que ce soit le rôle d'un gouvernement de décider qui est honorable</q:quote>
 		<dc:source rdf:resource="http://www.lemonde.fr/culture/article/2015/01/01/l-economiste-thomas-piketty-refuse-la-legion-d-honneur_4548309_3246.html#1FgFZt8WCfyjPOqC.99"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Thomas%20Piketty"/>
