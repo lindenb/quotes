@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">DNA is a history of all the life on the planet that led us to this point</q:quote>
+		<dc:source rdf:resource="https://twitter.com/23andMe/status/551376468194754562"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/DNA"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Evolutionary%20history%20of%20life"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">You should be required to read a book for every 10 selfies you take.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/ozchrisrock/status/550613896038719488"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Selfie"/>
