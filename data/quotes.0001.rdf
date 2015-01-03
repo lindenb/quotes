@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Gutenberg n'a pas attendu le développement du marché du livre pour inventer l'imprimerie.</q:quote>
+		<dc:source rdf:resource="http://www.dicocitations.com/citations/citation-58215.php"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Nicole%20Notat"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Johannes%20Gutenberg"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Printing"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Market%20research"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">DNA is a history of all the life on the planet that led us to this point</q:quote>
 		<dc:source rdf:resource="https://twitter.com/23andMe/status/551376468194754562"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/DNA"/>
