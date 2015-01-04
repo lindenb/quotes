@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">"Yeah, it was fine, thanks". 
+"Yeah, it was fine, thanks". 
+"Yeah, it was fine, thanks".
+Just practising for when I go back to work tomorrow.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/casioroee/status/551778219297619969"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/New%20Year's%20Day"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vacation"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Workplace%20relationships"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Gutenberg n'a pas attendu le développement du marché du livre pour inventer l'imprimerie.</q:quote>
 		<dc:source rdf:resource="http://www.dicocitations.com/citations/citation-58215.php"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Nicole%20Notat"/>
