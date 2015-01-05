@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Si vous ne voulez pas passer pour taré, il est conseillé de ne pas utiliser du gras souligné majuscule dans vos courriels.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/TotoroInParis/status/552095922344448000"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Etiquette%20in%20technology"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Email"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Font"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Insanity"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">"Yeah, it was fine, thanks". 
 "Yeah, it was fine, thanks". 
 "Yeah, it was fine, thanks".
