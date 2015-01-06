@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Smoking is one of the leading causes of statistics</q:quote>
+		<dc:source rdf:resource="https://twitter.com/moorejh/status/552506154916409345"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Smoking"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Statistics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fletcher%20Knebel"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Si vous ne voulez pas passer pour taré, il est conseillé de ne pas utiliser du gras souligné majuscule dans vos courriels.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/TotoroInParis/status/552095922344448000"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Etiquette%20in%20technology"/>
