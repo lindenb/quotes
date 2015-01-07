@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">e ne vais jamais aux conférences de rédaction, ça m'a sauvé la vie</q:quote>
+		<dc:source rdf:resource="http://www.liberation.fr/video/2015/01/07/willem-je-ne-vais-jamais-aux-conferences-de-redaction-ca-m-a-sauve-la-vie_1175897"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Willem%20(cartoonist)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Charlie%20Hebdo%20shooting"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Editorial%20board"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Terrorism"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Ne craignez jamais de vous faire des ennemis; si vous n'en avez pas, c'est que vous n'avez rien fait.</q:quote>
 		<dc:source rdf:resource="http://www.dicocitations.com/citations/citation-43719.php"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/George%20Clemenceau"/>
