@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Ne craignez jamais de vous faire des ennemis; si vous n'en avez pas, c'est que vous n'avez rien fait.</q:quote>
+		<dc:source rdf:resource="http://www.dicocitations.com/citations/citation-43719.php"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/George%20Clemenceau"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Enemy"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Smoking is one of the leading causes of statistics</q:quote>
 		<dc:source rdf:resource="https://twitter.com/moorejh/status/552506154916409345"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Smoking"/>
