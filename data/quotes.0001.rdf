@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Un homme avec un fusil est plus fort que 10 hommes avec un crayon; un homme avec un crayon est plus fort que 10000 hommes avec des fusils.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/bernardpivot1/status/553081286970343424"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Terrorism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Charlie%20Hebdo%20shooting"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cartoonist"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">e ne vais jamais aux conférences de rédaction, ça m'a sauvé la vie</q:quote>
 		<dc:source rdf:resource="http://www.liberation.fr/video/2015/01/07/willem-je-ne-vais-jamais-aux-conferences-de-redaction-ca-m-a-sauve-la-vie_1175897"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Willem%20(cartoonist)"/>
