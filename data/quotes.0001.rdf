@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Mort aux cons et quel gâchis</q:quote>
+		<dc:source rdf:resource="https://twitter.com/PatrickPelloux/status/553599217072353280"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Charlie%20Hebdo%20shooting"/>
+		<dc:author rdf:resource="https://fr.wikipedia.org/wiki/Patrick_Pelloux"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Rappelez vous le temps béni où une prise d'otage consistait à attendre son train.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/legrugru/status/553540819106660352"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Charlie%20Hebdo%20shooting"/>
