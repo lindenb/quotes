@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Rappelez vous le temps béni où une prise d'otage consistait à attendre son train.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/legrugru/status/553540819106660352"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Charlie%20Hebdo%20shooting"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hostage%20crisis"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Strike%20action"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/France"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Un homme avec un fusil est plus fort que 10 hommes avec un crayon; un homme avec un crayon est plus fort que 10000 hommes avec des fusils.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/bernardpivot1/status/553081286970343424"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Terrorism"/>
