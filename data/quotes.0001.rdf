@@ -12,6 +12,7 @@
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Georges%20Wolinski"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Charlie%20Hebdo%20shooting"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Murder"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/France"/>
 	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="fr">Mort aux cons et quel gâchis</q:quote>
