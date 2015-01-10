@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Le lâche attentat est devenu l'arme secrète des croyants. C'est étrange. Avez-vous remarqué que les athées tuent assez peu? Les athées posent rarement des bombes devant les lieux de culte. Seule la foi donne suffisamment de couilles au fanatique de base pur égorger, mutiler, violer, exterminer les voisins ou se faire sauter avec une voiture piégée. L'athée de base n'a pas le goût du martyre. Il lit Charlie-Hebdo. Et il évite de passer en vélo devant l'ambassade américaine.</q:quote>
+		<dc:source rdf:resource="http://www.paperblog.fr/7444054/quelques-livres-des-charlie/"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Georges%20Wolinski"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Charlie%20Hebdo%20shooting"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Atheism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Terrorism"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="frn">En France on ne tue pas pour des idées' à part quelques connards</q:quote>
 		<dc:source rdf:resource="https://twitter.com/chabadentrar/status/553837296852959233"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Georges%20Wolinski"/>
