@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Dieudonné: évitez les amalgames j'ai plein d'amis terroristes, ils sont pas musulmans</q:quote>
+		<dc:source rdf:resource="https://twitter.com/BondoisF/status/554398953031352323"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Charlie%20Hebdo%20shooting"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Dieudonn%C3%A9%20M'bala%20M'bala"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Terrorism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Muslim"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mental%20confusion"/>
+		<dc:author rdf:resource="https://fr.wikipedia.org/wiki/G%C3%A9rald_Dahan"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">J'ai comparé les photos du rassemblement avec les images des 2 millions de la Manifpourtous. D'après la règle de 3 nous étions 12 milliards.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/policedutweet/status/554334830092353536"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Charlie%20Hebdo%20shooting"/>
