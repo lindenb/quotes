@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">J'ai comparé les photos du rassemblement avec les images des 2 millions de la Manifpourtous. D'après la règle de 3 nous étions 12 milliards.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/policedutweet/status/554334830092353536"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Charlie%20Hebdo%20shooting"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cross-multiplication"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Demonstration%20(protest)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Homophobia"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Ha non, Framboisier c'était Club Dorothée, Cabu c'était récréA2! Pas d'amalgame!</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/554314590633607168"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jean%20Cabut"/>
