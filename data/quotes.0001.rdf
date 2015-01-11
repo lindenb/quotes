@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Ha non, Framboisier c'était Club Dorothée, Cabu c'était récréA2! Pas d'amalgame!</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/554314590633607168"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jean%20Cabut"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Charlie%20Hebdo%20shooting"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Doroth%C3%A9e"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Television"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Erdogan, Bongo et Lavrov qui marchent pour la liberté d'expression. Normalement, Christine Boutin sera sur un char à la prochaine Gay Pride.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/LANDEYves/status/554257585948618753"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sergey%20Lavrov"/>
