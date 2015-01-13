@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Le Soldat inconnu: " Je m'appelle Charlie ".</q:quote>
+		<dc:source rdf:resource="https://twitter.com/bernardpivot1/status/554939054241120256"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Tomb%20of%20the%20Unknown%20Soldier"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Bernard%20Pivot"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Charlie%20Hebdo%20shooting"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Dieudonné: évitez les amalgames j'ai plein d'amis terroristes, ils sont pas musulmans</q:quote>
 		<dc:source rdf:resource="https://twitter.com/BondoisF/status/554398953031352323"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Charlie%20Hebdo%20shooting"/>
