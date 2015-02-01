@@ -6,4 +6,10 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+	<q:Quote>
+		<q:quote xml:lang="en">Let's face it; when we hear about an act of terrorism no one's thinking "here we go, the fucking atheists are at it again".</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Whoozley/status/561861025495265280"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ateism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Terrorism"/>
+	</q:Quote>
 </rdf:RDF>
