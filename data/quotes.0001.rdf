@@ -7,6 +7,17 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Dieu a créé le monde en 6 jours. Le septième jour Il a lu les commentaires, alors il a créé les maladies, OneDirection, la guerre &amp; l'enfer.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/562254732094611456"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/God"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Creationism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Disease"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/One%20Direction"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/War"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hell"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Forum%20spam"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Let's face it; when we hear about an act of terrorism no one's thinking "here we go, the fucking atheists are at it again".</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Whoozley/status/561861025495265280"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ateism"/>
