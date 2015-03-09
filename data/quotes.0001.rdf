@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Les filles nées, hier, pendant la journée des droits des femmes, sont des pléonasmes; les garçons, des oxymores.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/bernardpivot1/status/574810906082832384"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Bernard%20Pivot"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/International%20Women's%20Day"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pleonasm"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Oxymoron"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Woman"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Man"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Dieu a créé le monde en 6 jours. Le septième jour Il a lu les commentaires, alors il a créé les maladies, OneDirection, la guerre &amp; l'enfer.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/562254732094611456"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/God"/>
