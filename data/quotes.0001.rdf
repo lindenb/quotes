@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">"Can we make an synthetic organism that cannot escape the lab?" "We already have one, it's called a post-doc."</q:quote>
+		<dc:source rdf:resource="https://twitter.com/TwelveSharp/status/574922465589264384"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Genetically%20modified%20organism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Laboratory%20safety"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Genetic%20engineering"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Postdoctoral%20researcher"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Les filles nées, hier, pendant la journée des droits des femmes, sont des pléonasmes; les garçons, des oxymores.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/bernardpivot1/status/574810906082832384"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Bernard%20Pivot"/>
