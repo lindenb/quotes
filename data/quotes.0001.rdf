@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Je me demande pourquoi on laisse des amateurs faire des enfants. Il faudrait laisser ça aux professionnels, comme pour la cryptographie.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/dmonniaux/status/579575915627323392"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Child"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Parenting"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Professional"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cryptography"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">"Can we make an synthetic organism that cannot escape the lab?" "We already have one, it's called a post-doc."</q:quote>
 		<dc:source rdf:resource="https://twitter.com/TwelveSharp/status/574922465589264384"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Genetically%20modified%20organism"/>
