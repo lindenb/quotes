@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Sometimes when I'm writing Javascript I want to throw up my hands and say "this is bullshit!" but I can never remember what "this" refers to</q:quote>
+		<dc:source rdf:resource="https://twitter.com/bhalp1/status/578925947245633536"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/JavaScript"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/This%20(computer%20programming)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Every time I want to know more about my visa I feel like Indiana Jones: "We have top men working on that right now - Who? - Top. Men."</q:quote>
 		<dc:source rdf:resource="https://twitter.com/PhilippBayer/status/579789582260109312"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Indiana%20Jones"/>
