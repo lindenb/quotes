@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Every time I want to know more about my visa I feel like Indiana Jones: "We have top men working on that right now - Who? - Top. Men."</q:quote>
+		<dc:source rdf:resource="https://twitter.com/PhilippBayer/status/579789582260109312"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Indiana%20Jones"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Visa%20(document)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bureaucracy"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Je me demande pourquoi on laisse des amateurs faire des enfants. Il faudrait laisser ça aux professionnels, comme pour la cryptographie.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/dmonniaux/status/579575915627323392"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Child"/>
