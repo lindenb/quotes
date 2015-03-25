@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Il y a quatre types idéals: le crétin, l'imbécile, le stupide et le fou. Le normal, c'est le mélange équilibré des quatre</q:quote>
+		<dc:source rdf:resource="https://twitter.com/bernardpivot1/status/580614525097009152"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Umberto%20Eco"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Personality"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Stupidity"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Insanity"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mixture"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Chemical%20equilibrium"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Sometimes when I'm writing Javascript I want to throw up my hands and say "this is bullshit!" but I can never remember what "this" refers to</q:quote>
 		<dc:source rdf:resource="https://twitter.com/bhalp1/status/578925947245633536"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/JavaScript"/>
