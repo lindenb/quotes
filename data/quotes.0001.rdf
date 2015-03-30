@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">The only cure for Impostor Syndrome is reading your colleague's code</q:quote>
+		<dc:source rdf:resource="https://twitter.com/GonzoHacker/status/582548175069687808"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Impostor%20syndrome"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Computer%20programming"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Il y a quatre types idéals: le crétin, l'imbécile, le stupide et le fou. Le normal, c'est le mélange équilibré des quatre</q:quote>
 		<dc:source rdf:resource="https://twitter.com/bernardpivot1/status/580614525097009152"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Umberto%20Eco"/>
