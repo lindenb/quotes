@@ -7,6 +7,19 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">10 missed calls 
+18 text messages
+45 emails
+1 Twitter notification
+
+*opens Twitter*</q:quote>
+		<dc:source rdf:resource="https://twitter.com/0point5twins/status/583183057827577857"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Missed%20call"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Short%20Message%20Service"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Email"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">The only cure for Impostor Syndrome is reading your colleague's code</q:quote>
 		<dc:source rdf:resource="https://twitter.com/GonzoHacker/status/582548175069687808"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Impostor%20syndrome"/>
