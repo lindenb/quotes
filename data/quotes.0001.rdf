@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Have a lovely Easter. And remember, if you don't sin, then Jesus died for nothing.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/rickygervais/status/584724969109774336"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Easter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sin"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">10 missed calls 
 18 text messages
 45 emails
