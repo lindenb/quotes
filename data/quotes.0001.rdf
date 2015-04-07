@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">If you want to change the world don't start by twitting about it.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/RealistComics/status/585502546581663745"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Asaf%20Hanuka"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/World"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Have a lovely Easter. And remember, if you don't sin, then Jesus died for nothing.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/rickygervais/status/584724969109774336"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Easter"/>
