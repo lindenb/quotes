@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Programming languages teach you not to want what they don't provide</q:quote>
+		<dc:source rdf:resource="https://twitter.com/CompSciFact/status/586555596381519872"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programming%20language"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programming%20language%20specification"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">If you want to change the world don't start by twitting about it.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/RealistComics/status/585502546581663745"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Asaf%20Hanuka"/>
