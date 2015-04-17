@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">A. Between 1 and 5.
+Q. How many Bayesians does it take to change a light bulb?
+A. Between 2 and 5.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/hardsci/status/588869483474718720"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bayesian%20probability"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Lamp"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Programming languages teach you not to want what they don't provide</q:quote>
 		<dc:source rdf:resource="https://twitter.com/CompSciFact/status/586555596381519872"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programming%20language"/>
