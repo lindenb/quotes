@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">"Facebook is where we tell lies to our friends / Twitter is where we tell the truth to perfect strangers"</q:quote>
+		<dc:source rdf:resource="https://twitter.com/BBartes/status/589557029905293313"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Facebook"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">A. Between 1 and 5.
 Q. How many Bayesians does it take to change a light bulb?
 A. Between 2 and 5.</q:quote>
