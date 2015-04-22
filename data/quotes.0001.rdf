@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Son, I want you to have this watch. The firmware is outdated, the OS is slow and it only runs Yelp, but it's been in our family for 3 years.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/LudwigK/status/589527307410284544"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Watch"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Inheritance"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Consumerism"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">"Facebook is where we tell lies to our friends / Twitter is where we tell the truth to perfect strangers"</q:quote>
 		<dc:source rdf:resource="https://twitter.com/BBartes/status/589557029905293313"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Facebook"/>
