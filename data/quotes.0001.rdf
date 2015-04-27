@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">iPhone 5S? no thanks, I’m running Linux on my Droid. it took 8 days to set up but it runs DOOM at 120FPS  ;)
+
+my wife left me.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/lawblob/status/377490691406200832"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Linux"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Divorce"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Doom%20(video%20game)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Son, I want you to have this watch. The firmware is outdated, the OS is slow and it only runs Yelp, but it's been in our family for 3 years.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/LudwigK/status/589527307410284544"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Watch"/>
