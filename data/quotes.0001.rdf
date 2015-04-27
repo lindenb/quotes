@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">-Ça va aujourd'hui?
+-A-t-on maîtrisé le voyage intergalactique? Contacté des extraterrestres?
+-Non.
+-Oh… Bah "Pas trop mal sans plus" alors.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/592635341485580288"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Intergalactic%20travel"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Search%20for%20extraterrestrial%20intelligence"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/OK"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">iPhone 5S? no thanks, I’m running Linux on my Droid. it took 8 days to set up but it runs DOOM at 120FPS  ;)
 
 my wife left me.</q:quote>
