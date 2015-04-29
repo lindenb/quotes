@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">The best way to monetize your twitter account is to delete it and spend your time doing anything else.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/hrtbps/status/465984951687856128"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Monetization"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">-Ça va aujourd'hui?
 -A-t-on maîtrisé le voyage intergalactique? Contacté des extraterrestres?
 -Non.
