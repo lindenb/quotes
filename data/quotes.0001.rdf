@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">A common mistake, when trying to design something completely foolproof is to underestimate the ingenuity of complete fools</q:quote>
+		<dc:source rdf:resource="https://twitter.com/abt_programming/status/594205938745286658"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Douglas%20Adams"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Innovation"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Foolishness"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">The best way to monetize your twitter account is to delete it and spend your time doing anything else.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/hrtbps/status/465984951687856128"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
