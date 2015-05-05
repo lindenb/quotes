@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">L'adversaire d'une vraie liberté est un désir excessif de sécurité.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/QuotesZadig/status/595670366221139970"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Jean%20de%20La%20Fontaine"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Political%20freedom"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/National%20security"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">A common mistake, when trying to design something completely foolproof is to underestimate the ingenuity of complete fools</q:quote>
 		<dc:source rdf:resource="https://twitter.com/abt_programming/status/594205938745286658"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Douglas%20Adams"/>
