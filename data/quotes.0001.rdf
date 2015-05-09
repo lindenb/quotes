@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">"Astuce de grand-mère: comment nettoyer le micro-ondes?" Ça y est on est dans le futur. Bientôt: "Astuce de Grand-mère pour installer Linux"</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/597005033595633665"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Linux"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Microwave%20oven"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cleaning"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Future"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">L'adversaire d'une vraie liberté est un désir excessif de sécurité.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/QuotesZadig/status/595670366221139970"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Jean%20de%20La%20Fontaine"/>
