@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">People excited at the project of bringing mammoths back. Meanwhile, up to half of all species now on Earth could go extinct by 2100.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/seanmcarroll/status/597207656932118528"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20extinction"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Woolly%20mammoth"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Climate%20change"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">"Astuce de grand-mère: comment nettoyer le micro-ondes?" Ça y est on est dans le futur. Bientôt: "Astuce de Grand-mère pour installer Linux"</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/597005033595633665"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Linux"/>
