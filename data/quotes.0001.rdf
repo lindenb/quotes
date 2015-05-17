@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Stuck on an island, with only a terminal. I ran 'cat file' and 1000 people appeared saying "Useless use of cat!" Rescued.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/climagic/status/600046315763015680"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cat%20(Unix)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Standard%20streams"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Survival%20skills"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Rescue"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">People excited at the project of bringing mammoths back. Meanwhile, up to half of all species now on Earth could go extinct by 2100.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/seanmcarroll/status/597207656932118528"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20extinction"/>
