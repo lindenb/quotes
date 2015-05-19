@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">La greffe qui marche le moins bien, c'est la greffe de couilles</q:quote>
+		<dc:source rdf:resource="http://www.arretsurimages.net/breves/2015-05-19/Luz-Ginette-et-les-Kouachi-id18921"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jeannette%20Bougrab"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Luz"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Luz%20(cartoonist)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Testicle"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Organ%20transplantation"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Stuck on an island, with only a terminal. I ran 'cat file' and 1000 people appeared saying "Useless use of cat!" Rescued.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/climagic/status/600046315763015680"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cat%20(Unix)"/>
