@@ -7,6 +7,18 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Sur mon Twitter 
+Sur mon Facebook et mon Instagram
+Sur Snapchat J'écris ton nom Puberté 
+Kevin Eluard</q:quote>
+		<dc:source rdf:resource="https://twitter.com/JeanToukour/status/600964200698126337"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Facebook"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Snapchat"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Puberty"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Instagram"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">La greffe qui marche le moins bien, c'est la greffe de couilles</q:quote>
 		<dc:source rdf:resource="http://www.arretsurimages.net/breves/2015-05-19/Luz-Ginette-et-les-Kouachi-id18921"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jeannette%20Bougrab"/>
