@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Le respect a été inventé pour dissimuler l’absence de l’amour ; or, si tu ne m’aimes plus, tu ferais plus loyalement de l’avouer.</q:quote>
+		<dc:source rdf:resource="https://metaphorebookaddict.wordpress.com/2012/10/20/anna-karenine-leon-tolstoi/"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/L%C3%A9on%20Tolsto%C3%AF"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Respect"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Love"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Sur mon Twitter 
 Sur mon Facebook et mon Instagram
 Sur Snapchat J'écris ton nom Puberté 
