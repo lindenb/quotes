@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">La seule chose qu'on ne peut pas reprocher à Joseph Blatter, c'est d'avoir placé de l'argent en Suisse.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/bernardpivot1/status/604153704627970048"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sepp%20Blatter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/2015%20FIFA%20corruption%20case"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Banking%20in%20Switzerland"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Le respect a été inventé pour dissimuler l’absence de l’amour ; or, si tu ne m’aimes plus, tu ferais plus loyalement de l’avouer.</q:quote>
 		<dc:source rdf:resource="https://metaphorebookaddict.wordpress.com/2012/10/20/anna-karenine-leon-tolstoi/"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/L%C3%A9on%20Tolsto%C3%AF"/>
