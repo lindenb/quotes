@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">"Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love."</q:quote>
+		<dc:source rdf:resource="https://twitter.com/RichRogersHDS/status/601870361362300929"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Computer%20programming"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Love%20song"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Library%20(computing)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">La seule chose qu'on ne peut pas reprocher à Joseph Blatter, c'est d'avoir placé de l'argent en Suisse.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/bernardpivot1/status/604153704627970048"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sepp%20Blatter"/>
