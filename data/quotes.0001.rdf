@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Data are like farts .. everyone much prefers the smell of their own.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/pathogenomenick/status/606541321457692672"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fart"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Big%20data"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">"Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love."</q:quote>
 		<dc:source rdf:resource="https://twitter.com/RichRogersHDS/status/601870361362300929"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Computer%20programming"/>
