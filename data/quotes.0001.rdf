@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Being an adult is mainly drinking coffee and googling how to do stuff.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/SwedishCanary/status/608975956296867840"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Adult"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Google%20(verb)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Coffee"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Data are like farts .. everyone much prefers the smell of their own.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/pathogenomenick/status/606541321457692672"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fart"/>
