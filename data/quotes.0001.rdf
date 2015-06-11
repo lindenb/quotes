@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">You know when you wanna scream when a mosquito lands in your library prep</q:quote>
+		<dc:source rdf:resource="https://twitter.com/LaurenCowley4/status/608938760756187136"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mosquito"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Library%20(biology)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Being an adult is mainly drinking coffee and googling how to do stuff.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/SwedishCanary/status/608975956296867840"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Adult"/>
