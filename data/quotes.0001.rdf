@@ -7,6 +7,17 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">&gt; Unsubscribe from LinkedIn
+&gt; Delete email account
+&gt; Sell house, live in woods
+&gt; Find bottle in river
+&gt; Has note inside
+&gt; It's from LinkedIn</q:quote>
+		<dc:source rdf:resource="https://twitter.com/darylginn/status/590664399041519617"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/LinkedIn"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Spam%20(email)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">You know when you wanna scream when a mosquito lands in your library prep</q:quote>
 		<dc:source rdf:resource="https://twitter.com/LaurenCowley4/status/608938760756187136"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mosquito"/>
