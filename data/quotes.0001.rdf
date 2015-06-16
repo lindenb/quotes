@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Mon enfant de 6 ans me demanda ce que ça faisait de programmer. Je lui répondit que c'était comme faire des Lego avec des mots – Paul Graham</q:quote>
+		<dc:source rdf:resource="https://twitter.com/nojhan/status/609323344366845952"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Lego"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programming%20language"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Paul%20Graham%20(computer%20programmer)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">&gt; Unsubscribe from LinkedIn
 &gt; Delete email account
 &gt; Sell house, live in woods
