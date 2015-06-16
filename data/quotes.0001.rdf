@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">deux logiciens ont un bébé, un pote leur demande "c'est un garçon ou une fille ?" et ils répondent "oui"</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Ragoudvo/status/610882228911013889"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Child"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Boolean%20algebra"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Boolean%20data%20type"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Mon enfant de 6 ans me demanda ce que ça faisait de programmer. Je lui répondit que c'était comme faire des Lego avec des mots – Paul Graham</q:quote>
 		<dc:source rdf:resource="https://twitter.com/nojhan/status/609323344366845952"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Lego"/>
