@@ -11,7 +11,7 @@
 		<dc:source rdf:resource="https://twitter.com/nojhan/status/609323344366845952"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Lego"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programming%20language"/>
-		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Paul%20Graham%20(computer%20programmer)"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Paul%20Graham%20(computer%20programmer)"/>
 	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="en">&gt; Unsubscribe from LinkedIn
