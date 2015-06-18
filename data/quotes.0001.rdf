@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Steps to clear technical writing: 1) Write something. 2) Replace every instance of 'it' with the exact noun you're referring to.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/BlueBoxTraveler/status/611297881572683777"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Technical%20writing"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/It%20(pronoun)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">deux logiciens ont un bébé, un pote leur demande "c'est un garçon ou une fille ?" et ils répondent "oui"</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Ragoudvo/status/610882228911013889"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Child"/>
