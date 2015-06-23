@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Sérieusement, on pourrait me censurer tout le porn d'Internet, tant qu'on me laisse le site de la @NASA je serai heureux.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/613315459602100225"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pornography"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Internet"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/NASA"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Boulet%20(comics)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Steps to clear technical writing: 1) Write something. 2) Replace every instance of 'it' with the exact noun you're referring to.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/BlueBoxTraveler/status/611297881572683777"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Technical%20writing"/>
