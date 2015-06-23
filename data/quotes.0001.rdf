@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Si on avait réquisitionné des Uber pour la bataille de la Marne on aurait pris Berlin en 4 jours. Pour 34,6€ la course. Dragibus offerts.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/ClementSalviani/status/613323448341917696"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Berlin"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Uber%20(company)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Taxicab"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/First%20Battle%20of%20the%20Marne"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Renault%20Taxi%20de%20la%20Marne"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Sérieusement, on pourrait me censurer tout le porn d'Internet, tant qu'on me laisse le site de la @NASA je serai heureux.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/613315459602100225"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pornography"/>
