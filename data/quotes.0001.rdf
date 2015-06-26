@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">1. #MarriageEquaility DONE
+2. #universalhealthcare DONE
+3. a file format for variant calls that doesn't break all downstream tools...NOPE</q:quote>
+		<dc:source rdf:resource="https://twitter.com/KMS_Meltzy/status/614488005450035200"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Universal%20health%20care"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Variant%20Call%20Format"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Same-sex%20marriage"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Si on avait réquisitionné des Uber pour la bataille de la Marne on aurait pris Berlin en 4 jours. Pour 34,6€ la course. Dragibus offerts.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/ClementSalviani/status/613323448341917696"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Berlin"/>
