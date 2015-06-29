@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Pour être pédant jusqu'au bout, quand ma vie défilera devant mes yeux, je vais juste dire "mouais, le livre était mieux".</q:quote>
+		<dc:source rdf:resource="https://twitter.com/karibahut/status/615461874889551872"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Film%20adaptation"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Near-death%20experience"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">1. #MarriageEquaility DONE
 2. #universalhealthcare DONE
 3. a file format for variant calls that doesn't break all downstream tools...NOPE</q:quote>
