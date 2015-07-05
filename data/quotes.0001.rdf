@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Real bioinformaticians don't read paper - Github README.md is surely enough.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/torstenseemann/status/617677758294966272"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/GitHub"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/README"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academic%20journal"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I have paper books that are 100 yrs old and useable. I have 1998 zip drives I can't access. Compare.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/pickover/status/617529275630153729"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Book"/>
