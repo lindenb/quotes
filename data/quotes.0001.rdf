@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I have paper books that are 100 yrs old and useable. I have 1998 zip drives I can't access. Compare.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/pickover/status/617529275630153729"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Book"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Zip%20drive"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/History%20of%20books"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Machine-readable%20medium"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Pour être pédant jusqu'au bout, quand ma vie défilera devant mes yeux, je vais juste dire "mouais, le livre était mieux".</q:quote>
 		<dc:source rdf:resource="https://twitter.com/karibahut/status/615461874889551872"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Film%20adaptation"/>
