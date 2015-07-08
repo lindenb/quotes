@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Q: How do you know when someone in the social sciences uses R?
+A: Don't worry, they'll tell you.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/sbrumb/status/595701505610625024"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Social%20science"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/R%20(programming%20language)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Geek"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Real bioinformaticians don't read paper - Github README.md is surely enough.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/torstenseemann/status/617677758294966272"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
