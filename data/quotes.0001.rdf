@@ -7,6 +7,17 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">STAGES OF WORKING FROM HOME
+- Yay I get to work from home
+- It would be nice to talk to people
+- I hope that pigeon sits in the window today
+</q:quote>
+		<dc:source rdf:resource="https://twitter.com/MarkAgee/status/620990471720992768"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pigeon"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Telecommuting"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Conversation"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Q: How do you know when someone in the social sciences uses R?
 A: Don't worry, they'll tell you.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/sbrumb/status/595701505610625024"/>
