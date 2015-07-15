@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Anyone watching NASA briefing right now is getting a taste of what doing science is like: get data, speculate, argue, debate, speculate more</q:quote>
+		<dc:source rdf:resource="https://twitter.com/chrislintott/status/621408262664122368"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/NASA"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/New%20Horizons"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Scientific%20method"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">The oldest living person in the world was alive before the Wright Brothers flew the first plane And we just sent something past Pluto today</q:quote>
 		<dc:source rdf:resource="https://twitter.com/dexhandle/status/620950414284996608"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Oldest%20people"/>
