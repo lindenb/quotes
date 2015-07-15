@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">The oldest living person in the world was alive before the Wright Brothers flew the first plane And we just sent something past Pluto today</q:quote>
+		<dc:source rdf:resource="https://twitter.com/dexhandle/status/620950414284996608"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Oldest%20people"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Wright%20brothers"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/New%20Horizons"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">NASA: Decade long flight across the solar system. Arrives within 72 seconds of predicted. No errors.
 Me: undefined is not a function</q:quote>
 		<dc:source rdf:resource="https://twitter.com/jimmydivvy/status/621123472324866048"/>
