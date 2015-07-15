@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">NASA: Decade long flight across the solar system. Arrives within 72 seconds of predicted. No errors.
+Me: undefined is not a function</q:quote>
+		<dc:source rdf:resource="https://twitter.com/jimmydivvy/status/621123472324866048"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Computer%20programming"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/New%20Horizons"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/NASA"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Software%20bug"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">STAGES OF WORKING FROM HOME
 - Yay I get to work from home
 - It would be nice to talk to people
