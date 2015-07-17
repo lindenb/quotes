@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">just saying "Gattaca" in a comments thread doesn't count as a valid argument against genetic technology.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/dgmacarthur/status/622061973417631744"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Gattaca"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Genetic%20engineering"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Internet%20forum"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Anyone watching NASA briefing right now is getting a taste of what doing science is like: get data, speculate, argue, debate, speculate more</q:quote>
 		<dc:source rdf:resource="https://twitter.com/chrislintott/status/621408262664122368"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/NASA"/>
