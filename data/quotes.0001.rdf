@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">The real problem of humanity is the following: we have paleolithic emotions; medieval institutions; and God-like technology</q:quote>
+		<dc:source rdf:resource="https://twitter.com/bamadei/status/622099063010258944"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/E.%20O.%20Wilson"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Human"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emotion"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nation%20state"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Technology"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">just saying "Gattaca" in a comments thread doesn't count as a valid argument against genetic technology.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/dgmacarthur/status/622061973417631744"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Gattaca"/>
