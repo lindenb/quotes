@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Science is what we understand well enough to explain to a computer. Art is everything else we do</q:quote>
+		<dc:source rdf:resource="https://twitter.com/vsbuffalo/status/623358289561042944"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Donald%20Knuth"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Art"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Computer"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Comparing FIFA to the mafia "is almost insulting to the mafia"</q:quote>
 		<dc:source rdf:resource="https://twitter.com/MercoPressNews/status/622061456813481984"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/FIFA"/>
