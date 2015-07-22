@@ -6,4 +6,10 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+	<q:Quote>
+		<q:quote xml:lang="en">Always wanted to travel back in time to try fighting a younger version of yourself? Software development is the career for you!</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Loh/status/411282297816498176"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Software%20development"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Time%20travel"/>
+	</q:Quote>
 </rdf:RDF>
