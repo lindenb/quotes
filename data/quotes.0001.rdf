@@ -7,12 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
-		<q:quote xml:lang="en">Does anyone know if after you buy a Mac do you have to do all your work in a coffee shop or is that optional.</q:quote>
-		<dc:source rdf:resource="https://twitter.com/danthat/status/623776556536758272"/>
-		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Apple"/>
-		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Macintosh"/>
-		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Coffeehouse"/>
-		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Criticism%20of%20Apple%20Inc."/>
+		<q:quote xml:lang="fr">LE REPERTOIRE DE PHOTOS OU JE ME TROUVE BEAU (0 ko)
+ LE REPERTOIRE DE PHOTOS OU ON A L'IMPRESSION QUE JE FAIS UN AVC (17 go)</q:quote>
+		<dc:source rdf:resource="https://twitter.com/karibahut/status/623601350287446016"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Folder%20(computing)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Photogenic"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Stoke"/>
 	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="fr">"Oh moi tu sais je suis à l'âge où quand t'as des nouvelles des copains c'est qu'ils t'annoncent qu'ils sont en phase terminale."
