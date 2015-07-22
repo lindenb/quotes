@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">"Oh moi tu sais je suis à l'âge où quand t'as des nouvelles des copains c'est qu'ils t'annoncent qu'ils sont en phase terminale."
+-Mon oncle</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/623843592193376256"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Palliative%20care"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Friendship"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Boulet%20(comics)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Always wanted to travel back in time to try fighting a younger version of yourself? Software development is the career for you!</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Loh/status/411282297816498176"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Software%20development"/>
