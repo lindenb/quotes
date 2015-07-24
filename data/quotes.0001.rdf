@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Suspect if ggplot makes sense to you, you're probably a psychopath</q:quote>
+		<dc:source rdf:resource="https://twitter.com/BioMickWatson/status/624579675763781632"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ggplot2"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Psychopathy"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">5-year-old: Can I watch the Star Wars movie with Jar Jar Binks?
 Me: Wife: Your daughter is talking to you.
 Me: I have no daughter.</q:quote>
