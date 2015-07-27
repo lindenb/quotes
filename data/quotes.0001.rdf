@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Les Français n'aiment pas les étrangers. Les pauvres, bien sûr. Les riches, on les appelle des touristes</q:quote>
+		<dc:source rdf:resource="https://twitter.com/bernardpivot1/status/625534928466386944"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Fran%C3%A7oise%20Giroud"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/France"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Tourism%20in%20France"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Poverty"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">The scientist is not a person who gives the right answers; he’s the one who asks the right questions</q:quote>
 		<dc:source rdf:resource="https://twitter.com/23andMe/status/625366479110713344"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Claude%20L%C3%A9vi-Strauss"/>
