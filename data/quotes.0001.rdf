@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Going to start dressing like a Lion. That way cops know that if they kill me. White people will avenge me</q:quote>
+		<dc:source rdf:resource="https://twitter.com/davonmagwood/status/626604537097388033"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cecil%20(lion)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Racism%20in%20the%20United%20States"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Shooting%20of%20Michael%20Brown"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Les Français n'aiment pas les étrangers. Les pauvres, bien sûr. Les riches, on les appelle des touristes</q:quote>
 		<dc:source rdf:resource="https://twitter.com/bernardpivot1/status/625534928466386944"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Fran%C3%A7oise%20Giroud"/>
