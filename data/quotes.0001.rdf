@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">In defence of the traditional academic publishing model...
+
+...
+
+Nah. I got nothing.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/BilbySummerhill/status/590902606106652672"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academic%20publishing"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Going to start dressing like a Lion. That way cops know that if they kill me. White people will avenge me</q:quote>
 		<dc:source rdf:resource="https://twitter.com/davonmagwood/status/626604537097388033"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cecil%20(lion)"/>
