@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">La Corée du Nord décale ses horloges d'1/2 heure pour créer son propre fuseau horaire. Elle retarde donc maintenant de 95 ans et 30 minutes.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/629578283013808128"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/North%20Korea"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Time%20zone"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">In defence of the traditional academic publishing model...
 
 ...
