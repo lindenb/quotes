@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">"How many pingpong balls would fit in a 747?"
+"Is that what you do here? Put pingpong balls in planes?"
+"No"
+"Then why did you ask me that?"
+</q:quote>
+		<dc:source rdf:resource="https://twitter.com/joelgrus/status/630096040717201408"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Job%20interview"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Table%20tennis"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">It's not artificial intelligence that worries me. It's human stupidity.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/charlottejee/status/629320055176740864"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Artificial%20intelligence"/>
