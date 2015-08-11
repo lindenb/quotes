@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Un rabbin disait que, si Moïse avait appliqué le principe de précaution, le peuple juif serait encore de l'autre côté de la mer Rouge.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/bernardpivot1/status/630970744487477248"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Crossing%20the%20Red%20Sea"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Precautionary%20principle"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">"How many pingpong balls would fit in a 747?"
 "Is that what you do here? Put pingpong balls in planes?"
 "No"
