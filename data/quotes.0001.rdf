@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Jean-Jacques Goldman est toujours la personnalité consensuelle que tout le monde colle vaguement dans sa liste</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/632855498656739328"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jean-Jacques%20Goldman"/>
+		<q:keyword rdf:resource="https://fr.wikipedia.org/wiki/Personnalit%C3%A9_pr%C3%A9f%C3%A9r%C3%A9e_des_Fran%C3%A7ais"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">if stackoverflow was for artists "iv shoved the paintbrush up my nose and it wont paint" "try holding it" "no no my nose is how iv done it"</q:quote>
 		<dc:source rdf:resource="https://twitter.com/slipperyseal/status/598324845647040513"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Stackoverflow"/>
