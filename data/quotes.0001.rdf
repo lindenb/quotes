@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Arrêter qq dans la rue:
+-QUELLE DATE ON EST?
+-Heu… le 17
+-L'ANNÉE! -2015!
+-Il est peut-être encore temps, rien n'est perdu Partir en courant</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/63"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Time%20travel"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Jean-Jacques Goldman est toujours la personnalité consensuelle que tout le monde colle vaguement dans sa liste</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/632855498656739328"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jean-Jacques%20Goldman"/>
