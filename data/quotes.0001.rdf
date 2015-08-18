@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Catharsis: ritual purification and purging of emotions resulting from N&gt;1 Java developers talking about Maven.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/phillord/status/633663215835181056"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Catharsis"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Apache%20Maven"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Arrêter qq dans la rue:
 -QUELLE DATE ON EST?
 -Heu… le 17
