@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">speed dating is useless
+
+3 minutes isn’t enough to properly explain the benefits of the unix philosophy</q:quote>
+		<dc:source rdf:resource="https://twitter.com/iamdevloper/status/631418326518923266"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Speed%20dating"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Linux"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Catharsis: ritual purification and purging of emotions resulting from N&gt;1 Java developers talking about Maven.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/phillord/status/633663215835181056"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Catharsis"/>
@@ -18,7 +26,7 @@
 -Heu… le 17
 -L'ANNÉE! -2015!
 -Il est peut-être encore temps, rien n'est perdu Partir en courant</q:quote>
-		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/63"/>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/633326566366425088"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Time%20travel"/>
 	</q:Quote>
 	<q:Quote>
