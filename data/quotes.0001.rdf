@@ -6,14 +6,19 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:q="https://github.com/lindenb/quotes/">
+	<q:Quote>
+		<q:quote xml:lang="en">Would you like to learn more about Bloom filters?
+[ ] no
+[ ] probably</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bloom%20filter"/>
+		<dc:source rdf:resource="https://twitter.com/rlazarus/status/640191284469178368"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="en">Apple's principal product is obsolescence.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/TheTedNelson/status/635472410880405504"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Apple%20Inc."/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Planned%20obsolescence"/>
 	</q:Quote>
-</rdf:RDF>
 	<q:Quote>
 		<q:quote xml:lang="en">speed dating is useless
 
