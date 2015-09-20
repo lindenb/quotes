@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">A Richard Dawkins tweet is a lot like an episode of Game of Thrones. There are 140 characters &amp; something unimaginably awful happens.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Richard%20Dawkins"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Game%20of%20Thrones"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<dc:source rdf:resource="https://twitter.com/trousercake/status/494586292035125248"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Would you like to learn more about Bloom filters?
 [ ] no
 [ ] probably</q:quote>
