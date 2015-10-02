@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Birth control? BAN IT! Abortion? BAN IT! Gay marriage? BAN IT! Guns? Look, banning things never works. People will find ways to get them.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Abortion"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Gay%20marriage%20in%20the%20United%20States"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Gun%20control"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Gun%20violence"/>
+		<dc:source rdf:resource="https://twitter.com/BlunderingIdiom/status/628469905038438401"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">A Richard Dawkins tweet is a lot like an episode of Game of Thrones. There are 140 characters &amp; something unimaginably awful happens.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Richard%20Dawkins"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Game%20of%20Thrones"/>
