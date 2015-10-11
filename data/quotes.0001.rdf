@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Les gens trop fiers d'être un truc "de souche", vous savez que ça veut juste dire que vos ancêtres ont pas réussi à niquer en Erasmus, hein.</q:quote>
+		<dc:source rdf:resource="https://en.wikipedia.org/wiki/Main_Page"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Racism%20in%20France"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Erasmus%20Programme"/>
+		<dc:source rdf:resource="https://twitter.com/Klaire/status/652161704097247232"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I forgot to turn off notifications. Twitter sent me an email for each: Follow Favorite Retweet DM 47 gigs of notifications. </q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Edward%20Snowden"/>
