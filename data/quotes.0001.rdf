@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Même Louis XIV savait que la famille, c'était pas UN PAPA UNE MAMAN, mais UN PAPA HUIT NOURRICES CINQ MAITRESSES SEIZE BÂTARDS UN DAUPHIN.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/63"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Louis%20XIV%20of%20France"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Same-sex%20marriage%20in%20France"/>
+		<dc:source rdf:resource="https://twitter.com/KeriKeriKeriii/status/655416893616984065"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Les gens trop fiers d'être un truc "de souche", vous savez que ça veut juste dire que vos ancêtres ont pas réussi à niquer en Erasmus, hein.</q:quote>
 		<dc:source rdf:resource="https://en.wikipedia.org/wiki/Main_Page"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Racism%20in%20France"/>
