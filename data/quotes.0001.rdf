@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Le saviez-vous? Un être humain consacre environ 4 ans de sa vie à entendre qu'un Balkany a été mis en examen.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Patrick%20Balkany"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Poltics"/>
+		<dc:source rdf:resource="https://twitter.com/Valolic_/status/654702398456225792"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Raspberry Pi project development cycle:
  1. Have cool idea for project
  2. Buy Raspberry Pi
