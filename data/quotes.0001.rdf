@@ -7,7 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
-		<q:quote xml:lang="en">Même Louis XIV savait que la famille, c'était pas UN PAPA UNE MAMAN, mais UN PAPA HUIT NOURRICES CINQ MAITRESSES SEIZE BÂTARDS UN DAUPHIN.</q:quote>
+		<q:quote xml:lang="en">Raspberry Pi project development cycle:
+ 1. Have cool idea for project
+ 2. Buy Raspberry Pi
+ 3. Never do anything with it</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Raspberry%20Pi"/>
+		<dc:source rdf:resource="https://twitter.com/duggan/status/656428954958626816"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Même Louis XIV savait que la famille, c'était pas UN PAPA UNE MAMAN, mais UN PAPA HUIT NOURRICES CINQ MAITRESSES SEIZE BÂTARDS UN DAUPHIN.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/63"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Louis%20XIV%20of%20France"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Same-sex%20marriage%20in%20France"/>
