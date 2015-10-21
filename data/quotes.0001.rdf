@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">“Are you Marty McFly? I’ve got something for you”
+*opens letter*
+“Emmet Brown would like you to join his professional network on LinkedIn”</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Back%20to%20the%20Future"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Back%20to%20the%20Future%20Day"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/LinkedIn"/>
+		<dc:source rdf:resource="https://twitter.com/rmlewisuk/status/656762307494682624"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Le saviez-vous? Un être humain consacre environ 4 ans de sa vie à entendre qu'un Balkany a été mis en examen.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Patrick%20Balkany"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Poltics"/>
