@@ -7,6 +7,18 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">How to stop time: kiss
+How to travel in time: read
+How to escape time: music
+How to fear time: write
+How to waste time: social media</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Kiss"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Reading%20(process)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Writing"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Social%20media"/>
+		<dc:source rdf:resource="https://twitter.com/AshiLabouisse/status/658726118749532160"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">“Are you Marty McFly? I’ve got something for you”
 *opens letter*
 “Emmet Brown would like you to join his professional network on LinkedIn”</q:quote>
