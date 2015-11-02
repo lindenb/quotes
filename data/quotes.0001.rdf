@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">N=2 biological replicates for experiments is never the right answer. Says you know that replicates are important but you have no idea why.</q:quote>
+		<dc:source rdf:resource="https://www.biostars.org/"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Replicate%20(biology)"/>
+		<dc:source rdf:resource="https://twitter.com/BioDataGanache/status/661257276892708864"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">How to stop time: kiss
 How to travel in time: read
 How to escape time: music
