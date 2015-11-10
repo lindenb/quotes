@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">You know you've been coding too much when you start writing an email and get mad because tab completion isn't working...</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Command-line%20completion"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Email"/>
+		<dc:source rdf:resource="https://twitter.com/TiffanyTimbers/status/663547406630281216"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Give a man some JavaScript, and he will cut and paste for a day. Teach him some JavaScript, and he will debate frameworks for a lifetime.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/JavaScript%20library"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cut,%20copy,%20and%20paste"/>
