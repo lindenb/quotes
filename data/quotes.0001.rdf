@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Do not pray. Think.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Religion"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/November%202015%20Paris%20attacks"/>
+		<dc:source rdf:resource="https://twitter.com/HubertMichaux/status/665626070608125952"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">You know you've been coding too much when you start writing an email and get mad because tab completion isn't working...</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Command-line%20completion"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Email"/>
