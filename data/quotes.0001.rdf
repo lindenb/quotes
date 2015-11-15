@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Le livreur :
+—Nous serons chez vous entre 8h et 15h. Je peux noter votre code pour l'entrée ?
+—Bien sûr, ce sera entre 0001A et 9999B
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Delivery%20(commerce)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Intercom"/>
+		dc:source rdf:resource="https://twitter.com/Nrmlm/status/569196627271016449"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Do not pray. Think.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Religion"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/November%202015%20Paris%20attacks"/>
