@@ -7,13 +7,20 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Nous ne sommes pas engagés dans une guerre de civilisation - ces assassins n'en représentent aucune" </q:quote>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Fran%C3%A7ois%20Hollande"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Clash%20of%20Civilizations"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/November%202015%20Paris%20attacks"/>
+		<dc:source rdf:resource="https://twitter.com/franceinfo/status/666273943536476161"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Le livreur :
 —Nous serons chez vous entre 8h et 15h. Je peux noter votre code pour l'entrée ?
 —Bien sûr, ce sera entre 0001A et 9999B
 </q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Delivery%20(commerce)"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Intercom"/>
-		dc:source rdf:resource="https://twitter.com/Nrmlm/status/569196627271016449"/>
+		<dc:source rdf:resource="https://twitter.com/Nrmlm/status/569196627271016449"/>
 	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="en">Do not pray. Think.</q:quote>
