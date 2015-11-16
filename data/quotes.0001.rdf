@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">— On va se faire exploser à Paris chez ces chiens de Français !
+— Mais ils vont nous déchoir de la nationalité !
+— Merde on annule tout !</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/63"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/November%202015%20Paris%20attacks"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/French%20nationality%20law"/>
+		<dc:source rdf:resource="https://twitter.com/custinda/status/666339318198333441"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Les parlementaires se sont tous levés après le discours de Hollande. Vous le surnommiez Flanby, en fait le mec c'est Danette.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fran%C3%A7ois%20Hollande"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/November%202015%20Paris%20attacks"/>
