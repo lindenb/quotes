@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Les parlementaires se sont tous levés après le discours de Hollande. Vous le surnommiez Flanby, en fait le mec c'est Danette.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fran%C3%A7ois%20Hollande"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/November%202015%20Paris%20attacks"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Flanby"/>
+		<q:keyword rdf:resource="https://fr.wikipedia.org/wiki/Danette"/>
+		<q:keyword rdf:resource="hhttps://en.wikipedia.org/wiki/Congress_of_the_French_Parliament"/>
+		<dc:source rdf:resource="https://twitter.com/Freud_is_alive/status/666305760008228864"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Nous ne sommes pas engagés dans une guerre de civilisation - ces assassins n'en représentent aucune" </q:quote>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Fran%C3%A7ois%20Hollande"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Clash%20of%20Civilizations"/>
