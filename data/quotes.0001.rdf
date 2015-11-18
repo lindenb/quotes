@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Si on me demandait de choisir entre écouter Wauquiez et me mettre un Playmobil dans l'anus, je répondrai "pas celui avec l'épée"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Laurent%20Wauquiez"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Playmobil"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Anus"/>
+		<dc:source rdf:resource="https://twitter.com/schloren/status/666313757015060480"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">"Terrorists use encryption to plot killing people with guns. We must ban encryption!"
  "What about guns?"
 "No point, they don't follow laws."
