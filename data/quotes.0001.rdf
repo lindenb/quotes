@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">"Terrorists use encryption to plot killing people with guns. We must ban encryption!"
+ "What about guns?"
+"No point, they don't follow laws."
+</q:quote>
+		<dc:source rdf:resource="https://twitter.com/jschauma/status/666445786901815296"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Gun%20control"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Terrorism"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">— On va se faire exploser à Paris chez ces chiens de Français !
 — Mais ils vont nous déchoir de la nationalité !
 — Merde on annule tout !</q:quote>
