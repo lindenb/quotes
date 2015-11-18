@@ -11,6 +11,7 @@
  "What about guns?"
 "No point, they don't follow laws."
 </q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Encryption"/>
 		<dc:source rdf:resource="https://twitter.com/jschauma/status/666445786901815296"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Gun%20control"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Terrorism"/>
