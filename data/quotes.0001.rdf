@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">02 oct- J'achète un tuppeware pour quand j'ai des restes
+03 oct- Je mets des restes au frigo
+23 nov- Je balance le tupperware sans l'ouvrir.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Tupperware"/>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/668896141359075329"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Si on me demandait de choisir entre écouter Wauquiez et me mettre un Playmobil dans l'anus, je répondrai "pas celui avec l'épée"</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Laurent%20Wauquiez"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Playmobil"/>
