@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Without data you're just another person with an opinion
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Data"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Opinion"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Edwards%20Deming"/>
+		<dc:source rdf:resource="https://twitter.com/KirkDBorne/status/671101577969704960"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">02 oct- J'achète un tuppeware pour quand j'ai des restes
 03 oct- Je mets des restes au frigo
 23 nov- Je balance le tupperware sans l'ouvrir.</q:quote>
