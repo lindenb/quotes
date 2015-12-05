@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">In God we trust, all others bring data.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/In%20God%20we%20trust"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Data"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/William%20Edwards%20Deming"/>
+		<dc:source rdf:resource="https://twitter.com/DataSciFact/status/673157424132579328"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Without data you're just another person with an opinion
 </q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Data"/>
