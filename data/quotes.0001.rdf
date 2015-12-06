@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Our 16-month old is yelling in anger at not being able to connect a Lego piece to a Duplo piece. Kid, enjoy your future career in computing</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Duplo%20(Lego)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Lego"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Computer%20compatibility"/>
+		<dc:source rdf:resource="https://twitter.com/mrgan/status/673237077949964288"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">In God we trust, all others bring data.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/In%20God%20we%20trust"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Data"/>
