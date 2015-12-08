@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Donald Trump is basically just a YouTube comment section running for president.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/YouTube"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Internet%20forum"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Chris%20Rock"/>
+		<dc:source rdf:resource="https://twitter.com/chrisrockyoz/status/674012766542409728"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Our 16-month old is yelling in anger at not being able to connect a Lego piece to a Duplo piece. Kid, enjoy your future career in computing</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Duplo%20(Lego)"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Lego"/>
