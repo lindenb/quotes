@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Imagine if last names were invented now, so instead of “Smith” and “Baker,” we had “Frontenddeveloper” and “Socialmediaconsultant.”</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Family%20name"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Social%20media"/>
+		<dc:source rdf:resource="https://twitter.com/riscfuture/status/660183677930897408"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Donald Trump is basically just a YouTube comment section running for president.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/YouTube"/>
