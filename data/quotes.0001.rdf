@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">A ce rythme-là, ça va être sympa le G7 en 2020 avec Donald Trump, Marine Le Pen, Poutine, Kim Jong-un, Daesh, Sauron et Palpatine.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/G7"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Marine%20Le%20Pen"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vladimir%20Putin"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Palpatine"/>
+		<dc:source rdf:resource="https://twitter.com/LANDEYves/status/674275641542447104"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Imagine if last names were invented now, so instead of “Smith” and “Baker,” we had “Frontenddeveloper” and “Socialmediaconsultant.”</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Family%20name"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Social%20media"/>
