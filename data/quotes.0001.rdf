@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">"PTAIN SERIEUX JAVAIT DEMANDER UNE PS4 JAI EUT DE L'OR DE LENSEN ET DE LA MIRRE JE SUI DEG JE SAIT MM PAS CE QUE CES LA MIRRE FML"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Santa%20Claus"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Christmas"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nativity"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Short%20Message%20Service"/>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/680302139290337280"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">A ce rythme-là, ça va être sympa le G7 en 2020 avec Donald Trump, Marine Le Pen, Poutine, Kim Jong-un, Daesh, Sauron et Palpatine.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/G7"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
