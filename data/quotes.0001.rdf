@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">gastrulation is the most important event in your life, not your phd defence</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Gastrulation"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Thesis"/>
+		<dc:source rdf:resource="https://twitter.com/useless_ulysses/status/598220832687665153"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">"PTAIN SERIEUX JAVAIT DEMANDER UNE PS4 JAI EUT DE L'OR DE LENSEN ET DE LA MIRRE JE SUI DEG JE SAIT MM PAS CE QUE CES LA MIRRE FML"</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Santa%20Claus"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Christmas"/>
