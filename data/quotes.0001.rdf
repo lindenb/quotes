@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">My daughter just asked why we say "hang up" the phone and now I feel 90.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Daughter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Phone"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mobile%20phone"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/1990s"/>
+		<dc:source rdf:resource="https://twitter.com/EnglishJason/status/605869576627175425"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">gastrulation is the most important event in your life, not your phd defence</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Gastrulation"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Thesis"/>
