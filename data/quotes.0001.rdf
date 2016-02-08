@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">OH “He’s a nice guy but he’s a few commits behind master, if you know what I’m saying</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Git"/>
+		<dc:source rdf:resource="https://twitter.com/clipperhouse/status/696753982677581826"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">My daughter just asked why we say "hang up" the phone and now I feel 90.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Daughter"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Phone"/>
