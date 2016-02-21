@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">USA. 26ème fusillade de masse en 2016. C'est pas Trump que les américains devraient élire mais directement George R. R. Martin.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20shooting"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/George%20R.%20R.%20Martin"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/United%20States%20presidential%20election,%202016"/>
+		<dc:source rdf:resource="https://twitter.com/LANDEYves/status/701358693921771521"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">OH “He’s a nice guy but he’s a few commits behind master, if you know what I’m saying</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Git"/>
 		<dc:source rdf:resource="https://twitter.com/clipperhouse/status/696753982677581826"/>
