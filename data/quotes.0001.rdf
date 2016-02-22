@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Microsoft has offered to install a backdoor into the Windows Phone but only if someone would buy one first</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Windows%20Phone"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/IPhone"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Backdoor%20(computing)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Central%20Intelligence%20Agency"/>
+		<dc:source rdf:resource="https://twitter.com/justinelze/status/700011522425114624"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">USA. 26ème fusillade de masse en 2016. C'est pas Trump que les américains devraient élire mais directement George R. R. Martin.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20shooting"/>
