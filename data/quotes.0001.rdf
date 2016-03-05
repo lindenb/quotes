@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Software and cathedrals are much the same – first we build them, then we pray</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Computer%20programming"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cathedral"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Prayer"/>
+		<dc:source rdf:resource="https://twitter.com/CodeWisdom/status/706051577031892993"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Microsoft has offered to install a backdoor into the Windows Phone but only if someone would buy one first</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Windows%20Phone"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/IPhone"/>
