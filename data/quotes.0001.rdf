@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">"Sometimes it pays to stay in bed on Monday, rather than spend the rest of the week debugging Monday's code." </q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Computer%20programming"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Monday"/>
+		<dc:source rdf:resource="https://twitter.com/CodeWisdom/status/706860345676185600"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Software and cathedrals are much the same – first we build them, then we pray</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Computer%20programming"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cathedral"/>
