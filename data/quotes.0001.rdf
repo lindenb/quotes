@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">“What’s your job?” Programming. “What’s your hobby?” Programming. “What do you do when you’re not programming?” Think about programming.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Computer%20programming"/>
+		<dc:source rdf:resource="https://twitter.com/luca_julian/status/630027790709039104"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I don't make mistakes. I create teachable moments.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bug%20(software)"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Education"/>
