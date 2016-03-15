@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I used to think I could control ducks with my mind but it turns out ducks &amp; I just have very similar ideas about what stuff ducks should do</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Duck"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mind%20control"/>
+		<dc:source rdf:resource="https://twitter.com/ieatanddrink/status/709590592293113858"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">“What’s your job?” Programming. “What’s your hobby?” Programming. “What do you do when you’re not programming?” Think about programming.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Computer%20programming"/>
 		<dc:source rdf:resource="https://twitter.com/luca_julian/status/630027790709039104"/>
@@ -39,7 +45,7 @@
 		<dc:source rdf:resource="https://twitter.com/justinelze/status/700011522425114624"/>
 	</q:Quote>
 	<q:Quote>
-		<q:quote xml:lang="en">USA. 26ème fusillade de masse en 2016. C'est pas Trump que les américains devraient élire mais directement George R. R. Martin.</q:quote>
+		<q:quote xml:lang="fr">USA. 26ème fusillade de masse en 2016. C'est pas Trump que les américains devraient élire mais directement George R. R. Martin.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20shooting"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/George%20R.%20R.%20Martin"/>
