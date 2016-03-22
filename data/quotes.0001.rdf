@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">1 vs chr1 Slowing down #bioinformatics since 2003.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Chromosome"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nomenclature"/>
+		<dc:source rdf:resource="https://twitter.com/KMS_Meltzy/status/712317415166746628"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I used to think I could control ducks with my mind but it turns out ducks &amp; I just have very similar ideas about what stuff ducks should do</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Duck"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mind%20control"/>
