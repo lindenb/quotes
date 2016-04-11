@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">OH "we're using open source software now. It's like normal but instead of paying money you pay by being insulted when you ask a question"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Open-source%20software"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Insult"/>
+		<dc:source rdf:resource="https://twitter.com/parisba/status/719306121559674880"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">1 vs chr1 Slowing down #bioinformatics since 2003.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Chromosome"/>
