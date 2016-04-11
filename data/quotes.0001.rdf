@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">C'est exprès que les scénaristes de Beverly Hills 90210, ont donné aux personnages des prénoms typiques du Nord-Pas-de-Calais ?
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Beverly%20Hills,%2090210"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/French%20name"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Regions%20of%20France"/>
+		<dc:source rdf:resource="https://twitter.com/Unpied/status/719450818513121280"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">OH "we're using open source software now. It's like normal but instead of paying money you pay by being insulted when you ask a question"</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Open-source%20software"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Insult"/>
