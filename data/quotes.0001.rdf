@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Just found this new app that tells you which of your family members are racist. It's called Facebook.
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Facebook"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Racism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Family"/>
+		<dc:source rdf:resource="https://twitter.com/ItsGuyThing/status/551489199216812032"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">C'est exprès que les scénaristes de Beverly Hills 90210, ont donné aux personnages des prénoms typiques du Nord-Pas-de-Calais ?
 </q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Beverly%20Hills,%2090210"/>
