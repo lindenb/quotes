@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">History of Europe: War War War War War War War Arguments about bananas. To be honest, I'll probably go with banana arguments.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/United%20Kingdom%20European%20Union%20membership%20referendum,%202016"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/War"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/History%20of%20Europe"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Banana"/>
+		<dc:source rdf:resource="https://twitter.com/pavilionopinion/status/726172850005118976"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Just found this new app that tells you which of your family members are racist. It's called Facebook.
 </q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Facebook"/>
