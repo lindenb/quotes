@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Imagine a world where everyone spoke like they were doing a TED talk. What if I were to tell you that that world is closer than you think.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/TED%20(conference)"/>
+		<dc:source rdf:resource="https://twitter.com/jamesecook/status/728909232897175552"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">History of Europe: War War War War War War War Arguments about bananas. To be honest, I'll probably go with banana arguments.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/United%20Kingdom%20European%20Union%20membership%20referendum,%202016"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/War"/>
