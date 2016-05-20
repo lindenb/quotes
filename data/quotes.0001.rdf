@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">scientist: "does everyone here know what Watson and Crick discovered?
+ me from back of room: "Rosalind Franklin's notes"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/James%20Watson"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Francis%20Crick"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Rosalind%20Franklin"/>
+		<dc:source rdf:resource="https://twitter.com/RobbyKraft/status/727352740825944064"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Imagine a world where everyone spoke like they were doing a TED talk. What if I were to tell you that that world is closer than you think.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/TED%20(conference)"/>
 		<dc:source rdf:resource="https://twitter.com/jamesecook/status/728909232897175552"/>
