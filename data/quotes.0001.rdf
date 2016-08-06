@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">La vie est l'ensemble des fonctions qui résistent à la mort</q:quote>
+		<dc:source rdf:resource="https://fr.wikipedia.org/wiki/Marie_Fran%C3%A7ois_Xavier_Bichat"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Death"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Life"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Marie%20Fran%C3%A7ois%20Xavier%20Bichat"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">scientist: "does everyone here know what Watson and Crick discovered?
  me from back of room: "Rosalind Franklin's notes"</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/James%20Watson"/>
