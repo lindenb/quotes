@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Molecular biology is 90% moving small liquids from one tube to another. Computational biology is 90% file manipulation.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Molecular%20biology"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Glassware"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/File%20format"/>
+		<dc:source rdf:resource="https://twitter.com/SvenAT/status/760510903771140096"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">La vie est l'ensemble des fonctions qui résistent à la mort</q:quote>
 		<dc:source rdf:resource="https://fr.wikipedia.org/wiki/Marie_Fran%C3%A7ois_Xavier_Bichat"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Death"/>
