@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I hate repetition, specially when redundant</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Repetition%20(rhetorical%20device)"/>
+		<dc:source rdf:resource="https://twitter.com/moebio/status/766002114397020161"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Molecular biology is 90% moving small liquids from one tube to another. Computational biology is 90% file manipulation.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Molecular%20biology"/>
