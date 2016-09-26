@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">you can go anywhere you want to in this world if you just carry a clipboard.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/tpstigers/status/780164692685840384"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Clipboard"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Inspection"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">There are two types of nation: those that use the metric system and those that have put a man on the Moon.</q:quote>
 		<dc:source rdf:resource="http://www.nature.com/news/modernize-radiation-measurements-to-save-lives-1.20579"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Metrics%20system"/>
