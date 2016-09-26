@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">There are two types of nation: those that use the metric system and those that have put a man on the Moon.</q:quote>
+		<dc:source rdf:resource="http://www.nature.com/news/modernize-radiation-measurements-to-save-lives-1.20579"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Metrics%20system"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/United%20States"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Moon%20landing"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Apollo%2011"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I hate repetition, specially when redundant</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Repetition%20(rhetorical%20device)"/>
 		<dc:source rdf:resource="https://twitter.com/moebio/status/766002114397020161"/>
