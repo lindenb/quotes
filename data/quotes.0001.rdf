@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">"Vous êtes amies? - On l'était mais je me suis désabonnée."</q:quote>
+		<dc:source rdf:resource="https://twitter.com/LoicPrigent/status/784818883601588224"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Friends"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">you can go anywhere you want to in this world if you just carry a clipboard.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/tpstigers/status/780164692685840384"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Clipboard"/>
