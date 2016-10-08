@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Tic Tac respects all women. We find the recent statements and behavior completely inappropriate and unacceptable.</q:quote>
+		<dc:source rdf:resource="https://www.facebook.com/"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Tic%20Tac"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sexism"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">"Vous êtes amies? - On l'était mais je me suis désabonnée."</q:quote>
 		<dc:source rdf:resource="https://twitter.com/LoicPrigent/status/784818883601588224"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Friends"/>
