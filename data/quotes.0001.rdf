@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">C'est difficile d'être une femme mais c'est tellement mieux que d'être un homme."</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Woman"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Man"/>
+		<dc:source rdf:resource="https://twitter.com/LoicPrigent/status/785570036643663873"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Tic Tac respects all women. We find the recent statements and behavior completely inappropriate and unacceptable.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/TicTacUSA/status/784831611531436032"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Tic%20Tac"/>
