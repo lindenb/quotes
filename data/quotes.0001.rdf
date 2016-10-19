@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Without requirements or design, programming is the art of adding bugs to an empty text file. - </q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programming"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Software%20bug"/>
+		<dc:source rdf:resource="https://twitter.com/sublimecoder/status/788035606161002496"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">C'est difficile d'être une femme mais c'est tellement mieux que d'être un homme."</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Woman"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Man"/>
