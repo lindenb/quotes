@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">unit tests are green" is the new "works on my machine</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Unit%20testing"/>
+		<dc:source rdf:resource="https://twitter.com/ewolff/status/791721106843590656"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Without requirements or design, programming is the art of adding bugs to an empty text file. - </q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programming"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Software%20bug"/>
