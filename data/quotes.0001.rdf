@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">A: *manuscript accepted* This is my greatest achievement
+B: What about your kids ?
+A: I told them but they don't quite get academic publishing</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academic%20publishing"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Children"/>
+		<dc:source rdf:resource="https://twitter.com/AcademicsSay/status/793869625196969984"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">unit tests are green" is the new "works on my machine</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Unit%20testing"/>
 		<dc:source rdf:resource="https://twitter.com/ewolff/status/791721106843590656"/>
