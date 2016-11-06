@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Last night America turned their clocks back. How far back will be decided on Tuesday.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump%20presidential%20campaign,%202016"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Daylight_saving_time"/>
+		<dc:source rdf:resource="https://twitter.com/trevorbmbagency/status/795206387160797184"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">A: *manuscript accepted* This is my greatest achievement
 B: What about your kids ?
 A: I told them but they don't quite get academic publishing</q:quote>
