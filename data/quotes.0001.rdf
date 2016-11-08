@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">That nervous feeling you have about tomorrow, Americans? That’s democracy working. Unpredictable elections, what a luxury!</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Garry%20Kasparov"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Russia"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/United_States_presidential_election,_2016"/>
+		<dc:source rdf:resource="https://twitter.com/Kasparov63/status/795730581153808384"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">"- If only people with at least 4 grandparents born in America were voting, Trump would win in a 50-state landslide.
 - I'm sure my great-great-grandparents would have enjoyed voting, but they were killed by a guy who kept bragging about having superior genes."</q:quote>
 		<dc:source rdf:resource="https://twitter.com/stevesilberman/status/795842460404457473"/>
