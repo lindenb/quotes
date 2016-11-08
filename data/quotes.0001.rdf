@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">"- If only people with at least 4 grandparents born in America were voting, Trump would win in a 50-state landslide.
+- I'm sure my great-great-grandparents would have enjoyed voting, but they were killed by a guy who kept bragging about having superior genes."</q:quote>
+		<dc:source rdf:resource="https://twitter.com/stevesilberman/status/795842460404457473"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump%20presidential%20campaign,%202016"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">So often:
 1. The team is going slow because the code is to hard to work with
 2. The code is hard to work with because the team went too fast</q:quote>
