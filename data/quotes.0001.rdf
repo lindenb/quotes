@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">So often:
+1. The team is going slow because the code is to hard to work with
+2. The code is hard to work with because the team went too fast</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Computer%20programming"/>
+		<dc:source rdf:resource="https://twitter.com/searls/status/740641055238938624"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Last night America turned their clocks back. How far back will be decided on Tuesday.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump%20presidential%20campaign,%202016"/>
 		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Daylight_saving_time"/>
