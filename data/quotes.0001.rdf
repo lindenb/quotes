@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I believe antibiotic resistance may have just dropped out of the top 3 global threats facing mankind.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Antimicrobial%20resistance"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/United_States_presidential_election,_2016"/>
+		<dc:source rdf:resource="https://twitter.com/GCAGATGCAATG/status/796266180554145792"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Poutine 'check'
 Erdogan 'check'
 Trump  'check'
