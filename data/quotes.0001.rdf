@@ -7,6 +7,19 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Poutine 'check'
+Erdogan 'check'
+Trump  'check'
+Marine Le Pen
+Sauron
+</q:quote>
+<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vladmir%20putin"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Marine%20Le%20Pen"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sauron"/>
+		<dc:source rdf:resource="https://twitter.com/lepotedeTito/status/796269254735577088"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">2016: Trump won't win.
 2017: President Trump can't do that, can he?
 2018: You watching The Hunger Games tonight? I hope my District wins.</q:quote>
