@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Zuckerberg and Sheryl Sandberg allowed prob the biggest coordinated hate speech and misinformation campaign in modern history on their watch</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sheryl%20Sandberg"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mark%20Zuckerberg"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Facebook"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/United_States_presidential_election,_2016"/>
+		<dc:source rdf:resource="https://twitter.com/samfbiddle/status/796389334316449792"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I'll say it: This is the victory of the uneducated and uninformed. Now more than ever that looks impossible to fix. They now rule.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Education"/>
 		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/United_States_presidential_election,_2016"/>
