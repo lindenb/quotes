@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">2016: Trump won't win.
+2017: President Trump can't do that, can he?
+2018: You watching The Hunger Games tonight? I hope my District wins.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hunger%20Games"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/United_States_presidential_election,_2016"/>
+		<dc:source rdf:resource="https://twitter.com/ericsmithrocks/status/704841254174117888"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">England: Nothing can be more embarrassing than Brexit. America: Watch this.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Brexit"/>
 		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/United_States_presidential_election,_2016"/>
