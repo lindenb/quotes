@@ -7,6 +7,18 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I'll say it: This is the victory of the uneducated and uninformed. Now more than ever that looks impossible to fix. They now rule.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Education"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/United_States_presidential_election,_2016"/>
+		<dc:source rdf:resource="https://twitter.com/jeffjarvis/status/796243909890506752"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">Media which got everything wrong will now tell you all the things that will happen as a result of the thing they said wouldn't happen.</q:quote>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/United_States_presidential_election,_2016"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/News%20media"/>
+		<dc:source rdf:resource="https://twitter.com/RubinReport/status/796229381114859520"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I believe antibiotic resistance may have just dropped out of the top 3 global threats facing mankind.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Antimicrobial%20resistance"/>
 		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/United_States_presidential_election,_2016"/>
