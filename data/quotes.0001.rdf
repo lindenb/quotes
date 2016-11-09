@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">England: Nothing can be more embarrassing than Brexit. America: Watch this.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Brexit"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/United_States_presidential_election,_2016"/>
+		<dc:source rdf:resource="https://twitter.com/Aaron_Sparrow/status/796197324938559488"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">That nervous feeling you have about tomorrow, Americans? That’s democracy working. Unpredictable elections, what a luxury!</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Garry%20Kasparov"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Russia"/>
