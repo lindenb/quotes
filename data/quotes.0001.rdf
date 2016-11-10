@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">C'est la 1ère fois dans l histoire des États Unis qu'un milliardaire va emménager dans un logement public abandonné par une famille noire</q:quote>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/United_States_presidential_election,_2016"/>
+		<dc:source rdf:resource="https://twitter.com/azan_eric/status/796642065912332289"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Zuckerberg and Sheryl Sandberg allowed prob the biggest coordinated hate speech and misinformation campaign in modern history on their watch</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sheryl%20Sandberg"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mark%20Zuckerberg"/>
