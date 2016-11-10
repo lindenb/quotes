@@ -7,10 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">The S in the IoT stands for Security.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Internet%20of%20things"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vulnerability%20(computing)"/>
+		<dc:source rdf:resource="https://twitter.com/shelajev/status/796685986365325312"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Those who don't study history are doomed to repeat it.
 Yet those who do study history are doomed to stand by helplessly while everyone else repeats it.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/History"/>
-		<dc:source rdf:resource="https://twitter.com/azan_eric/status/796642065912332289"/>
 		<dc:source rdf:resource="https://twitter.com/dStephenB/status/796287811154509825"/>
 	</q:Quote>
 	<q:Quote>
