@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Outside a pub in Clerkenwell, England "All americans must be accompanied by an adult"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pub"/>
+		<dc:source rdf:resource="https://twitter.com/DanielAlpert/status/796818344531939330"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/United_States_presidential_election,_2016"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Stack Overflow’s database fits on a 3TB drive you can get for $80 on Amazon. Please, never call us “big data”, we’re just not. We’re tiny</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Stack%20Overflow"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Big%20Dada"/>
