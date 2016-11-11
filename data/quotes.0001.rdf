@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">15 yrs ago I chose science over theatre. My logic: theatre has low pay, poor job security &amp; is filled with narcissists. So, yeah.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academia"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Theatre"/>
+		<dc:source rdf:resource="https://twitter.com/TheLabAndField/status/796993536612831232"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">The S in the IoT stands for Security.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Internet%20of%20things"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vulnerability%20(computing)"/>
