@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Stack Overflow’s database fits on a 3TB drive you can get for $80 on Amazon. Please, never call us “big data”, we’re just not. We’re tiny</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Stack%20Overflow"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Big%20Dada"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hard%20drive"/>
+		<dc:source rdf:resource="https://twitter.com/Nick_Craver/status/796977377200869376"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Installation instructions:
 1. ./configure
 2. Offer sacrifice to the Bioinformatics God.
