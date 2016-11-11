@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Installation instructions:
+1. ./configure
+2. Offer sacrifice to the Bioinformatics God.
+3. make </q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Make%20(software)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Configure%20script"/>
+		<dc:source rdf:resource="https://twitter.com/evilbioinf/status/797024693714907136"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">15 yrs ago I chose science over theatre. My logic: theatre has low pay, poor job security &amp; is filled with narcissists. So, yeah.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academia"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Theatre"/>
