@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Hillary Clinton would've won the presidency if a butterfly didn't flap its wings in Thailand in 1975.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Butterfly%20effect"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/United_States_presidential_election,_2016"/>
+		<dc:source rdf:resource="https://twitter.com/MikeDrucker/status/797822590731464704"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">"We survived X, so we can survive this" Ok by definition the people who didn't survive it aren't talking to me so what's with the "we"</q:quote>
 		<dc:source rdf:resource="https://twitter.com/arthur_affect/status/797360080710680576"/>
 		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/United_States_presidential_election,_2016"/>
