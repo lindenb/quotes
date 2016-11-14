@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">"Don't worry," said the cosmologist, "it will all be 0K in the end."</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Absolute%20zero"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cosmology"/>
+		<dc:source rdf:resource="https://twitter.com/AstroKatie/status/798134169557614596"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I know the #SuperMoon pretty intimately</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Supermoon"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Buzz%20Aldrin"/>
