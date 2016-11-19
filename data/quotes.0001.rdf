@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Historians: if only people would learn from history. 
+Historians: there are so many issues with letting people read our work for free online.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/History"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/United_States_presidential_election,_2016"/>
+		<dc:source rdf:resource="https://twitter.com/martin_eve/status/799696636872183812"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">"Don't worry," said the cosmologist, "it will all be 0K in the end."</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Absolute%20zero"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cosmology"/>
