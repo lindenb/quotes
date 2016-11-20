@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Si Sarkozy gagne la Floride tout peut encore basculer</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nicolas%20Sarkozy"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/United_States_presidential_election,_2016"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/The_Republicans_(France)_presidential_primary,_2016"/>
+		<dc:source rdf:resource="https://twitter.com/theoddore/status/800432344662470656"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Historians: if only people would learn from history. 
 Historians: there are so many issues with letting people read our work for free online.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/History"/>
