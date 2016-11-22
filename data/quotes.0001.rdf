@@ -7,7 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
-		<q:quote xml:lang="en">Si Sarkozy gagne la Floride tout peut encore basculer</q:quote>
+		<q:quote xml:lang="en">Calling nazis "alt right" is like calling cancer "alt cell growth"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Alt-right"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump%20presidential%20campaign,%202016"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cancer"/>
+		<dc:source rdf:resource="https://twitter.com/embeedub/status/800910739959463936"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nazism"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Si Sarkozy gagne la Floride tout peut encore basculer</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nicolas%20Sarkozy"/>
 		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/United_States_presidential_election,_2016"/>
 		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/The_Republicans_(France)_presidential_primary,_2016"/>
