@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">If you raise your hand and shout "Sieg Heil" you're a Nazi. When you have sex with a goat, you're not an "alt farmer," you're a goat fucker.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Alt-right"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump%20presidential%20campaign,%202016"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nazism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Goat"/>
+		<dc:source rdf:resource="https://twitter.com/michaelseitzman/status/800838810602848256"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Calling nazis "alt right" is like calling cancer "alt cell growth"</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Alt-right"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump%20presidential%20campaign,%202016"/>
