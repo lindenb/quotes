@@ -7,6 +7,17 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">1942: How can we beat the Nazis?
+1968: How can we go to the moon?
+2006: How can a phone be a supercomputer?
+2016: How can we beat the Nazis?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nazism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Supercomputer"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Apollo%2011"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump%20presidential%20campaign,%202016"/>
+		<dc:source rdf:resource="https://twitter.com/brentalfloss/status/801140568759955456"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">When I was young my father said to me:
 "Knowledge is Power....Francis Bacon"
 
