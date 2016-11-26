@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Fidel Castro: I will not die until America is destroyed.
+America: Donald Trump is our new president.
+Fidel Castro: Well then......</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fidel%20Castro"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump%20presidential%20campaign,%202016"/>
+		<dc:source rdf:resource="https://twitter.com/followbackLavey/status/802510408124928000"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">C'est bien beau d'accuser réception. Mais vous avez des preuves?</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Return%20receipt"/>
 		<dc:source rdf:resource="https://twitter.com/Nini_MacBright/status/796977307797848066"/>
