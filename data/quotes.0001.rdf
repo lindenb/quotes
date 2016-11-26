@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Bonjour @christineboutin, confirmez-vous le décès de Fidel Castro ?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fidel%20Castro"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Christine%20Boutin"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jacques%20Chirac"/>
+		<dc:source rdf:resource="https://twitter.com/ParisPasRose/status/802388665272037376"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">1942: How can we beat the Nazis?
 1968: How can we go to the moon?
 2006: How can a phone be a supercomputer?
