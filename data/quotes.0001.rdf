@@ -7,7 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
-		<q:quote xml:lang="en">Bonjour @christineboutin, confirmez-vous le décès de Fidel Castro ?</q:quote>
+		<q:quote xml:lang="fr">C'est bien beau d'accuser réception. Mais vous avez des preuves?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Return%20receipt"/>
+		<dc:source rdf:resource="https://twitter.com/Nini_MacBright/status/796977307797848066"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Bonjour @christineboutin, confirmez-vous le décès de Fidel Castro ?</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fidel%20Castro"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Christine%20Boutin"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jacques%20Chirac"/>
