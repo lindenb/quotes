@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">"Je n'ai rien contre les gens de couleur. La preuve, j'ai un ami orange fluo" (Kanye West)</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Kanye%20West"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donal%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Racism%20in%20the%20United%20States"/>
+		<dc:source rdf:resource="https://twitter.com/Unpied/status/808954970804539392"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">À la fac, il y a une fille qui a osé écrire : "Selon Lindsey" au lieu de "Selon l'INSEE". Je peux mourir en paix.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Institut%20national%20de%20la%20statistique%20et%20des%20%C3%A9tudes%20%C3%A9conomiques"/>
 		<dc:source rdf:resource="https://twitter.com/FlavienNannini/status/518550326501470208"/>
