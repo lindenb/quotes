@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">À la fac, il y a une fille qui a osé écrire : "Selon Lindsey" au lieu de "Selon l'INSEE". Je peux mourir en paix.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Institut%20national%20de%20la%20statistique%20et%20des%20%C3%A9tudes%20%C3%A9conomiques"/>
+		<dc:source rdf:resource="https://twitter.com/FlavienNannini/status/518550326501470208"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Fidel Castro: I will not die until America is destroyed.
 America: Donald Trump is our new president.
 Fidel Castro: Well then......</q:quote>
