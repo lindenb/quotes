@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">You can start a sentence with "All the best developers I know," as long as you end it with "&amp; that's a great example of survivorship bias."</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Survivor%20bias"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programmer"/>
+		<dc:source rdf:resource="https://twitter.com/sarahmei/status/812900346695536640"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">"Je n'ai rien contre les gens de couleur. La preuve, j'ai un ami orange fluo" (Kanye West)</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Kanye%20West"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donal%20Trump"/>
