@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">2016 was directed by me</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/George%20RR%20Martin"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/2016"/>
+		<dc:source rdf:resource="https://twitter.com/GRRM/status/687648683647758337"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">You can start a sentence with "All the best developers I know," as long as you end it with "&amp; that's a great example of survivorship bias."</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Survivor%20bias"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programmer"/>
