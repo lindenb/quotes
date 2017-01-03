@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">-lol je suis vraiment un geek
+
+*utilise les caisses automatiques*
+
+-Madame comment on fait pour peser les citrons ?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Geek"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cash%20register"/>
+		<dc:source rdf:resource="https://twitter.com/aseyn/status/815929676560551936"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Shakespeare quote of the day: "an ssl error has occurred and a secure connection to the server cannot be made"</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/William%20Shakespeare"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Secure%20Sockets%20Layer"/>
