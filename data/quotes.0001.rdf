@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">L'abondance jaillissante des tweets de Trump, alors qu'il ne couche pas encore à la Maison Blanche, tient de l'éjaculation précoce.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Premature%20ejaculation"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donal%20Trump"/>
+		<dc:source rdf:resource="https://twitter.com/bernardpivot1/status/818243274896973824"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">-lol je suis vraiment un geek
 
 *utilise les caisses automatiques*
