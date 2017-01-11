@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">The writers of House of Cards have all just quit.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/House%20of%20Cards%20(U.S.%20TV%20series)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donal%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sex%20scandal"/>
+		<dc:source rdf:resource="https://twitter.com/AdamRutherford/status/818962194738122752"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">L'abondance jaillissante des tweets de Trump, alors qu'il ne couche pas encore à la Maison Blanche, tient de l'éjaculation précoce.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Premature%20ejaculation"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donal%20Trump"/>
