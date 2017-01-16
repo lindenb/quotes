@@ -6,7 +6,15 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
-<q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Top 3 des plus gros mensonges inventés par l'espèce humaine:
+3) "Dieu existe"
+2) "Je suis le candidat du changement"
+1) "Ouverture facile"
+0 replies 0 retweets 1 like
+</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/821095469006864385"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="en">"Can everyone read the code on the slide?"
 "Not really." 
@@ -15,7 +23,7 @@
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Scala%20(programming%20language)"/>
 		<dc:source rdf:resource="https://twitter.com/gfixler/status/820714346850332672"/>
 	</q:Quote>	
-	
+	<q:Quote>
 		<q:quote xml:lang="en">Theory: Trump doesn't give many press conferences because he's too busy fighting time travelers from the future.
 </q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
