@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 <q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">"Can everyone read the code on the slide?"
+"Not really." 
+&lt;enlarges text&gt; "Better?" 
+"No, it's still Scala."</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Scala%20(programming%20language)"/>
+		<dc:source rdf:resource="https://twitter.com/gfixler/status/820714346850332672"/>
+	</q:Quote>	
+	
 		<q:quote xml:lang="en">Theory: Trump doesn't give many press conferences because he's too busy fighting time travelers from the future.
 </q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
