@@ -7,11 +7,17 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">If you feel like you're in the wrong universe, remember all this weird crap only started after they turned on the Large Hadron Collider.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Large%20Hadron%20Collider"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Brexit"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<dc:source rdf:resource="https://twitter.com/Attervar/status/821074334110334979"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Top 3 des plus gros mensonges inventés par l'espèce humaine:
 3) "Dieu existe"
 2) "Je suis le candidat du changement"
 1) "Ouverture facile"
-0 replies 0 retweets 1 like
 </q:quote>
 		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/821095469006864385"/>
 	</q:Quote>
