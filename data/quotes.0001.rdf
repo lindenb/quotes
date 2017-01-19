@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">If you were born after 1985, you've never experienced a year of "normal" weather. You never will.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Climate%20change"/>
+		<dc:source rdf:resource="https://twitter.com/AlexSteffen/status/821775284332396544"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">If you feel like you're in the wrong universe, remember all this weird crap only started after they turned on the Large Hadron Collider.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Large%20Hadron%20Collider"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Brexit"/>
