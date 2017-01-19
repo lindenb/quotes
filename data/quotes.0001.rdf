@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Remember to set your clocks back 60 years tomorrow it's alt-right savings time</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Alt-right"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donal%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Daylight%20saving%20time"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/United%20States%20presidential%20inauguration"/>
+		<dc:source rdf:resource="https://twitter.com/sbstryker/status/822120520950759424"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">If you were born after 1985, you've never experienced a year of "normal" weather. You never will.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Climate%20change"/>
 		<dc:source rdf:resource="https://twitter.com/AlexSteffen/status/821775284332396544"/>
