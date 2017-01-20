@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">"POTUS hasn't tweeted yet"
+Let's enjoy this, for a moment.
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donal%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/United%20States%20presidential%20inauguration"/>
+		<dc:source rdf:resource="https://twitter.com/jaffathecake/status/822492901229953026"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">This is not a speech for the history books. This is a speech for the psychiatry books. </q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donal%20Trump"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/United%20States%20presidential%20inauguration"/>
