@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">BREAKING: The Secret Service has shot and killed another time traveller, bringing today’s total to 873.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Time%20travel%20in%20fiction"/>
+		<dc:source rdf:resource="https://twitter.com/TheNardvark/status/822473456977608704"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">"POTUS hasn't tweeted yet"
 Let's enjoy this, for a moment.
 </q:quote>
