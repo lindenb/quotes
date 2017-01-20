@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">This is not a speech for the history books. This is a speech for the psychiatry books. </q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donal%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/United%20States%20presidential%20inauguration"/>
+		<dc:source rdf:resource="https://twitter.com/RVAwonk/status/822492794392551426"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Let's Make America Smart Again.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donal%20Trump"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/United%20States%20presidential%20inauguration"/>
