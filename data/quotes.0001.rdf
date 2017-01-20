@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Let's Make America Smart Again.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donal%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/United%20States%20presidential%20inauguration"/>
+		<dc:source rdf:resource="https://twitter.com/neiltyson/status/822257296893997056"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Remember to set your clocks back 60 years tomorrow it's alt-right savings time</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Alt-right"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donal%20Trump"/>
