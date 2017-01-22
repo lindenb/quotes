@@ -7,6 +7,22 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">We're not taking your healthcare we're just finding an alternative way for you to die. </q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Alternative%20facts"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<dc:source rdf:resource="https://twitter.com/DemsTalk/status/823260663690698752"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Kellyanne%20Conway"/>
+	</q:Quote>	
+	
+	<q:Quote>
+		<q:quote xml:lang="en">Someone convinced me to give Trump 100 days. I took a breath and agreed to try. Day 1, #alternativefacts, and I am done. Game on.</q:quote>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Jimmy%20Wales"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Alternative%20facts"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<dc:source rdf:resource="https://twitter.com/jimmy_wales/status/823245349443796992"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Kellyanne%20Conway"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Dear Nazi: Don't think of it as a punch. It's just an alt-hug.</q:quote>
 		<!-- https://twitter.com/natefoo/status/822659271645167618  -->
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Alt-right"/>
