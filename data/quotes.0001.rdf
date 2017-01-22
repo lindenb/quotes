@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Dear Nazi: Don't think of it as a punch. It's just an alt-hug.</q:quote>
+		<!-- https://twitter.com/natefoo/status/822659271645167618  -->
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Alt-right"/>
+		<dc:source rdf:resource="https://twitter.com/adamzopf/status/822654776445927424"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">BREAKING: The Secret Service has shot and killed another time traveller, bringing today’s total to 873.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Time%20travel%20in%20fiction"/>
