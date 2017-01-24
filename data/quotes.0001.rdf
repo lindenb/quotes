@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">whomever just unfollowed me - show yourself you coward</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sean%20Spicer"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<dc:source rdf:resource="https://twitter.com/seanspicer/status/300786700173598722"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">We're not taking your healthcare we're just finding an alternative way for you to die. </q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Alternative%20facts"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
