@@ -7,6 +7,20 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">N'empêche, depuis hier soir Fillon doit bien regretter d'avoir inventé internet...</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fran%C3%A7ois%20Fillon"/>
+		<dc:source rdf:resource="https://twitter.com/marcais_olive/status/824213651087298561"/>
+		<!-- FF suspected of provuding fictional job for his spouse --> 
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">The GOP - Because Noah's ark is more plausible than climate change</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Republican%20Party%20(United%20States)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Noah's%20Ark"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Climate%20change"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<dc:source rdf:resource="https://twitter.com/Fred_Delicious/status/824321276839919618"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">whomever just unfollowed me - show yourself you coward</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sean%20Spicer"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
