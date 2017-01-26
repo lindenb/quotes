@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Science matters</q:quote>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Gillian%20Anderson"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/X-Files"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Alternative%20facts"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
+		<dc:source rdf:resource="https://twitter.com/GillianA/status/824704789896425472"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">My historian’s lament: I never wanted to live in interesting times. I just wanted to write about them.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Historian"/>
