@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">The ugliest first week of a presidency in the history of the American republic.</q:quote>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Stephen%20King"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donal%20Trump"/>
+		<dc:source rdf:resource="https://twitter.com/StephenKing/status/824437708068098048"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Science matters</q:quote>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Gillian%20Anderson"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/X-Files"/>
