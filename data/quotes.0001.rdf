@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Sean Spicer, I've said this to @realDonaldTrump and now I'll tell you: Mexico is not going to pay for that fucking wall. #FuckingWall</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mexico"/>
+		<dc:source rdf:resource="https://twitter.com/VicenteFoxQue/status/824360005554044932"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">N'empêche, depuis hier soir Fillon doit bien regretter d'avoir inventé internet...</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fran%C3%A7ois%20Fillon"/>
 		<dc:source rdf:resource="https://twitter.com/marcais_olive/status/824213651087298561"/>
