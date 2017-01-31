@@ -6,6 +6,12 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+<q:Quote>
+		<q:quote xml:lang="fr">Purée faut pas généraliser. Y a des gens biens chez les Syriens, ils veulent pas tous supprimer les ports USB</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Steve%20Jobs"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Executive%20Order%20%22Protecting%20the%20Nation%20from%20Foreign%20Terrorist%20Entry%20into%20the%20United%20States%22"/>
+		<dc:source rdf:resource="https://twitter.com/legrugru/status/826144535940067328"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="en">The ugliest first week of a presidency in the history of the American republic.</q:quote>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Stephen%20King"/>
