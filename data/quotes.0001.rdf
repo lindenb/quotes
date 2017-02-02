@@ -6,6 +6,14 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+	<q:Quote>
+		<q:quote xml:lang="fr">Le monde entier : "La campagne électorale américaine était scandaleuse, impossible de faire pire."
+La France : "CHALLENGE ACCEPTED."</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fran%C3%A7ois%20Fillon"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump%20presidential%20campaign,%202016"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/French%20presidential%20election,%202017"/>
+		<dc:source rdf:resource="https://twitter.com/TaniaKessaouti/status/826830144849453061"/>
+	</q:Quote>
 <q:Quote>
 		<q:quote xml:lang="fr">Purée faut pas généraliser. Y a des gens biens chez les Syriens, ils veulent pas tous supprimer les ports USB</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Steve%20Jobs"/>
