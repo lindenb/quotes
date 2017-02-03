@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Most papers in computer science describe how their author learned what someone else already knew.</q:quote>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Peter%20Landin"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Computer%20Sciences"/>
+		<dc:source rdf:resource="https://twitter.com/haldaume3/status/821190888605024256"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Le monde entier : "La campagne électorale américaine était scandaleuse, impossible de faire pire."
 La France : "CHALLENGE ACCEPTED."</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fran%C3%A7ois%20Fillon"/>
