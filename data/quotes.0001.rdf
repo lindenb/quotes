@@ -6,6 +6,12 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+       <q:Quote>
+		<q:quote xml:lang="fr">La bioinfo c est nul .. Enfin perso je déteste ... Chiant a mourir</q:quote>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Education"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/SayMoneyy/status/511798615640379392"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="fr">Le cours de bioinformatique est tellement chiant et inutile.... c'est la 1ère fois qu'autant de monde n'ecoute pas.</q:quote>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Education"/>
