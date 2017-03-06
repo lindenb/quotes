@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
        <q:Quote>
+		<q:quote xml:lang="fr">C'est la merde mais c'est la vie, je vais retourner aux racines de la biologie moléculaire et oublier la bioinformatique de fils de pute.</q:quote>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Education"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/JulienJx/status/838807124725673984"/>
+	</q:Quote>
+       <q:Quote>
 		<q:quote xml:lang="fr">La bioinfo c est nul .. Enfin perso je déteste ... Chiant a mourir</q:quote>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Education"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
