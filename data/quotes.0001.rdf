@@ -6,6 +6,12 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+	<q:Quote>
+		<q:quote xml:lang="en">The more I learn about cryptography, the more I think Alice and Bob should probably just talk in person.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cryptography"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Alice%20and%20Bob"/>
+		<dc:source rdf:resource="https://twitter.com/preinheimer/status/841273046317060105"/>
+	</q:Quote>
        <q:Quote>
 		<q:quote xml:lang="en">First Rule of Twitter Club: Always retweet your friends. Second Rule: You don't have any.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fight%20Club%20(novel)"/>
