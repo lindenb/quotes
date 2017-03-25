@@ -6,6 +6,43 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+	
+	<q:Quote>
+		<q:quote xml:lang="fr">« Oui, j'ai reçu 10 000€ d'un scientifique dont j'évalue le projet pour l'ANR. Mais c'était un cadeau totalement désintéressé. »</q:quote>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Fillon"/>
+		<dc:source rdf:resource="https://twitter.com/Maitre_de_conf/status/845678911916855296"/>
+	</q:Quote>
+	
+	<q:Quote>
+		<q:quote xml:lang="fr">« Oui, c'est ma femme et mes deux enfants qui ont évalué mon article. Et alors, ça n'est pas interdit, que je sache. »</q:quote>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Fillon"/>
+		<dc:source rdf:resource="https://twitter.com/Maitre_de_conf/status/845672448834064388"/>
+	</q:Quote>
+	
+	<q:Quote>
+		<q:quote xml:lang="fr">P&gt;0.05. Et alors ?</q:quote>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Fillon"/>
+		<dc:source rdf:resource="https://twitter.com/DevilleSy/status/845674484644352000"/>
+	</q:Quote>
+	
+	<q:Quote>
+		<q:quote xml:lang="fr">« Je paie à ma femme une bourse de thèse depuis 12 ans. — Et elle publie ? — Non, un travail de thèse, c'est surtout informel. »</q:quote>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Fillon"/>
+		<dc:source rdf:resource="https://twitter.com/Maitre_de_conf/status/845674132973015040"/>
+	</q:Quote>
+	
+	<q:Quote>
+		<q:quote xml:lang="fr">«Mes articles systématiquement rejetés sont le fruit d'un complot du #cabinetnoir du reviewer 3. »</q:quote>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Fillon"/>
+		<dc:source rdf:resource="https://twitter.com/Maitre_de_conf/status/845673547158732805"/>
+	</q:Quote>
+	
+	<q:Quote>
+		<q:quote xml:lang="fr">"Je suis le porteur du projet, j'ai une enveloppe, je fais ce que je veux avec !" </q:quote>
+		<dc:source rdf:resource="https://twitter.com/Lazarrre/status/845668044852645888"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Fillon"/>
+	</q:Quote>
+	
 	<q:Quote>
 		<q:quote xml:lang="en">The more I learn about cryptography, the more I think Alice and Bob should probably just talk in person.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cryptography"/>
@@ -17,7 +54,7 @@
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fight%20Club%20(novel)"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Friendship"/>
-	        <dc:source rdf:resource="https://twitter.com/NeinQuarterly/status/840032962217406465"/>
+	    <dc:source rdf:resource="https://twitter.com/NeinQuarterly/status/840032962217406465"/>
 	</q:Quote>
        <q:Quote>
 		<q:quote xml:lang="fr">C'est la merde mais c'est la vie, je vais retourner aux racines de la biologie moléculaire et oublier la bioinformatique de fils de pute.</q:quote>
