@@ -6,7 +6,12 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
-	
+	<q:Quote>
+		<q:quote xml:lang="en">I tried pair programming once.  You'll NEVER FIND THE BODY.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pair%20programming"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Murder"/>
+		<dc:source rdf:resource="https://twitter.com/brucevanhorn2/status/846194409632870400"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="fr">« Oui, j'ai reçu 10 000€ d'un scientifique dont j'évalue le projet pour l'ANR. Mais c'était un cadeau totalement désintéressé. »</q:quote>
 		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Fillon"/>
