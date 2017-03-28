@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Si votre gouache blanche est trop transparente, c'est peut-être parce que c'est en fait un tube de crème pour les mains.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Painting"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hand%20washing"/>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/846683476074082305"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I tried pair programming once.  You'll NEVER FIND THE BODY.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pair%20programming"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Murder"/>
