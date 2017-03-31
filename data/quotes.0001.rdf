@@ -6,6 +6,12 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+	<q:Quote>
+		<q:quote xml:lang="en">I've married many men, and I know where all the bodies are buried</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Priest"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vicar"/>
+		<dc:source rdf:resource="https://twitter.com/revgoodrich/status/847767770766991360"/>
+	</q:Quote>
 <q:Quote>
 		<q:quote xml:lang="en">My entire life until now, I felt humans were making progress. Uneven, confused, wrong at times, but progress. Now? Idiots run the world.</q:quote>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Jimmy%20Wales"/>
