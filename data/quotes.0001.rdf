@@ -135,4 +135,10 @@
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
 		<dc:source rdf:resource="https://twitter.com/TheDindasse/status/139345389735264256"/>
 	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Il n'y a rien de mieux que la bioinformatique, ou plutôt comment perdre 4h de sa vie?</q:quote>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Education"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/oceane4095/status/848813500382281728"/>
+	</q:Quote>
 </rdf:RDF>
