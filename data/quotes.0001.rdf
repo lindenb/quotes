@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">
+
+I am committed to keeping our air and water clean but always remember that economic growth enhances environmental protection. Jobs matter!
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ecology"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Economic%20growth"/>
+		<dc:source rdf:resource="https://twitter.com/realDonaldTrump/status/855901315305795584"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I've married many men, and I know where all the bodies are buried</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Priest"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vicar"/>
