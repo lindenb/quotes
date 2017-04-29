@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Dupont-Aignan a été traité de "trou du cul". C'est impropre. Il n'en a ni la chaleur ni la profondeur.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nicolas%20Dupont-Aignan"/>
+		<dc:source rdf:resource="https://twitter.com/morelexplo/status/858375167055200256"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">
 
 I am committed to keeping our air and water clean but always remember that economic growth enhances environmental protection. Jobs matter!
