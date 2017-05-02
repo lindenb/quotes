@@ -7,10 +7,21 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:comment>MLP a plagie le discours de FF le 1 mai 2017</q:comment>
+		<q:quote xml:lang="fr">Il n'y a paradoxalement qu'au FN qu'on ne m'en voudra pas d'écrire que le nègre de Le Pen est malhonnête.
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/French%20presidential%20election,%202017"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Plagiarism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Marine%20Le%20Pen"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fran%C3%A7ois%20Fillon"/>
+		<dc:source rdf:resource="https://twitter.com/bernardpivot1/status/859158795594936321"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Thomas Pesquet, c'est le mec qui prend des photos de la bûche au chocolat quand toute la famille s'engueule.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Thomas%20Pesquet"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/French%20presidential%20election,%202017"/>
 		<dc:source rdf:resource="https://twitter.com/alphoenix/status/859134695178686465"/>
+		<q:comment>Pesquet prends des photos de paris depuis l'ISS pendant l'entre-deux-tours</q:comment>
 	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="fr">Dupont-Aignan a été traité de "trou du cul". C'est impropre. Il n'en a ni la chaleur ni la profondeur.</q:quote>
