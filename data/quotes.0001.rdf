@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">N'empêche, le mec qui s'appelle « Et Al », il doit avoir un h-index de fou.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/H-index"/>
+		<dc:source rdf:resource="https://twitter.com/Maitre_de_conf/status/859412086866268160"/>
+	</q:Quote>
+	<q:Quote>
 		<q:comment>MLP a plagie le discours de FF le 1 mai 2017</q:comment>
 		<q:quote xml:lang="fr">Il n'y a paradoxalement qu'au FN qu'on ne m'en voudra pas d'écrire que le nègre de Le Pen est malhonnête.
 </q:quote>
