@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Thomas Pesquet, c'est le mec qui prend des photos de la bûche au chocolat quand toute la famille s'engueule.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Thomas%20Pesquet"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/French%20presidential%20election,%202017"/>
+		<dc:source rdf:resource="https://twitter.com/alphoenix/status/859134695178686465"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Dupont-Aignan a été traité de "trou du cul". C'est impropre. Il n'en a ni la chaleur ni la profondeur.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nicolas%20Dupont-Aignan"/>
 		<dc:source rdf:resource="https://twitter.com/morelexplo/status/858375167055200256"/>
