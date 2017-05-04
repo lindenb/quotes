@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		
+		<q:quote xml:lang="fr">"ET OUI Monsieur Macron c'est aussi a cause de vous que Dumbledore MEURT  a la fin de Harry Potter 6, VOUS etiez ministre à l'époque"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Harry%20Potter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Marine%20Le%20Pen"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emmanuel%20Macron"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/French%20presidential%20election,%202017"/>
+		<dc:source rdf:resource="https://twitter.com/flwjrm/status/859866931230384128"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">N'empêche, le mec qui s'appelle « Et Al », il doit avoir un h-index de fou.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/H-index"/>
 		<dc:source rdf:resource="https://twitter.com/Maitre_de_conf/status/859412086866268160"/>
