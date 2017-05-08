@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Tout ça me rappelle cette phrase de Corbier "un jour il y aura un Président de la République qui aura grandi avec le Club Dorothée"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Club%20Doroth%C3%A9e"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emmanuel%20Macron"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/French%20presidential%20election,%202017"/>
+		<dc:source rdf:resource="https://twitter.com/aseyn/status/861422533794566145"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">La première qualité reconnue à Macron par les commentateurs est sa jeunesse. L'ennui, c'est que là, déjà, il ne pourra pas faire mieux.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emmanuel%20Macron"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/French%20presidential%20election,%202017"/>
