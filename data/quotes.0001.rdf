@@ -7,7 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
-		
+		<q:quote xml:lang="fr">La première qualité reconnue à Macron par les commentateurs est sa jeunesse. L'ennui, c'est que là, déjà, il ne pourra pas faire mieux.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emmanuel%20Macron"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/French%20presidential%20election,%202017"/>
+		<dc:source rdf:resource="https://twitter.com/bernardpivot1/status/861290149661073409"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">"ET OUI Monsieur Macron c'est aussi a cause de vous que Dumbledore MEURT  a la fin de Harry Potter 6, VOUS etiez ministre à l'époque"</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Harry%20Potter"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Marine%20Le%20Pen"/>
