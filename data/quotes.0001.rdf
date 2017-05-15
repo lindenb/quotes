@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Après « Maintenance » (en code 200), j'ai eu « Erreur 503 » puis « Erreur 504 ». Toi aussi, apprends les codes HTTP avec l'ANR.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Agence%20nationale%20de%20la%20recherche"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/HTTP%20status%20code"/>
+		<dc:source rdf:resource="https://twitter.com/Maitre_de_conf/status/864149301504626688"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">This FBI Director has sought for years to jail me on account of my political activities. If I can oppose his firing, so can you.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Edward%20Snowden"/>
