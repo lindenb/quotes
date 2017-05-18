@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Indels aren't just a format issue, they are a semantic nightmare no matter what the model for equivalence (left shifting, edge wander).</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Indel"/>
+		<dc:source rdf:resource="https://twitter.com/ewanbirney/status/865094487743311872"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Après « Maintenance » (en code 200), j'ai eu « Erreur 503 » puis « Erreur 504 ». Toi aussi, apprends les codes HTTP avec l'ANR.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Agence%20nationale%20de%20la%20recherche"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/HTTP%20status%20code"/>
