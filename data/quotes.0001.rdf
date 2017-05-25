@@ -6,6 +6,14 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+	
+	<q:Quote>
+		<q:quote xml:lang="en">Math jokes aren't funny. Nothing about math is funny. Math is a sin.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mathematics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sinus"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sin"/>
+		<dc:source rdf:resource="https://twitter.com/ThePunnyWorld/status/867606875977777152"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="en">Indels aren't just a format issue, they are a semantic nightmare no matter what the model for equivalence (left shifting, edge wander).</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Indel"/>
