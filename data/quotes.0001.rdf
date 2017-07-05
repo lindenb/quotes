@@ -6,7 +6,13 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
-	
+	<q:Quote>
+		<q:quote xml:lang="fr">"Nous connaissons peu les conséquences à long terme de la vaccination multiple, et celle-ci remplira les poches des laboratoires"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vaccination"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Antivaccinationist"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Marine%20Le%20Pen"/>
+		<dc:source rdf:resource="https://twitter.com/MLP_officiel/status/882477931368505344"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="en">Math jokes aren't funny. Nothing about math is funny. Math is a sin.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mathematics"/>
