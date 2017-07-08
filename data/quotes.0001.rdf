@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Ça a bien changé Nostalgie. Quand j'étais jeune ils ne passaient que des chansons de vieux, alors que maintenant ils passent mes chansons.
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Radio%20Nostalgie"/>
+		<dc:source rdf:resource="https://twitter.com/ALICEVUYST/status/883590791758729217"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">"Nous connaissons peu les conséquences à long terme de la vaccination multiple, et celle-ci remplira les poches des laboratoires"</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vaccination"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Antivaccinationist"/>
