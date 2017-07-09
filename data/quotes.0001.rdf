@@ -7,6 +7,20 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<!-- Angela les mains dans les yeyx , au G20, pendant que Trump lui parle -->
+		<q:quote xml:lang="en">"You know Hitler was from Germany." 
+"He was from Austria."
+"Then how come you never saw him with kangaroos?"
+"That's-"
+"Or a boomerang?"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Adolf%20Hitler"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20J%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Angela%20Merkel"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Austria"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Australia"/>
+		<dc:source rdf:resource="https://twitter.com/Pundamentalism/status/883724070830964736"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Ça a bien changé Nostalgie. Quand j'étais jeune ils ne passaient que des chansons de vieux, alors que maintenant ils passent mes chansons.
 </q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Radio%20Nostalgie"/>
