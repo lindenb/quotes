@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">The news is real. The president is fake.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20J%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fake%20news"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Stephen%20King"/>
+		<dc:source rdf:resource="https://twitter.com/StephenKing/status/884179939905466368"/>
+	</q:Quote>
+	<q:Quote>
 		<!-- Angela les mains dans les yeyx , au G20, pendant que Trump lui parle -->
 		<q:quote xml:lang="en">"You know Hitler was from Germany." 
 "He was from Austria."
