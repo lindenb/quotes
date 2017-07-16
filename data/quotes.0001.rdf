@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">YOU CAN'T HAVE A WOMAN PLAY A PERSON WHO TIME TRAVELS IN A PHONE BOX FIGHTING ALIENS BECAUSE IT MAKES IT UNREALISTIC!!!!</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Dr%20Who"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jodie%20Whittaker"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Feminism"/>
+		<dc:source rdf:resource="https://twitter.com/KimJongUnVEVO/status/886609857381576706"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">The news is real. The president is fake.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20J%20Trump"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fake%20news"/>
