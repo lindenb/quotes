@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Tous ces bacheliers sans école, merde, start-up nation les jeunes, créez votre université, faites un effort.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emmanuel%20Macron"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Universities%20in%20France"/>
+		<dc:source rdf:resource="https://twitter.com/MateuilB/status/886848281007058944"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">YOU CAN'T HAVE A WOMAN PLAY A PERSON WHO TIME TRAVELS IN A PHONE BOX FIGHTING ALIENS BECAUSE IT MAKES IT UNREALISTIC!!!!</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Dr%20Who"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jodie%20Whittaker"/>
