@@ -6,6 +6,15 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+<q:Quote>
+		<q:quote xml:lang="en">Droitier: je suis droitier 
+
+Gaucher: je suis gaucher et saviez vous que Einstein, De Vinci et autres génies étaient gauchers car (1/247)</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Left-handedness"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Albert%20Einstein"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Leonardo%20da%20Vinci"/>
+		<dc:source rdf:resource="https://twitter.com/karibahut/status/887691740341125120"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="fr">Tous ces bacheliers sans école, merde, start-up nation les jeunes, créez votre université, faites un effort.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emmanuel%20Macron"/>
