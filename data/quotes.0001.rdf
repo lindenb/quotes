@@ -6,6 +6,15 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+	<q:Quote>
+		<q:quote xml:lang="en">Actually the technical term for a cancer patient who leaves their hospital bed to steal health care from fellow cancer patients is “asshole”
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Obamacare"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/John%20McCain"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Brain%20tumor"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Asshole"/>
+		<dc:source rdf:resource="https://twitter.com/xeni/status/889925007308193792"/>
+	</q:Quote>
 <q:Quote>
 		<q:quote xml:lang="en">Droitier: je suis droitier 
 
