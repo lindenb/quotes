@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Everybody thinks it's funny, but nobody spares a thought for the poor Whitehouse sysadmins: Add a user, remove a user, add a user, remove..</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20J.%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/White%20House"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sysadmin"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Anthony%20Scaramucci"/>
+		<dc:source rdf:resource="https://twitter.com/haroonmeer/status/892339480337580033"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Actually the technical term for a cancer patient who leaves their hospital bed to steal health care from fellow cancer patients is “asshole”
 </q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Obamacare"/>
