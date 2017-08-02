@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Moi: Bon, je dois aller aux toilettes.
+Spotify *Passe un de mes morceaux préférés*
+Moi *gigote à l'agonie sur ma chaise pendant 3 minutes*</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Water%20closet"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Spotify"/>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/892700208420749312"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Everybody thinks it's funny, but nobody spares a thought for the poor Whitehouse sysadmins: Add a user, remove a user, add a user, remove..</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20J.%20Trump"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/White%20House"/>
