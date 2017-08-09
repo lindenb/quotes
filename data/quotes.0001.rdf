@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">If North Korea launches them nukes, George R. R. Martin better tweet out who's on that damn throne</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/George%20R.%20R.%20Martin"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/North%20Korea"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/United%20States"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Game%20of%20Thrones"/>
+		<dc:source rdf:resource="https://twitter.com/ira/status/895190798303625216"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Moi: Bon, je dois aller aux toilettes.
 Spotify *Passe un de mes morceaux préférés*
 Moi *gigote à l'agonie sur ma chaise pendant 3 minutes*</q:quote>
