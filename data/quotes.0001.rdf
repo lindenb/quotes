@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Academia is a bunch of people emailing "sorry for the late response" back and forth until one of them gets tenure.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academia"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Email"/>
+		<dc:source rdf:resource="https://twitter.com/Research_Tim/status/895402179242188802"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">If North Korea launches them nukes, George R. R. Martin better tweet out who's on that damn throne</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/George%20R.%20R.%20Martin"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/North%20Korea"/>
