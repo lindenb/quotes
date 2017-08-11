@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Les guerres nucléaires ne me font pas peur car c'est une énergie propre  (tweet sponsorisé par Areva)</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Areva"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nuclear%20warfare"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/North%20Korea%E2%80%93United%20States%20relations"/>
+		<dc:source rdf:resource="https://twitter.com/Unpied/status/896045336069898240"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Academia is a bunch of people emailing "sorry for the late response" back and forth until one of them gets tenure.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academia"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Email"/>
