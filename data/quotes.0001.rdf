@@ -6,6 +6,13 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+	<q:Quote>
+		<q:quote xml:lang="en">If you've ever wondered what you would have done in 1930s Germany or during the civil rights movement, congratulations: you're doing it now.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/World%20War%20II"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nazism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Unite%20the%20Right%20rally"/>
+		<dc:source rdf:resource="https://twitter.com/matthewamiller/status/897814496999354368"/>
+	</q:Quote>
         <q:Quote>
 		<q:quote xml:lang="fr">Bon à savoir pour éviter une bourde:
 CTRL-ALT-DELETE : Redémarre Windows
