@@ -6,6 +6,15 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+        <q:Quote>
+		<q:quote xml:lang="fr">Bon à savoir pour éviter une bourde:
+CTRL-ALT-DELETE : Redémarre Windows
+ALT-RIGHT : Redémarre Hitler.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Alt-right"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Windows"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Unite%20the%20Right%20rally"/>
+		<dc:source rdf:resource="https://twitter.com/Unpied/status/898497514877407232"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="fr">Les guerres nucléaires ne me font pas peur car c'est une énergie propre  (tweet sponsorisé par Areva)</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Areva"/>
