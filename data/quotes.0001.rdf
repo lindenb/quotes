@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I'm truley sorry I voted for Trump. I only wanted disabled kids to lose their Medicaid ;I didn't want people to know im racist</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Racism%20in%20the%20United%20States"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Medicaid"/>
+		<dc:source rdf:resource="https://twitter.com/robdelaney/status/898622960843599872"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Those are my principles, and if you don't like them... well, I have others</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Principle"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Groucho%20Marx"/>
