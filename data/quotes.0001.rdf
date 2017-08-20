@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Those are my principles, and if you don't like them... well, I have others</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Principle"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Groucho%20Marx"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">If you've ever wondered what you would have done in 1930s Germany or during the civil rights movement, congratulations: you're doing it now.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/World%20War%20II"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nazism"/>
