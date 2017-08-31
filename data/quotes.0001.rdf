@@ -6,6 +6,14 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+<q:Quote>
+		<q:quote xml:lang="fr"> Un homme qui marche sur la lune, joue de la trompette comme un Dieu et gagne le tour de France ne pouvait être que dopé.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Louis%20Armstrong"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Neil%20Armstrong"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Lance%20Armstrong"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Doping%20at%20the%20Tour%20de%20France"/>
+	        <dc:source rdf:resource="https://twitter.com/DominiqueReynie/status/239055540456681472"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="en">I'm truley sorry I voted for Trump. I only wanted disabled kids to lose their Medicaid ;I didn't want people to know im racist</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
