@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Mon prof de bioinfo à grave l'accent africain, c'est dur de prendre la matière au sérieux ... "si vous wegadez la séquence pwoteique" </q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/Lucie_rg97/status/907621698815582209"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I'm going to cancel Netflix and negotiate with each film producer separately, to get the best deal for me and my family </q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Netflix"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Brexit"/>
