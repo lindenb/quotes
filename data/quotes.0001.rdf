@@ -7,10 +7,17 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">1/3 of US bandwidth is used by Netflix... the rest is used by `rm -rf node_modules &amp;&amp; npm install`</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Netflix"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nodejs"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bandwidth%20(computing)"/>
+		<dc:source rdf:resource="https://twitter.com/iamdevloper/status/908335750797766656"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Our spacecraft has entered Saturn's atmosphere, and we have received its final transmission.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens%20retirement"/>
-		 <dc:source rdf:resource="https://twitter.com/CassiniSaturn/status/908661097837641729"/>
+		<dc:source rdf:resource="https://twitter.com/CassiniSaturn/status/908661097837641729"/>
 	</q:Quote>
 <q:Quote>
 		<q:quote xml:lang="fr"> Un homme qui marche sur la lune, joue de la trompette comme un Dieu et gagne le tour de France ne pouvait être que dopé.</q:quote>
