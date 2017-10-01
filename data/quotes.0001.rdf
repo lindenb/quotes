@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Mon psychiatre m’a conseillé d’écrire une lettre aux gens que je déteste puis de les brûler. C’est fait. 
+
+Mais que faire des lettres ?
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Psychiatry"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Letter%20(message)"/>
+		<q:keyword rdf:resource="https://twitter.com/Ogeanix/status/909133969605758976"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Les biostats hier clairement c'était un cours inutile c'est un truc ouf mais je suis sur au concours y 'aura une question dessus</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Biostatistics"/>
 		<q:keyword rdf:resource="https://twitter.com/_fabiiola__/status/906083887272615936"/>
