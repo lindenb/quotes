@@ -7,6 +7,10 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Americans killed on 9/11: 2,996 Days it took Congress to authorize war:3 Americans killed by guns in 2017: 11,652 Days in 2017 so far:275</q:quote>
+		<q:keyword rdf:resource="https://twitter.com/kalpenn/status/914928005851619328"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Mon psychiatre m’a conseillé d’écrire une lettre aux gens que je déteste puis de les brûler. C’est fait. 
 
 Mais que faire des lettres ?
