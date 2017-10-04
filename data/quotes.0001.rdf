@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">The 2nd Amendment was written 226 years ago. Imagine trying to write laws today that govern weapons in the year 2243.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/2nd%20Amendment%20USA"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20shooting"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/2017_Las_Vegas_Strip_shooting"/>
+		<dc:source rdf:resource="https://twitter.com/Mikel_Jollett/status/915062896798842881"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">When I woke up this morning, I was like, yeah, I can't wait to add yet another SV caller to this analysis plan and redo all of my analyses!</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Structural%20variation"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
