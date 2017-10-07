@@ -6,6 +6,17 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+<q:Quote>
+		<q:quote xml:lang="en">Twitter: Here’s a photo of my cute children playing with their new puppy aww  
+
+638 more replies |
+
+No I didn’t say Hiroshima was good I just said it helped push the Japanese towards surrender</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Godwin's%20law"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hiroshima"/>
+		<dc:source rdf:resource="https://twitter.com/mathaiaus/status/916090357405773824"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="en">The 2nd Amendment was written 226 years ago. Imagine trying to write laws today that govern weapons in the year 2243.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/2nd%20Amendment%20USA"/>
