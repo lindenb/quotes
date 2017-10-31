@@ -6,6 +6,13 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+	<q:Quote>
+		<q:quote xml:lang="fr">« Oui? C'est pour des bonbons? — Non. — Témoin de Jeovah? — Non. — …? — Je suis le reviewer 3. » *meurt d'une crise cardiaque*</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Review"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Halloween"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academia"/>
+		<dc:source rdf:resource="https://twitter.com/Maitre_de_conf/status/925439121945964544"/>
+	</q:Quote>
 <q:Quote>
 		<q:quote xml:lang="en">Twitter: Here’s a photo of my cute children playing with their new puppy aww  
 
