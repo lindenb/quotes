@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Why not just ban guns and when people are upset about it, just send them thoughts and prayers ?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/National%20Rifle%20Association"/>
+		<dc:source rdf:resource="https://twitter.com/ericabuist/status/927281277719465986"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">« Oui? C'est pour des bonbons? — Non. — Témoin de Jeovah? — Non. — …? — Je suis le reviewer 3. » *meurt d'une crise cardiaque*</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Review"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Halloween"/>
