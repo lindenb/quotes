@@ -7,7 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
-		<q:quote xml:lang="fr">Why not just ban guns and when people are upset about it, just send them thoughts and prayers ?</q:quote>
+		<q:quote xml:lang="en">No, bioinformatics efficiency is defined by time faffing around installing dependencies.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Software%20dependency"/>
+		<dc:source rdf:resource="https://twitter.com/pathogenomenick/status/928588878663036928"/>
+	</q:Quote>
+	
+	<q:Quote>
+		<q:quote xml:lang="en">Why not just ban guns and when people are upset about it, just send them thoughts and prayers ?</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/National%20Rifle%20Association"/>
 		<dc:source rdf:resource="https://twitter.com/ericabuist/status/927281277719465986"/>
 	</q:Quote>
@@ -18,7 +25,7 @@
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academia"/>
 		<dc:source rdf:resource="https://twitter.com/Maitre_de_conf/status/925439121945964544"/>
 	</q:Quote>
-<q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Twitter: Here’s a photo of my cute children playing with their new puppy aww  
 
 638 more replies |
