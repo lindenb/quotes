@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Media: lying Mueller: lying Comey: lying Obama: lying Clinton: lying Judges: lying Sex assault accusers: lying Scientists re: climate change: lying Doctors re: ACA: lying Mother of slain U.S. soldier: lying Intelligence services: lying Putin: "He means it. I believe him.”</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vladimir%20Putin"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fake%20news"/>
+		<dc:source rdf:resource="https://twitter.com/knittaphd/status/929429686693666816"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">No, bioinformatics efficiency is defined by time faffing around installing dependencies.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Software%20dependency"/>
