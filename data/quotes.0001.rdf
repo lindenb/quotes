@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Trump: So sad that Obama rejected Keystone Pipeline. Thousands of jobs, good for the environment, no downside!
+
+"South Dakota currently enjoying 210k gallons of No Downside"
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Keystone%20Pipeline"/>
+		<dc:source rdf:resource="https://twitter.com/JohnFugelsang/status/931354277729234945"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">L'intimité, c'est quand quelque chose est juste partagé entre toi, moi, Mark Zuckerberg, Google et la NSA. Juste nous cinq, personne d'autre.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Privacy"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Google"/>
