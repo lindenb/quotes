@@ -6,7 +6,15 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
-<q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">L'intimité, c'est quand quelque chose est juste partagé entre toi, moi, Mark Zuckerberg, Google et la NSA. Juste nous cinq, personne d'autre.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Privacy"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Google"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Facebook"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/National%20Security%20Agency"/>
+		<dc:source rdf:resource="https://twitter.com/Jean_no/status/931564564755476480"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Si vous passez une sale journée dites vous que je viens de confondre les tortues ninja et les power Rangers dans une conversation.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Power%20Rangers"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Teenage%20Mutant%20Ninja%20Turtles"/>
