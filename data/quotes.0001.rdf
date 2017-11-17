@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">“Daddy, how is software made?” “Well, when a programmer loves an idea very much they stay up all night and then push to github the next day.” – Sam Kottler</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/GitHub"/>
+		<dc:source rdf:resource="https://twitter.com/TalkPython/status/931641709276094466"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Trump: So sad that Obama rejected Keystone Pipeline. Thousands of jobs, good for the environment, no downside!
 
 "South Dakota currently enjoying 210k gallons of No Downside"
