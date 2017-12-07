@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Je propose l'éradication de la bioinformatique et des profs qui nous font faire de TD sur un sujet pr nous filer un Contrôle de fin de semestre qui n'a rien à voir et 2mois après le dernier cours</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/dreadfulwalkers/status/938828255599185922"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">-Est-ce que les enfants en France font des faux prouts en mettant la main sous l' aisselle? -Bien sûr! -Tu sais faire, toi? -TOUT LE MONDE sait faire *2 minutes embarrassantes de gigotage silencieux T-Shirt relevé où je découvre que j'ai perdu un super-pouvoir de mon enfance*</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fart"/>
 		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/932352559464853504"/>
