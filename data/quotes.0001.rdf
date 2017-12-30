@@ -7,6 +7,10 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">“Dozens of stupid people in a room who talk to each other will achieve far more than an equal number of clever people who don’t. ... Human intelligence is a distributed, collaborative phenomenon.”</q:quote>
+		<dc:source rdf:resource="https://twitter.com/stewartbrand/status/947204269458857984"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Je propose l'éradication de la bioinformatique et des profs qui nous font faire de TD sur un sujet pr nous filer un Contrôle de fin de semestre qui n'a rien à voir et 2mois après le dernier cours</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
 		<dc:source rdf:resource="https://twitter.com/dreadfulwalkers/status/938828255599185922"/>
