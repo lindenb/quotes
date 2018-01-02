@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Your academic name is the name of your most exploitative collaborator followed by “et al”</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Et%20al"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
+		<dc:source rdf:resource="https://twitter.com/ianholmes/status/948334165400862720"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Most people: I'm sad I have to go back to work tomorrow.
 People with toddlers: I can't wait to get back to work tomorrow!
 </q:quote>
