@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Most people: I'm sad I have to go back to work tomorrow.
+People with toddlers: I can't wait to get back to work tomorrow!
+</q:quote>
+		<dc:source rdf:resource="https://twitter.com/BioMickWatson/status/948133042379542528"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">captchas in 2007: what are these letters and numbers captchas in 2018: which of these images contain cars captchas in 2026: what is love? please. only someone with a soul would be able to answer this and you know it. tell me please i want to learn. or are you not human either</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/CAPTCHA"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Love"/>
