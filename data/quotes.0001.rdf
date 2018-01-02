@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">captchas in 2007: what are these letters and numbers captchas in 2018: which of these images contain cars captchas in 2026: what is love? please. only someone with a soul would be able to answer this and you know it. tell me please i want to learn. or are you not human either</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/CAPTCHA"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Love"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Artificial%20intelligence"/>
+		<dc:source rdf:resource="https://twitter.com/jonnysun/status/947968971759788032"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">“Dozens of stupid people in a room who talk to each other will achieve far more than an equal number of clever people who don’t. ... Human intelligence is a distributed, collaborative phenomenon.”</q:quote>
 		<dc:source rdf:resource="https://twitter.com/stewartbrand/status/947204269458857984"/>
 	</q:Quote>
