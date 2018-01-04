@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I just removed the "Intel inside" sticker from my laptop. Security by obscurity FTW.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Intel"/>
+		<dc:source rdf:resource="https://twitter.com/martijn_grooten/status/948581711696351237"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Your academic name is the name of your most exploitative collaborator followed by “et al”</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Et%20al"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
