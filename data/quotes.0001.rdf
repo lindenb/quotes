@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">What's the OMIM phenotype entry for "Stable Genius"?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Online%20Mendelian%20Inheritance%20in%20Man"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Phenotype"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<dc:source rdf:resource="https://twitter.com/erlichya/status/949701779146657792"/>
+		<!-- trump se qualifie de genie -->
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I just removed the "Intel inside" sticker from my laptop. Security by obscurity FTW.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Intel"/>
 		<dc:source rdf:resource="https://twitter.com/martijn_grooten/status/948581711696351237"/>
