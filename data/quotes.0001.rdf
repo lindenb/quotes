@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Et jeudi la bioinformatique, non mais achevez moi quoi ...</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/Lucie_rg97/status/950691867003408384"/>
+	</q:Quote> 
+	<q:Quote>
 		<q:quote xml:lang="en">"This is your pilot speaking. Don't believe what the airlines and stewardesses say; I won't crash this plane. You won't die in a horrifying fireball. I'm, like, a genius at flying planes. I'm a very stable pilot. Don't listen to what everyone is saying."</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Online%20Mendelian%20Inheritance%20in%20Man"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Phenotype"/>
