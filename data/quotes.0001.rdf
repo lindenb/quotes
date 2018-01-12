@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Un gros doigt aux profs de bioinformatique pour leur sujet de merde <3</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/Lucie_rg97/status/951476796452691976"/>
+	</q:Quote> 
+	<q:Quote>
 		<q:quote xml:lang="fr">Et jeudi la bioinformatique, non mais achevez moi quoi ...</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
 		<dc:source rdf:resource="https://twitter.com/Lucie_rg97/status/950691867003408384"/>
