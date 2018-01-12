@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">D’après les petits tas de vêtements partout dans la chambre de mes enfants, soit ils s’amusent à tuer des Jedis quand j’ai le dos tourné, soit ils me prennent pour leur bonne.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jedi"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cleaning"/>
+		<dc:source rdf:resource="https://twitter.com/tweetleti/status/951890582410063872"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Un gros doigt aux profs de bioinformatique pour leur sujet de merde <3</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
 		<dc:source rdf:resource="https://twitter.com/Lucie_rg97/status/951476796452691976"/>
