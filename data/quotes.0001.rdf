@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">pipeline == a script
+reproducible pipeline == hardcoded variables in a script
+published pipeline == I showed it to someone
+community standard == I used the script on two different projects
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/BioMickWatson/status/952561458629480448"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">D’après les petits tas de vêtements partout dans la chambre de mes enfants, soit ils s’amusent à tuer des Jedis quand j’ai le dos tourné, soit ils me prennent pour leur bonne.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jedi"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cleaning"/>
