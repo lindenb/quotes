@@ -6,6 +6,11 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+<q:Quote>
+		<q:quote xml:lang="fr"Bon courage pour la bioinformatique :-( — C'est une horreur ce truc </q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/jadexchyscrsne/status/952854747739979776"/>
+	</q:Quote> 
 	<q:Quote>
 		<q:quote xml:lang="en">pipeline == a script
 reproducible pipeline == hardcoded variables in a script
