@@ -6,7 +6,14 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
-<q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Quelque part, dans une clairière démoniaque, se réunit le groupe secret des Gens Qui Claquent Les Portes. Ils y préparent leur prochaine action en remettant au frigo une brique de lait vide.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Milk"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fridge"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Door"/>
+		<dc:source rdf:resource="https://twitter.com/Klaire/status/957169940406120448"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr"Bon courage pour la bioinformatique :-( — C'est une horreur ce truc </q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
 		<dc:source rdf:resource="https://twitter.com/jadexchyscrsne/status/952854747739979776"/>
