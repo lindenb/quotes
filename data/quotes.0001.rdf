@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Un homéopathe dit a un autre "mais pourquoi sont t'il si méchant avec nous, on a jamais rien fait !"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Homeopathy"/>
+		<dc:source rdf:resource="https://twitter.com/PatrxRsg/status/957857550413819904"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">ME: Can I borrow your car?
 FRIEND: You already borrowed my car.
 ME: *nervously* Can I borrow another one?</q:quote>
