@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I have this theory that cycling is as close as a middle-class straight white guy can get to understanding Being Female. People have a reckless disregard for your safety, you have to treat everyone like they might hurt you, and if you do get hurt people will blame you for existing</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cycling"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Feminism"/>
+		<dc:source rdf:resource="https://twitter.com/Ghetsuhm/status/957742232479477760"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Un homéopathe dit a un autre "mais pourquoi sont t'il si méchant avec nous, on a jamais rien fait !"</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Homeopathy"/>
 		<dc:source rdf:resource="https://twitter.com/PatrxRsg/status/957857550413819904"/>
