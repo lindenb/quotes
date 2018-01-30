@@ -7,6 +7,21 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">A priori on est tous d’accord que les rapports sexuels sont la cause majeure de la grossesse Pourtant, si vous êtes une femme, le nombre de vos grossesse/mois est très faiblement corrélé avec le nb de rapports sexuel Causalite=élevée Corrélation=faible
+
+A l’inverse , le nb de coup de soleil par français/e par mois est très correle a la quantité de glace mange par mois Mais clairement, les glaces ne causent pas les coups de soleil Corrélation = élevée Causalité faible
+
+
+Si votre chien hurle à chaque fois après que vous lui ayez marcher sur la queue , êtes vous sur que marcher sur sa queue provoque son hurlement ?
+
+Si oui, si la télé de vos voisins s’allument à chaque fois 10mn après la fin de votre repas, en concluez vous que la dernière bouchée de votre repas a provoqué l’allumage de la télé ?
+
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Causality"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Correlation%20does%20not%20imply%20causation"/>
+		<dc:source rdf:resource="https://twitter.com/cepcam/status/958397832297373698"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I have this theory that cycling is as close as a middle-class straight white guy can get to understanding Being Female. People have a reckless disregard for your safety, you have to treat everyone like they might hurt you, and if you do get hurt people will blame you for existing</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cycling"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Feminism"/>
