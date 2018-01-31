@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Maintaining an open-source project is like being a Flight Attendant for an airline where all tickets are free and the majority of customer surveys offer suggestions on how to fly the airplane.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Open-source%20software"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Plane"/>
+		<dc:source rdf:resource="https://twitter.com/kelseyhightower/status/958349496076742658"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">A priori on est tous d’accord que les rapports sexuels sont la cause majeure de la grossesse Pourtant, si vous êtes une femme, le nombre de vos grossesse/mois est très faiblement corrélé avec le nb de rapports sexuel Causalite=élevée Corrélation=faible
 
 A l’inverse , le nb de coup de soleil par français/e par mois est très correle a la quantité de glace mange par mois Mais clairement, les glaces ne causent pas les coups de soleil Corrélation = élevée Causalité faible
