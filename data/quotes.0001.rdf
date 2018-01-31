@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">You know how when you're a fast walker and the guy ahead of you is fast too but only 90% as fast as you, so you MUST pass him, but to pass him you have to walk comically faster than your normal speed, or else you'll be in his personal space too long as you pass? That's annoying.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Walking"/>
+		<dc:source rdf:resource="https://twitter.com/gaberivera/status/953448161455960065"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Maintaining an open-source project is like being a Flight Attendant for an airline where all tickets are free and the majority of customer surveys offer suggestions on how to fly the airplane.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Open-source%20software"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Plane"/>
