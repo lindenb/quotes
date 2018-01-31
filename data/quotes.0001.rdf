@@ -6,6 +6,16 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+		<q:Quote>
+		<q:quote xml:lang="fr">Elle : J'ai pas trouvé de cheveux sur ton pull
+Lui : et ?
+Elle : C'est qui cette pute chauve ?
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hair"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Adultery"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hair%20loss"/>
+		 <dc:source rdf:resource="https://twitter.com/Liliencli/status/958477265607778304"/>
+	</q:Quote>
 <q:Quote>
 		<q:quote xml:lang="fr">Je ne fais pas confiance aux joggers. Ce sont toujours eux qui découvrent les cadavres. Coïncidence? Je ne crois pas !</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jogging"/>
