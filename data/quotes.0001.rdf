@@ -6,7 +6,14 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
-		<q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">I have conducted scientific research: Bitcoin production is for now 1800 bc/day. The energy consumption of the Bitcoin network is 32-46 TWh/year [1,2]. The raising of broiler chicken requires 9-14 GJ/ton [3]. From this we may deduce that 1 bitcoin is equivalent to 30 000 chicken.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bitcoin"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Chicken"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Electric%20energy%20consumption"/>
+		 <dc:source rdf:resource="https://twitter.com/Eemeli_Aro/status/958673846525153281"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Elle : J'ai pas trouvé de cheveux sur ton pull
 Lui : et ?
 Elle : C'est qui cette pute chauve ?
