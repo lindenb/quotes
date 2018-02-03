@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I need to publish a paper chock full of bioinformatics truisms like : - nobody wants to do data entry - installing software is so much harder than you think - lots of bioinformatics is writing parsers - lots more is data cleaning #BioinformaticsTruisms</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/morgantaschuk/status/959579671213068288"/>
+	</q:Quote>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I have conducted scientific research: Bitcoin production is for now 1800 bc/day. The energy consumption of the Bitcoin network is 32-46 TWh/year [1,2]. The raising of broiler chicken requires 9-14 GJ/ton [3]. From this we may deduce that 1 bitcoin is equivalent to 30 000 chicken.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bitcoin"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Chicken"/>
