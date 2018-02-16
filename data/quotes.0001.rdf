@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Let’s rename ‘school’ as ‘uterus’ so maybe Republican lawmakers will want to do something about the children dying inside them.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20shootings%20in%20the%20United%20States"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Uterus"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Republican%20Party%20(United%20States)"/>
+		<dc:source rdf:resource="https://twitter.com/nwg83/status/963980526993383424"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I need to publish a paper chock full of bioinformatics truisms like : - nobody wants to do data entry - installing software is so much harder than you think - lots of bioinformatics is writing parsers - lots more is data cleaning #BioinformaticsTruisms</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
 		<dc:source rdf:resource="https://twitter.com/morgantaschuk/status/959579671213068288"/>
