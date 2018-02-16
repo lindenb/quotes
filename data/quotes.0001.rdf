@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Dans ma vie, j'ai entendu bien moins de "je suis fier de toi" que de "dans le cadre de notre démarche qualité, cet appel est susceptible d'être enregistré".</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Calling%20Center"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pride"/>
+		<dc:source rdf:resource="https://twitter.com/AudeAlisque/status/964484927977873408"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Let’s rename ‘school’ as ‘uterus’ so maybe Republican lawmakers will want to do something about the children dying inside them.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20shootings%20in%20the%20United%20States"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Uterus"/>
