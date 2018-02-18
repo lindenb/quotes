@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">René Descartes: "I think, therefore I am." 
+Academia: So wise. So profound. 
+Renée Descartes: "I think, ther..." 
+Academia: Don't start a sentence with "I think". It makes you sound weak and uncertain.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ren%C3%A9%20Descartes"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Scholarship"/>
+		<dc:source rdf:resource="https://twitter.com/alexandraerin/status/964955584570314752"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">we now a sufficiently large dataset to show conclusively (p &lt; 1E-80) that thoughts and prayers do not work</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20shootings%20in%20the%20United%20States"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/P-value"/>
