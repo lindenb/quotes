@@ -6,6 +6,30 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+		<q:quote xml:lang="fr">-C’est ta carte? 
+-Non 
+-C’est ta carte? 
+-Non 
+-C’est ta carte? 
+-Non 
+-C’est ta carte? 
+-Non 
+-C’est ta carte? 
+-Non 
+-C’est ta carte? 
+-Non 
+-C’est ta carte? 
+-Non 
+-C’est ta carte? 
+-Non 
+-Bon attends je recommence 
+
+Quand mes enfants me font un tour de magie...</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Children"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Magician"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Playing%20card"/>
+	        <dc:source rdf:resource="https://twitter.com/tweetleti/status/965259273231101952"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="fr">Je cherche toujours un contre exemple à mon théorème "si tu ne peux pas améliorer un plat avec un oignon, c'est que c'est un dessert"</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Onion"/>
