@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Je cherche toujours un contre exemple à mon théorème "si tu ne peux pas améliorer un plat avec un oignon, c'est que c'est un dessert"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Onion"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Theorem"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Dessert"/>
+		<dc:source rdf:resource="https://twitter.com/NUUXie/status/965666625679712256"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">René Descartes: "I think, therefore I am." 
 Academia: So wise. So profound. 
 Renée Descartes: "I think, ther..." 
