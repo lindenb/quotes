@@ -6,6 +6,13 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+	<q:Quote>
+		<q:quote xml:lang="en">HUMAN BODY: I can grow a fully formed human baby in like 9 months. I'm talking brain, functioning respiratory system, eyeballs, everything. 
+ME: Cool, cool. How long will it take for my twisted ankle to feel better?
+HUMAN BODY: 7 years and it will never be the same.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Human%20development%20(biology)"/>
+		<dc:source rdf:resource="https://twitter.com/thenatewolf/status/965876099078021120"/>
+	</q:Quote>
 		<q:quote xml:lang="fr">-C’est ta carte? 
 -Non 
 -C’est ta carte? 
