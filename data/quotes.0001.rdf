@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Anyone who thinks giving guns to professors is a good idea has never seen a professor try to set up a PowerPoint presentation.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20shootings%20in%20the%20United%20States"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Powerpoint%20presentation"/>
+		<dc:source rdf:resource="https://twitter.com/kramtrak/status/966443273995870209"/>
+		<q:context xml:lang="fr">Donald Trump propose d'armer les enseignants après la tuerie de parkland</q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">'Let me be very clear, sea level rise is known, it is expected, it is not accidental and so it will NOT be insured' Tim Grafton of the NZ insurance council </q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Climate%20change"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Insurance"/>
