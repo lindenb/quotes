@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">'Let me be very clear, sea level rise is known, it is expected, it is not accidental and so it will NOT be insured' Tim Grafton of the NZ insurance council </q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Climate%20change"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Insurance"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sea%20level%20rise"/>
+		<dc:source rdf:resource="https://twitter.com/BMHayward/status/966178292847071232"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">HUMAN BODY: I can grow a fully formed human baby in like 9 months. I'm talking brain, functioning respiratory system, eyeballs, everything. 
 ME: Cool, cool. How long will it take for my twisted ankle to feel better?
 HUMAN BODY: 7 years and it will never be the same.</q:quote>
