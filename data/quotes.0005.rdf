@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:q="https://github.com/lindenb/quotes/"
+	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
+	xml:lang="en"
+	>
+	<q:Quote>
+		<q:quote xml:lang="en">HUMAN BODY: I can grow a fully formed human baby in like 9 months. I'm talking brain, functioning respiratory system, eyeballs, everything. 
+ME: Cool, cool. How long will it take for my twisted ankle to feel better?
+HUMAN BODY: 7 years and it will never be the same.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Human%20development%20(biology)"/>
+		<dc:source rdf:resource="https://twitter.com/thenatewolf/status/965876099078021120"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">-C’est ta carte? 
+-Non 
+-C’est ta carte? 
+-Non 
+-C’est ta carte? 
+-Non 
+-C’est ta carte? 
+-Non 
+-C’est ta carte? 
+-Non 
+-C’est ta carte? 
+-Non 
+-C’est ta carte? 
+-Non 
+-C’est ta carte? 
+-Non 
+-Bon attends je recommence 
+
+Quand mes enfants me font un tour de magie...</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Children"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Magician"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Playing%20card"/>
+	        <dc:source rdf:resource="https://twitter.com/tweetleti/status/965259273231101952"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Je cherche toujours un contre exemple à mon théorème "si tu ne peux pas améliorer un plat avec un oignon, c'est que c'est un dessert"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Onion"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Theorem"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Dessert"/>
+		<dc:source rdf:resource="https://twitter.com/NUUXie/status/965666625679712256"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">René Descartes: "I think, therefore I am." 
+Academia: So wise. So profound. 
+Renée Descartes: "I think, ther..." 
+Academia: Don't start a sentence with "I think". It makes you sound weak and uncertain.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ren%C3%A9%20Descartes"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Scholarship"/>
+		<dc:source rdf:resource="https://twitter.com/alexandraerin/status/964955584570314752"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">we now a sufficiently large dataset to show conclusively (p &lt; 1E-80) that thoughts and prayers do not work</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20shootings%20in%20the%20United%20States"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/P-value"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Thoughts%20and%20prayers"/>
+		<dc:source rdf:resource="https://twitter.com/mbeisen/status/964707560895885312"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">Evidence collected over many years, obtained from many locations, indicates that the power of Prayer is insufficient to stop bullets from killing school children.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20shootings%20in%20the%20United%20States"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Prayer"/>
+		<dc:source rdf:resource="https://twitter.com/neiltyson/status/964606017513410560"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Dans ma vie, j'ai entendu bien moins de "je suis fier de toi" que de "dans le cadre de notre démarche qualité, cet appel est susceptible d'être enregistré".</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Calling%20Center"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pride"/>
+		<dc:source rdf:resource="https://twitter.com/AudeAlisque/status/964484927977873408"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">Let’s rename ‘school’ as ‘uterus’ so maybe Republican lawmakers will want to do something about the children dying inside them.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20shootings%20in%20the%20United%20States"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Uterus"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Republican%20Party%20(United%20States)"/>
+		<dc:source rdf:resource="https://twitter.com/nwg83/status/963980526993383424"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">I need to publish a paper chock full of bioinformatics truisms like : - nobody wants to do data entry - installing software is so much harder than you think - lots of bioinformatics is writing parsers - lots more is data cleaning #BioinformaticsTruisms</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/morgantaschuk/status/959579671213068288"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">I have conducted scientific research: Bitcoin production is for now 1800 bc/day. The energy consumption of the Bitcoin network is 32-46 TWh/year [1,2]. The raising of broiler chicken requires 9-14 GJ/ton [3]. From this we may deduce that 1 bitcoin is equivalent to 30 000 chicken.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bitcoin"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Chicken"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Electric%20energy%20consumption"/>
+		 <dc:source rdf:resource="https://twitter.com/Eemeli_Aro/status/958673846525153281"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Elle : J'ai pas trouvé de cheveux sur ton pull
+Lui : et ?
+Elle : C'est qui cette pute chauve ?
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hair"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Adultery"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hair%20loss"/>
+		 <dc:source rdf:resource="https://twitter.com/Liliencli/status/958477265607778304"/>
+	</q:Quote>
+<q:Quote>
+		<q:quote xml:lang="fr">Je ne fais pas confiance aux joggers. Ce sont toujours eux qui découvrent les cadavres. Coïncidence? Je ne crois pas !</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jogging"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Serial%20killer"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Conspiracy"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Conspiracy%20theory"/>
+	        <dc:source rdf:resource="https://twitter.com/ComplotsFaciles/status/869812803812679680"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">You know how when you're a fast walker and the guy ahead of you is fast too but only 90% as fast as you, so you MUST pass him, but to pass him you have to walk comically faster than your normal speed, or else you'll be in his personal space too long as you pass? That's annoying.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Walking"/>
+		<dc:source rdf:resource="https://twitter.com/gaberivera/status/953448161455960065"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">Maintaining an open-source project is like being a Flight Attendant for an airline where all tickets are free and the majority of customer surveys offer suggestions on how to fly the airplane.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Open-source%20software"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Plane"/>
+		<dc:source rdf:resource="https://twitter.com/kelseyhightower/status/958349496076742658"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">A priori on est tous d’accord que les rapports sexuels sont la cause majeure de la grossesse Pourtant, si vous êtes une femme, le nombre de vos grossesse/mois est très faiblement corrélé avec le nb de rapports sexuel Causalite=élevée Corrélation=faible
+
+A l’inverse , le nb de coup de soleil par français/e par mois est très correle a la quantité de glace mange par mois Mais clairement, les glaces ne causent pas les coups de soleil Corrélation = élevée Causalité faible
+
+
+Si votre chien hurle à chaque fois après que vous lui ayez marcher sur la queue , êtes vous sur que marcher sur sa queue provoque son hurlement ?
+
+Si oui, si la télé de vos voisins s’allument à chaque fois 10mn après la fin de votre repas, en concluez vous que la dernière bouchée de votre repas a provoqué l’allumage de la télé ?
+
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Causality"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Correlation%20does%20not%20imply%20causation"/>
+		<dc:source rdf:resource="https://twitter.com/cepcam/status/958397832297373698"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">I have this theory that cycling is as close as a middle-class straight white guy can get to understanding Being Female. People have a reckless disregard for your safety, you have to treat everyone like they might hurt you, and if you do get hurt people will blame you for existing</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cycling"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Feminism"/>
+		<dc:source rdf:resource="https://twitter.com/Ghetsuhm/status/957742232479477760"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Un homéopathe dit a un autre "mais pourquoi sont t'il si méchant avec nous, on a jamais rien fait !"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Homeopathy"/>
+		<dc:source rdf:resource="https://twitter.com/PatrxRsg/status/957857550413819904"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">ME: Can I borrow your car?
+FRIEND: You already borrowed my car.
+ME: *nervously* Can I borrow another one?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Car"/>
+		<dc:source rdf:resource="https://twitter.com/truegritrumble/status/957320986558386180"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Quelque part, dans une clairière démoniaque, se réunit le groupe secret des Gens Qui Claquent Les Portes. Ils y préparent leur prochaine action en remettant au frigo une brique de lait vide.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Milk"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fridge"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Door"/>
+		<dc:source rdf:resource="https://twitter.com/Klaire/status/957169940406120448"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Bon courage pour la bioinformatique :-( — C'est une horreur ce truc </q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/jadexchyscrsne/status/952854747739979776"/>
+	</q:Quote> 
+	<q:Quote>
+		<q:quote xml:lang="en">pipeline == a script
+reproducible pipeline == hardcoded variables in a script
+published pipeline == I showed it to someone
+community standard == I used the script on two different projects
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/BioMickWatson/status/952561458629480448"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">D’après les petits tas de vêtements partout dans la chambre de mes enfants, soit ils s’amusent à tuer des Jedis quand j’ai le dos tourné, soit ils me prennent pour leur bonne.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jedi"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cleaning"/>
+		<dc:source rdf:resource="https://twitter.com/tweetleti/status/951890582410063872"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Un gros doigt aux profs de bioinformatique pour leur sujet de merde &lt;3</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/Lucie_rg97/status/951476796452691976"/>
+	</q:Quote> 
+	<q:Quote>
+		<q:quote xml:lang="fr">Et jeudi la bioinformatique, non mais achevez moi quoi ...</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/Lucie_rg97/status/950691867003408384"/>
+	</q:Quote> 
+	<q:Quote>
+		<q:quote xml:lang="en">"This is your pilot speaking. Don't believe what the airlines and stewardesses say; I won't crash this plane. You won't die in a horrifying fireball. I'm, like, a genius at flying planes. I'm a very stable pilot. Don't listen to what everyone is saying."</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Online%20Mendelian%20Inheritance%20in%20Man"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Phenotype"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<dc:source rdf:resource="https://twitter.com/scottmccloud/status/949706678680698880"/>
+		<!-- trump se qualifie de genie -->
+	</q:Quote>	
+
+	<q:Quote>
+		<q:quote xml:lang="en">What's the OMIM phenotype entry for "Stable Genius"?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Online%20Mendelian%20Inheritance%20in%20Man"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Phenotype"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<dc:source rdf:resource="https://twitter.com/erlichya/status/949701779146657792"/>
+		<!-- trump se qualifie de genie -->
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">I just removed the "Intel inside" sticker from my laptop. Security by obscurity FTW.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Intel"/>
+		<dc:source rdf:resource="https://twitter.com/martijn_grooten/status/948581711696351237"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">Your academic name is the name of your most exploitative collaborator followed by “et al”</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Et%20al"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
+		<dc:source rdf:resource="https://twitter.com/ianholmes/status/948334165400862720"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">Most people: I'm sad I have to go back to work tomorrow.
+People with toddlers: I can't wait to get back to work tomorrow!
+</q:quote>
+		<dc:source rdf:resource="https://twitter.com/BioMickWatson/status/948133042379542528"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">captchas in 2007: what are these letters and numbers captchas in 2018: which of these images contain cars captchas in 2026: what is love? please. only someone with a soul would be able to answer this and you know it. tell me please i want to learn. or are you not human either</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/CAPTCHA"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Love"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Artificial%20intelligence"/>
+		<dc:source rdf:resource="https://twitter.com/jonnysun/status/947968971759788032"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">“Dozens of stupid people in a room who talk to each other will achieve far more than an equal number of clever people who don’t. ... Human intelligence is a distributed, collaborative phenomenon.”</q:quote>
+		<dc:source rdf:resource="https://twitter.com/stewartbrand/status/947204269458857984"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Je propose l'éradication de la bioinformatique et des profs qui nous font faire de TD sur un sujet pr nous filer un Contrôle de fin de semestre qui n'a rien à voir et 2mois après le dernier cours</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/dreadfulwalkers/status/938828255599185922"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">-Est-ce que les enfants en France font des faux prouts en mettant la main sous l' aisselle? -Bien sûr! -Tu sais faire, toi? -TOUT LE MONDE sait faire *2 minutes embarrassantes de gigotage silencieux T-Shirt relevé où je découvre que j'ai perdu un super-pouvoir de mon enfance*</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fart"/>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/932352559464853504"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">“Daddy, how is software made?” “Well, when a programmer loves an idea very much they stay up all night and then push to github the next day.” – Sam Kottler</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/GitHub"/>
+		<dc:source rdf:resource="https://twitter.com/TalkPython/status/931641709276094466"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">Trump: So sad that Obama rejected Keystone Pipeline. Thousands of jobs, good for the environment, no downside!
+
+"South Dakota currently enjoying 210k gallons of No Downside"
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Keystone%20Pipeline"/>
+		<dc:source rdf:resource="https://twitter.com/JohnFugelsang/status/931354277729234945"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">L'intimité, c'est quand quelque chose est juste partagé entre toi, moi, Mark Zuckerberg, Google et la NSA. Juste nous cinq, personne d'autre.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Privacy"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Google"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Facebook"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/National%20Security%20Agency"/>
+		<dc:source rdf:resource="https://twitter.com/Jean_no/status/931564564755476480"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Si vous passez une sale journée dites vous que je viens de confondre les tortues ninja et les power Rangers dans une conversation.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Power%20Rangers"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Teenage%20Mutant%20Ninja%20Turtles"/>
+	        <dc:source rdf:resource="https://twitter.com/Klaire/status/931210152090505216"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">Media: lying Mueller: lying Comey: lying Obama: lying Clinton: lying Judges: lying Sex assault accusers: lying Scientists re: climate change: lying Doctors re: ACA: lying Mother of slain U.S. soldier: lying Intelligence services: lying Putin: "He means it. I believe him.”</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vladimir%20Putin"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fake%20news"/>
+		<dc:source rdf:resource="https://twitter.com/knittaphd/status/929429686693666816"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">No, bioinformatics efficiency is defined by time faffing around installing dependencies.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Software%20dependency"/>
+		<dc:source rdf:resource="https://twitter.com/pathogenomenick/status/928588878663036928"/>
+	</q:Quote>
+	
+	<q:Quote>
+		<q:quote xml:lang="en">Why not just ban guns and when people are upset about it, just send them thoughts and prayers ?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/National%20Rifle%20Association"/>
+		<dc:source rdf:resource="https://twitter.com/ericabuist/status/927281277719465986"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">« Oui? C'est pour des bonbons? — Non. — Témoin de Jeovah? — Non. — …? — Je suis le reviewer 3. » *meurt d'une crise cardiaque*</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Review"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Halloween"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academia"/>
+		<dc:source rdf:resource="https://twitter.com/Maitre_de_conf/status/925439121945964544"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">Twitter: Here’s a photo of my cute children playing with their new puppy aww  
+
+638 more replies |
+
+No I didn’t say Hiroshima was good I just said it helped push the Japanese towards surrender</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Godwin's%20law"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hiroshima"/>
+		<dc:source rdf:resource="https://twitter.com/mathaiaus/status/916090357405773824"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">The 2nd Amendment was written 226 years ago. Imagine trying to write laws today that govern weapons in the year 2243.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/2nd%20Amendment%20USA"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20shooting"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/2017_Las_Vegas_Strip_shooting"/>
+		<dc:source rdf:resource="https://twitter.com/Mikel_Jollett/status/915062896798842881"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">When I woke up this morning, I was like, yeah, I can't wait to add yet another SV caller to this analysis plan and redo all of my analyses!</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Structural%20variation"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/KMS_Meltzy/status/915595393248972801"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">Americans killed on 9/11: 2,996 Days it took Congress to authorize war:3 Americans killed by guns in 2017: 11,652 Days in 2017 so far:275</q:quote>
+		<dc:source rdf:resource="https://twitter.com/kalpenn/status/914928005851619328"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Mon psychiatre m’a conseillé d’écrire une lettre aux gens que je déteste puis de les brûler. C’est fait. 
+
+Mais que faire des lettres ?
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Psychiatry"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Letter%20(message)"/>
+		<dc:source rdf:resource="https://twitter.com/Ogeanix/status/909133969605758976"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Les biostats hier clairement c'était un cours inutile c'est un truc ouf mais je suis sur au concours y 'aura une question dessus</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Biostatistics"/>
+		<dc:source rdf:resource="https://twitter.com/_fabiiola__/status/906083887272615936"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Les cours de biostats c'est plus possible</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Biostatistics"/>
+		<dc:source rdf:resource="https://twitter.com/juliegarnierm/status/910132877270163456"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">OUI, je l'avoue, j'ai passé le cours de biostats à regarder GoT. On avait un coussin pour deux, et un écouteur chacun, c'était GENIAL.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/KingCrowleyGxrl/status/911300242401890304"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Biostatistics"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">Mon prof de bioinfo à grave l'accent africain, c'est dur de prendre la matière au sérieux ... "si vous wegadez la séquence pwoteique" </q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/Lucie_rg97/status/907621698815582209"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">I'm going to cancel Netflix and negotiate with each film producer separately, to get the best deal for me and my family </q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Netflix"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Brexit"/>
+		<dc:source rdf:resource="https://twitter.com/finance_LL/status/908256479932829696"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">1/3 of US bandwidth is used by Netflix... the rest is used by `rm -rf node_modules &amp;&amp; npm install`</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Netflix"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nodejs"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bandwidth%20(computing)"/>
+		<dc:source rdf:resource="https://twitter.com/iamdevloper/status/908335750797766656"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">Our spacecraft has entered Saturn's atmosphere, and we have received its final transmission.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens%20retirement"/>
+		<dc:source rdf:resource="https://twitter.com/CassiniSaturn/status/908661097837641729"/>
+	</q:Quote>
+<q:Quote>
+		<q:quote xml:lang="fr"> Un homme qui marche sur la lune, joue de la trompette comme un Dieu et gagne le tour de France ne pouvait être que dopé.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Louis%20Armstrong"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Neil%20Armstrong"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Lance%20Armstrong"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Doping%20at%20the%20Tour%20de%20France"/>
+	        <dc:source rdf:resource="https://twitter.com/DominiqueReynie/status/239055540456681472"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">I'm truley sorry I voted for Trump. I only wanted disabled kids to lose their Medicaid ;I didn't want people to know im racist</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Racism%20in%20the%20United%20States"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Medicaid"/>
+		<dc:source rdf:resource="https://twitter.com/robdelaney/status/898622960843599872"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">Those are my principles, and if you don't like them... well, I have others</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Principle"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Groucho%20Marx"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">If you've ever wondered what you would have done in 1930s Germany or during the civil rights movement, congratulations: you're doing it now.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/World%20War%20II"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nazism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Unite%20the%20Right%20rally"/>
+		<dc:source rdf:resource="https://twitter.com/matthewamiller/status/897814496999354368"/>
+	</q:Quote>
+        <q:Quote>
+		<q:quote xml:lang="fr">Bon à savoir pour éviter une bourde:
+CTRL-ALT-DELETE : Redémarre Windows
+ALT-RIGHT : Redémarre Hitler.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Alt-right"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Windows"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Unite%20the%20Right%20rally"/>
+		<dc:source rdf:resource="https://twitter.com/Unpied/status/898497514877407232"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Les guerres nucléaires ne me font pas peur car c'est une énergie propre  (tweet sponsorisé par Areva)</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Areva"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nuclear%20warfare"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/North%20Korea%E2%80%93United%20States%20relations"/>
+		<dc:source rdf:resource="https://twitter.com/Unpied/status/896045336069898240"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">Academia is a bunch of people emailing "sorry for the late response" back and forth until one of them gets tenure.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academia"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Email"/>
+		<dc:source rdf:resource="https://twitter.com/Research_Tim/status/895402179242188802"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">If North Korea launches them nukes, George R. R. Martin better tweet out who's on that damn throne</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/George%20R.%20R.%20Martin"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/North%20Korea"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/United%20States"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Game%20of%20Thrones"/>
+		<dc:source rdf:resource="https://twitter.com/ira/status/895190798303625216"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Moi: Bon, je dois aller aux toilettes.
+Spotify *Passe un de mes morceaux préférés*
+Moi *gigote à l'agonie sur ma chaise pendant 3 minutes*</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Water%20closet"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Spotify"/>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/892700208420749312"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">Everybody thinks it's funny, but nobody spares a thought for the poor Whitehouse sysadmins: Add a user, remove a user, add a user, remove..</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20J.%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/White%20House"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sysadmin"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Anthony%20Scaramucci"/>
+		<dc:source rdf:resource="https://twitter.com/haroonmeer/status/892339480337580033"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">Actually the technical term for a cancer patient who leaves their hospital bed to steal health care from fellow cancer patients is “asshole”
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Obamacare"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/John%20McCain"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Brain%20tumor"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Asshole"/>
+		<dc:source rdf:resource="https://twitter.com/xeni/status/889925007308193792"/>
+	</q:Quote>
+<q:Quote>
+		<q:quote xml:lang="en">Droitier: je suis droitier 
+
+Gaucher: je suis gaucher et saviez vous que Einstein, De Vinci et autres génies étaient gauchers car (1/247)</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Left-handedness"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Albert%20Einstein"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Leonardo%20da%20Vinci"/>
+		<dc:source rdf:resource="https://twitter.com/karibahut/status/887691740341125120"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Tous ces bacheliers sans école, merde, start-up nation les jeunes, créez votre université, faites un effort.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emmanuel%20Macron"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Universities%20in%20France"/>
+		<dc:source rdf:resource="https://twitter.com/MateuilB/status/886848281007058944"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">YOU CAN'T HAVE A WOMAN PLAY A PERSON WHO TIME TRAVELS IN A PHONE BOX FIGHTING ALIENS BECAUSE IT MAKES IT UNREALISTIC!!!!</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Dr%20Who"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jodie%20Whittaker"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Feminism"/>
+		<dc:source rdf:resource="https://twitter.com/KimJongUnVEVO/status/886609857381576706"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">The news is real. The president is fake.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20J%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fake%20news"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Stephen%20King"/>
+		<dc:source rdf:resource="https://twitter.com/StephenKing/status/884179939905466368"/>
+	</q:Quote>
+	<q:Quote>
+		<!-- Angela les mains dans les yeyx , au G20, pendant que Trump lui parle -->
+		<q:quote xml:lang="en">"You know Hitler was from Germany." 
+"He was from Austria."
+"Then how come you never saw him with kangaroos?"
+"That's-"
+"Or a boomerang?"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Adolf%20Hitler"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20J%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Angela%20Merkel"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Austria"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Australia"/>
+		<dc:source rdf:resource="https://twitter.com/Pundamentalism/status/883724070830964736"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Ça a bien changé Nostalgie. Quand j'étais jeune ils ne passaient que des chansons de vieux, alors que maintenant ils passent mes chansons.
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Radio%20Nostalgie"/>
+		<dc:source rdf:resource="https://twitter.com/ALICEVUYST/status/883590791758729217"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">"Nous connaissons peu les conséquences à long terme de la vaccination multiple, et celle-ci remplira les poches des laboratoires"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vaccination"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Antivaccinationist"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Marine%20Le%20Pen"/>
+		<dc:source rdf:resource="https://twitter.com/MLP_officiel/status/882477931368505344"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">Math jokes aren't funny. Nothing about math is funny. Math is a sin.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mathematics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sinus"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sin"/>
+		<dc:source rdf:resource="https://twitter.com/ThePunnyWorld/status/867606875977777152"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">Indels aren't just a format issue, they are a semantic nightmare no matter what the model for equivalence (left shifting, edge wander).</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Indel"/>
+		<dc:source rdf:resource="https://twitter.com/ewanbirney/status/865094487743311872"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Après « Maintenance » (en code 200), j'ai eu « Erreur 503 » puis « Erreur 504 ». Toi aussi, apprends les codes HTTP avec l'ANR.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Agence%20nationale%20de%20la%20recherche"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/HTTP%20status%20code"/>
+		<dc:source rdf:resource="https://twitter.com/Maitre_de_conf/status/864149301504626688"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">This FBI Director has sought for years to jail me on account of my political activities. If I can oppose his firing, so can you.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Edward%20Snowden"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/James%20Comey"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Firing%20of%20FBI%20Director%20James%20Comey"/>
+		<dc:source rdf:resource="https://twitter.com/Snowden/status/862069019301601281"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Tout ça me rappelle cette phrase de Corbier "un jour il y aura un Président de la République qui aura grandi avec le Club Dorothée"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Club%20Doroth%C3%A9e"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emmanuel%20Macron"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/French%20presidential%20election,%202017"/>
+		<dc:source rdf:resource="https://twitter.com/aseyn/status/861422533794566145"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">La première qualité reconnue à Macron par les commentateurs est sa jeunesse. L'ennui, c'est que là, déjà, il ne pourra pas faire mieux.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emmanuel%20Macron"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/French%20presidential%20election,%202017"/>
+		<dc:source rdf:resource="https://twitter.com/bernardpivot1/status/861290149661073409"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">"ET OUI Monsieur Macron c'est aussi a cause de vous que Dumbledore MEURT  a la fin de Harry Potter 6, VOUS etiez ministre à l'époque"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Harry%20Potter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Marine%20Le%20Pen"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emmanuel%20Macron"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/French%20presidential%20election,%202017"/>
+		<dc:source rdf:resource="https://twitter.com/flwjrm/status/859866931230384128"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">N'empêche, le mec qui s'appelle « Et Al », il doit avoir un h-index de fou.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/H-index"/>
+		<dc:source rdf:resource="https://twitter.com/Maitre_de_conf/status/859412086866268160"/>
+	</q:Quote>
+	<q:Quote>
+		<q:comment>MLP a plagie le discours de FF le 1 mai 2017</q:comment>
+		<q:quote xml:lang="fr">Il n'y a paradoxalement qu'au FN qu'on ne m'en voudra pas d'écrire que le nègre de Le Pen est malhonnête.
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/French%20presidential%20election,%202017"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Plagiarism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Marine%20Le%20Pen"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fran%C3%A7ois%20Fillon"/>
+		<dc:source rdf:resource="https://twitter.com/bernardpivot1/status/859158795594936321"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Thomas Pesquet, c'est le mec qui prend des photos de la bûche au chocolat quand toute la famille s'engueule.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Thomas%20Pesquet"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/French%20presidential%20election,%202017"/>
+		<dc:source rdf:resource="https://twitter.com/alphoenix/status/859134695178686465"/>
+		<q:comment>Pesquet prends des photos de paris depuis l'ISS pendant l'entre-deux-tours</q:comment>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Dupont-Aignan a été traité de "trou du cul". C'est impropre. Il n'en a ni la chaleur ni la profondeur.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nicolas%20Dupont-Aignan"/>
+		<dc:source rdf:resource="https://twitter.com/morelexplo/status/858375167055200256"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">
+
+I am committed to keeping our air and water clean but always remember that economic growth enhances environmental protection. Jobs matter!
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ecology"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Economic%20growth"/>
+		<dc:source rdf:resource="https://twitter.com/realDonaldTrump/status/855901315305795584"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">I've married many men, and I know where all the bodies are buried</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Priest"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vicar"/>
+		<dc:source rdf:resource="https://twitter.com/revgoodrich/status/847767770766991360"/>
+	</q:Quote>
+<q:Quote>
+		<q:quote xml:lang="en">My entire life until now, I felt humans were making progress. Uneven, confused, wrong at times, but progress. Now? Idiots run the world.</q:quote>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Jimmy%20Wales"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Brexit"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Theresa%20May"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<dc:source rdf:resource="https://twitter.com/jimmy_wales/status/846857402133700609"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Si votre gouache blanche est trop transparente, c'est peut-être parce que c'est en fait un tube de crème pour les mains.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Painting"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hand%20washing"/>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/846683476074082305"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">I tried pair programming once.  You'll NEVER FIND THE BODY.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pair%20programming"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Murder"/>
+		<dc:source rdf:resource="https://twitter.com/brucevanhorn2/status/846194409632870400"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">« Oui, j'ai reçu 10 000€ d'un scientifique dont j'évalue le projet pour l'ANR. Mais c'était un cadeau totalement désintéressé. »</q:quote>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Fillon"/>
+		<dc:source rdf:resource="https://twitter.com/Maitre_de_conf/status/845678911916855296"/>
+	</q:Quote>
+	
+	<q:Quote>
+		<q:quote xml:lang="fr">« Oui, c'est ma femme et mes deux enfants qui ont évalué mon article. Et alors, ça n'est pas interdit, que je sache. »</q:quote>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Fillon"/>
+		<dc:source rdf:resource="https://twitter.com/Maitre_de_conf/status/845672448834064388"/>
+	</q:Quote>
+	
+	<q:Quote>
+		<q:quote xml:lang="fr">P&gt;0.05. Et alors ?</q:quote>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Fillon"/>
+		<dc:source rdf:resource="https://twitter.com/DevilleSy/status/845674484644352000"/>
+	</q:Quote>
+	
+	<q:Quote>
+		<q:quote xml:lang="fr">« Je paie à ma femme une bourse de thèse depuis 12 ans. — Et elle publie ? — Non, un travail de thèse, c'est surtout informel. »</q:quote>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Fillon"/>
+		<dc:source rdf:resource="https://twitter.com/Maitre_de_conf/status/845674132973015040"/>
+	</q:Quote>
+	
+	<q:Quote>
+		<q:quote xml:lang="fr">«Mes articles systématiquement rejetés sont le fruit d'un complot du #cabinetnoir du reviewer 3. »</q:quote>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Fillon"/>
+		<dc:source rdf:resource="https://twitter.com/Maitre_de_conf/status/845673547158732805"/>
+	</q:Quote>
+	
+	<q:Quote>
+		<q:quote xml:lang="fr">"Je suis le porteur du projet, j'ai une enveloppe, je fais ce que je veux avec !" </q:quote>
+		<dc:source rdf:resource="https://twitter.com/Lazarrre/status/845668044852645888"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Fillon"/>
+	</q:Quote>
+	
+	<q:Quote>
+		<q:quote xml:lang="en">The more I learn about cryptography, the more I think Alice and Bob should probably just talk in person.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cryptography"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Alice%20and%20Bob"/>
+		<dc:source rdf:resource="https://twitter.com/preinheimer/status/841273046317060105"/>
+	</q:Quote>
+       <q:Quote>
+		<q:quote xml:lang="en">First Rule of Twitter Club: Always retweet your friends. Second Rule: You don't have any.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fight%20Club%20(novel)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Friendship"/>
+	    <dc:source rdf:resource="https://twitter.com/NeinQuarterly/status/840032962217406465"/>
+	</q:Quote>
+       <q:Quote>
+		<q:quote xml:lang="fr">C'est la merde mais c'est la vie, je vais retourner aux racines de la biologie moléculaire et oublier la bioinformatique de fils de pute.</q:quote>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Education"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/JulienJx/status/838807124725673984"/>
+	</q:Quote>
+       <q:Quote>
+		<q:quote xml:lang="fr">La bioinfo c est nul .. Enfin perso je déteste ... Chiant a mourir</q:quote>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Education"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/SayMoneyy/status/511798615640379392"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Le cours de bioinformatique est tellement chiant et inutile.... c'est la 1ère fois qu'autant de monde n'ecoute pas.</q:quote>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Education"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/_Light_Anchor/status/830066776591446021"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">En fait comment je me retrouve en bioinformatique alors que j'aurais put faire génie biologique.</q:quote>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Education"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/Mara__Li/status/826371002162622465"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Bioinformatique cette matiere elle pourri mon année ptn</q:quote>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Education"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/SlvyonceBrwn/status/817709218451099650"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Bioinformatique di merde</q:quote>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Education"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/fantafall/status/809449176882880512"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Je me réjouis car aujourd'hui est le dernier jour où je ferai de l'informatique - bioinformatique ! FINI !!</q:quote>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Education"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/Tinou96/status/807115304488828928"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">La bioinfo c est nul .. Enfin perso je déteste ... Chiant a mourir</q:quote>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Education"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/SayMoneyy/status/511798615640379392"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Pff c'est nul la bioinfo!</q:quote>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Education"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/TheDindasse/status/139345389735264256"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Il n'y a rien de mieux que la bioinformatique, ou plutôt comment perdre 4h de sa vie?</q:quote>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Education"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/oceane4095/status/848813500382281728"/>
+	</q:Quote>
+</rdf:RDF>
