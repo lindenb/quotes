@@ -6,6 +6,15 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+	<q:Quote>
+		<q:quote xml:lang="en">We don’t give public school teachers enough books. We don’t give teachers enough technology. We don’t give teachers enough support. To suggest that what we *do* need to provide teachers with is access to guns is egregious &amp; irresponsible beyond words.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20shootings%20in%20the%20United%20States"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Teacher"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<dc:source rdf:resource="https://twitter.com/ClintSmithIII/status/966483243783655424"/>
+		<q:context xml:lang="fr">Donald Trump propose d'armer les enseignants après la tuerie de parkland</q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Wanted: Teacher Job Description: Low pay, no respect from society, might have to kill someone, probably a student, will need to know which one to kill while panicking, starts immediately, art supplies not provided.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20shootings%20in%20the%20United%20States"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Teacher"/>
