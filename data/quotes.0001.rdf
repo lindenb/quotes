@@ -6,10 +6,18 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+		<q:quote xml:lang="en">Wanted: Teacher Job Description: Low pay, no respect from society, might have to kill someone, probably a student, will need to know which one to kill while panicking, starts immediately, art supplies not provided.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20shootings%20in%20the%20United%20States"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Teacher"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<dc:source rdf:resource="https://twitter.com/WendyMolyneux/status/966450156370411520"/>
+		<q:context xml:lang="fr">Donald Trump propose d'armer les enseignants après la tuerie de parkland</q:context>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="en">Anyone who thinks giving guns to professors is a good idea has never seen a professor try to set up a PowerPoint presentation.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20shootings%20in%20the%20United%20States"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Powerpoint%20presentation"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
 		<dc:source rdf:resource="https://twitter.com/kramtrak/status/966443273995870209"/>
 		<q:context xml:lang="fr">Donald Trump propose d'armer les enseignants après la tuerie de parkland</q:context>
 	</q:Quote>
