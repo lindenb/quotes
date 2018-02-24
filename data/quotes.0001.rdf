@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">"The object-oriented version of spaghetti code is, of course, 'lasagna code'. Too many layers." - Roberto Waltman</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Spaghetti%20programming"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Object-oriented%20programming"/>
+		<dc:source rdf:resource="https://twitter.com/CodeWisdom/status/967451306460884997"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">We don’t give public school teachers enough books. We don’t give teachers enough technology. We don’t give teachers enough support. To suggest that what we *do* need to provide teachers with is access to guns is egregious &amp; irresponsible beyond words.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20shootings%20in%20the%20United%20States"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Teacher"/>
