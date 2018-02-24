@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">ADULTS: Kids need to put down their phones and get into the real world.
+TEENS: We will ban the guns that are killing us or you will never see the inside of an elected office ever again. 
+ADULTS: Wait, no, not like that.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Parkland%20school%20shooting"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20shootings%20in%20the%20United%20States"/>
+		<dc:source rdf:resource="https://twitter.com/ffish/status/966719093960269824"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">"The object-oriented version of spaghetti code is, of course, 'lasagna code'. Too many layers." - Roberto Waltman</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Spaghetti%20programming"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Object-oriented%20programming"/>
@@ -17,6 +25,7 @@
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20shootings%20in%20the%20United%20States"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Teacher"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Parkland%20school%20shooting"/>
 		<dc:source rdf:resource="https://twitter.com/ClintSmithIII/status/966483243783655424"/>
 		<q:context xml:lang="fr">Donald Trump propose d'armer les enseignants après la tuerie de parkland</q:context>
 	</q:Quote>
@@ -25,6 +34,7 @@
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20shootings%20in%20the%20United%20States"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Teacher"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Parkland%20school%20shooting"/>
 		<dc:source rdf:resource="https://twitter.com/WendyMolyneux/status/966450156370411520"/>
 		<q:context xml:lang="fr">Donald Trump propose d'armer les enseignants après la tuerie de parkland</q:context>
 	</q:Quote>
@@ -33,6 +43,7 @@
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20shootings%20in%20the%20United%20States"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Powerpoint%20presentation"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Parkland%20school%20shooting"/>
 		<dc:source rdf:resource="https://twitter.com/kramtrak/status/966443273995870209"/>
 		<q:context xml:lang="fr">Donald Trump propose d'armer les enseignants après la tuerie de parkland</q:context>
 	</q:Quote>
