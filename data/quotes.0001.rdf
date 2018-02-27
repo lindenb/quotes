@@ -7,6 +7,19 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">[jogging] 
+brain: let's talk shall we 
+me: ok 
+brain: are we being chased 
+me: no 
+brain: are we chasing something 
+me: no b
+rain: so wtf are we doing then 
+heart &amp; lungs: we also have questions</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jogging"/>
+		<dc:source rdf:resource="https://twitter.com/GrantTanaka/status/967919723802378241"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">ADULTS: Kids need to put down their phones and get into the real world.
 TEENS: We will ban the guns that are killing us or you will never see the inside of an elected office ever again. 
 ADULTS: Wait, no, not like that.</q:quote>
