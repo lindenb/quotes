@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Renseigne toi sur la bioinformatique. On peut stocker et analyser des données sur le génome humain, sur les séquences dans l'organisme et donc trouver la base d'une maladie et trouver de quoi en guérir. Le corps humain n'est pas si compliqué</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/SangDeGryf_/status/968775120918638592"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">[jogging] 
 brain: let's talk shall we 
 me: ok 
