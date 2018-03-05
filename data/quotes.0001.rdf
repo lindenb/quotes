@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Tell me a sentence you could both say during a sex and at a family dinner.
+"-Pass the butter"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Butter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Family"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sex"/>
+		<dc:source rdf:resource="https://twitter.com/AndyGilder/status/970577580884668416"/>
+	<q:Quote>
 		<q:quote xml:lang="fr">Renseigne toi sur la bioinformatique. On peut stocker et analyser des données sur le génome humain, sur les séquences dans l'organisme et donc trouver la base d'une maladie et trouver de quoi en guérir. Le corps humain n'est pas si compliqué</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
 		<dc:source rdf:resource="https://twitter.com/SangDeGryf_/status/968775120918638592"/>
