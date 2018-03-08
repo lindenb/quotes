@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Can someone in Scotland start an independent politicial party called INDEL please?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Single-nucleotide%20polymorphism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/SNP%20party"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/torstenseemann/status/971660622944288768"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Tell me a sentence you could both say during a sex and at a family dinner.
 "-Pass the butter"</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Butter"/>
