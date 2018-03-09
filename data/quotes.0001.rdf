@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">#JaiTestéJaiPasAimé coucher avec ma patiente
+  "Henri, 46 ans, vétérinaire "
+</q:quote>
+		<dc:source rdf:resource="https://twitter.com/seberban/status/972159483282706434"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Day in my #rstats life: 
 0930: How lucky I am to work on clean datasets curated by true professionals. 
 1330: Huh. Some inconsistencies here. No bigs. I'll just write up some quick and dirty regex to clean this up. 
