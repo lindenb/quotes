@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I'm starting to think that hacking isn't about tech skill. It's being willing to stare at a screen for hours, try a million things, feel stupid, get mad, decide to eat a sandwich instead of throwing your laptop out a window, google more, figure it out, then WANT TO DO IT AGAIN</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programmer"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hacker"/>
+		<dc:source rdf:resource="https://twitter.com/hizeena/status/971788877596889088"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">#JaiTestéJaiPasAimé coucher avec ma patiente
   "Henri, 46 ans, vétérinaire "
 </q:quote>
