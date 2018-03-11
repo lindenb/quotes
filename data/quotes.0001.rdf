@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Apparently you’re a “really old scientist” when u remember 1) screening cDNA libraries 2) ditto - phage 3) reading sequencing gels by hand 4) entering seq into text editor &amp; ftp’ing 2 ncbi 5) formaldehyde gels 4 northern 6) telling a new lab mate 2 “check Maniatis” </q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Molecular%20biology"/>
+		<dc:source rdf:resource="https://twitter.com/RySciDean/status/972589947256422401"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I'm starting to think that hacking isn't about tech skill. It's being willing to stare at a screen for hours, try a million things, feel stupid, get mad, decide to eat a sandwich instead of throwing your laptop out a window, google more, figure it out, then WANT TO DO IT AGAIN</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programmer"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hacker"/>
