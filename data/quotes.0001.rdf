@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">How many Brexiters does it take to change a lightbulb? One to promise everyone a brighter future and the rest to screw it up. </q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Brexit"/>
+		<dc:source rdf:resource="https://twitter.com/Andrew_Adonis/status/972857916784103430"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Apparently you’re a “really old scientist” when u remember 1) screening cDNA libraries 2) ditto - phage 3) reading sequencing gels by hand 4) entering seq into text editor &amp; ftp’ing 2 ncbi 5) formaldehyde gels 4 northern 6) telling a new lab mate 2 “check Maniatis” </q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Molecular%20biology"/>
 		<dc:source rdf:resource="https://twitter.com/RySciDean/status/972589947256422401"/>
