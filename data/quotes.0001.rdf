@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">- Vous pouvez me donner un nouvel exemplaire du poly de TP, j'ai oublié le mien - C'est pas grave il est en ligne - Où ça ? - Comme d'hab sur mon site - C'est quoi l'adresse ? - Ben cherche - Vous vous appelez comment ? Il est redoublant et j'enseigne 100h dans ce semestre...</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Education"/>
+		<dc:source rdf:resource="https://twitter.com/krakramille/status/973459253628407808"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Modern programming. — 1 hour reading blogs, — 1 hour looking up docs and SO and googling for whether it’s done already, — Writing 3 line’s of code, — Removing two, — Coffee, doubting the 3rd line, — Asking about the 3rd on Twitter, — Arguing about CS foundations and US laws</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programming"/>
 		<dc:source rdf:resource="https://twitter.com/ChiefScientist/status/972606483207667712"/>
