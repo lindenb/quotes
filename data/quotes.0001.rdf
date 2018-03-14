@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">YouTube including Wikipedia links, Facebook putting an asterisk next to propaganda, &amp; related approaches focused on perceived neutrality feel a lot like Silicon Valley’s version of thoughts and prayers.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Thoughts%20and%20prayers"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fake%20news"/>
+		<dc:source rdf:resource="https://twitter.com/pt/status/973756764041588736"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">- Vous pouvez me donner un nouvel exemplaire du poly de TP, j'ai oublié le mien - C'est pas grave il est en ligne - Où ça ? - Comme d'hab sur mon site - C'est quoi l'adresse ? - Ben cherche - Vous vous appelez comment ? Il est redoublant et j'enseigne 100h dans ce semestre...</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Education"/>
 		<dc:source rdf:resource="https://twitter.com/krakramille/status/973459253628407808"/>
