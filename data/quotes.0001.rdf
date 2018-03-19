@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Active voice: I love your blog Passive voice: Your blog is loved Passive-aggressive voice: I love how you have time to write a blog</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Passive-aggressive%20behavior"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Blog"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Passive%20voice"/>
+		<dc:source rdf:resource="https://twitter.com/AcademicsSay/status/975488696530202625"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">YouTube including Wikipedia links, Facebook putting an asterisk next to propaganda, &amp; related approaches focused on perceived neutrality feel a lot like Silicon Valley’s version of thoughts and prayers.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Thoughts%20and%20prayers"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fake%20news"/>
