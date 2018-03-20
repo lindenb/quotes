@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">— t_0: "vous nous faites chier avec vos logiciels libres, nous on veut juste les trucs faciles à utiliser.
+— t_1: "WAH MON DIEU FESSE-BOUC FILE NOS DONNÉES À DES NAZIS POUR QU'ILS PRENNENT LE POUVOIR QUI AURAIT CRU UNE CHOSE PAREILLE POURQUOI ON NE NOUS A PAS PRÉVENUS ?"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Facebook"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cambridge%20Analytica"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fake%20news"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Privacy"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Privacy%20concerns%20with%20social%20networking%20services"/>
+		<dc:source rdf:resource="https://twitter.com/photos_floues/status/976176518979301376"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Imagining the discussion among the FB comms team ‘Omg - how do we stop this story ?? It spread so quickly! and some of it isn’t even right! people are just sharing it regardless- saying it’s a breach and it’s not!..clicking those angry face emojis ..what can we do? ‘</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Facebook"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cambridge%20Analytica"/>
