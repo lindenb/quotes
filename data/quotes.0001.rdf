@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Quand mon fils de 4 ans a mal à la gorge ou au ventre, je lui donne un peu de sirop de grenadine. Ça le soulage bien. Dois-je militer pour que la grenadinothérapie soit reconnue comme une vraie médecine, et remboursée? (Spoiler : Non.)</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Homeopathy"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Grenadine"/>
+		<dc:source rdf:resource="https://twitter.com/DocteurBobo/status/976192187464667137"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">— t_0: "vous nous faites chier avec vos logiciels libres, nous on veut juste les trucs faciles à utiliser.
 — t_1: "WAH MON DIEU FESSE-BOUC FILE NOS DONNÉES À DES NAZIS POUR QU'ILS PRENNENT LE POUVOIR QUI AURAIT CRU UNE CHOSE PAREILLE POURQUOI ON NE NOUS A PAS PRÉVENUS ?"</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Facebook"/>
