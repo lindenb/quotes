@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Every time I start writing a new screenplay, I think, "How the hell am I gonna fill 120 pages?" Then by the time I hit page 72 it turns into, "How the hell am I gonna fit all this into 120 pages?"  Seems the writing process is really just about going from one terror to another.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Writing"/>
+		<dc:source rdf:resource="https://twitter.com/straczynski/status/976656089788764160"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Quand mon fils de 4 ans a mal à la gorge ou au ventre, je lui donne un peu de sirop de grenadine. Ça le soulage bien. Dois-je militer pour que la grenadinothérapie soit reconnue comme une vraie médecine, et remboursée? (Spoiler : Non.)</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Homeopathy"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Grenadine"/>
