@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Deux critiques de film sur le Lac TIberiade. Le christ arrive et marche sur l'eau. "T'as vu le mec ? il ne sait même pas nager".</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sea of Galilee"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Film criticism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jesus-christ"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Every time I start writing a new screenplay, I think, "How the hell am I gonna fill 120 pages?" Then by the time I hit page 72 it turns into, "How the hell am I gonna fit all this into 120 pages?"  Seems the writing process is really just about going from one terror to another.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Writing"/>
 		<dc:source rdf:resource="https://twitter.com/straczynski/status/976656089788764160"/>
