@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Théorème : tout sac volé dans les transports en commun contient un ordinateur avec un mémoire pour le diplôme sans copie de sauvegarde.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Thief"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Backup"/>
+		dc:source rdf:resource="https://twitter.com/Candidat_a_rien/status/978166422277849088"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Aux confrères et consoeurs. Non, le meurtre de Mireille Knoll ne suscite pas de l'émotion qu'"au sein de la communauté juive". Je ne suis pas juive et cet assassinat m'horrifie et me glace le sang.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Murder"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Antisemitism"/>
