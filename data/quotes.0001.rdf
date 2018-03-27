@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Aux confrères et consoeurs. Non, le meurtre de Mireille Knoll ne suscite pas de l'émotion qu'"au sein de la communauté juive". Je ne suis pas juive et cet assassinat m'horrifie et me glace le sang.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Murder"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Antisemitism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Journalism"/>
+		<dc:source rdf:resource="https://twitter.com/NassiraELM/status/978394377558151168"/>
+		<q:context>Meutre de Mireille Knoll</q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Deux critiques de film sur le Lac TIberiade. Le christ arrive et marche sur l'eau. "T'as vu le mec ? il ne sait même pas nager".</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sea of Galilee"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Film criticism"/>
