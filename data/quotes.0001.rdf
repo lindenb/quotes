@@ -6,11 +6,19 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+	<q:quote xml:lang="fr">Le Pape : "Jésus se laisse trouver par qui le cherche, mais pour le chercher il faut bouger, sortir."
+Jésus, ce pokemon légendaire
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pok%C3%A9mon"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jesus"/>
+		<dc:source rdf:resource="https://twitter.com/MmeDejantee/status/979008762324357122"/>
+		<dc:source rdf:resource="https://twitter.com/Pontifex_fr/status/960128305432207361"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="fr">Théorème : tout sac volé dans les transports en commun contient un ordinateur avec un mémoire pour le diplôme sans copie de sauvegarde.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Thief"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Backup"/>
-		dc:source rdf:resource="https://twitter.com/Candidat_a_rien/status/978166422277849088"/>
+		<dc:source rdf:resource="https://twitter.com/Candidat_a_rien/status/978166422277849088"/>
 	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="fr">Aux confrères et consoeurs. Non, le meurtre de Mireille Knoll ne suscite pas de l'émotion qu'"au sein de la communauté juive". Je ne suis pas juive et cet assassinat m'horrifie et me glace le sang.</q:quote>
