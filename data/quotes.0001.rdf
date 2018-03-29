@@ -6,6 +6,11 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+	<q:Quote>
+		<q:quote xml:lang="en">How science works: fail fail fail fail fail fail fail fail fail succeed fail fail fail fail fail fail fail fail fail fail fail fail fail fail fail succeed fail fail fail fail fail fail fail fail fail fail fail fail fail fail fail fail fail fail fail fail fail succeed fail fail</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
+		<dc:source rdf:resource="https://twitter.com/CihrWisdom/status/979408987291463680"/>
+	</q:Quote>
 	<q:quote xml:lang="fr">Le Pape : "Jésus se laisse trouver par qui le cherche, mais pour le chercher il faut bouger, sortir."
 Jésus, ce pokemon légendaire
 </q:quote>
