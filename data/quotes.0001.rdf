@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">LES TROIS LOIS D'ASIMOV, ÇA PARTAIT D'UN BON SENTIMENT, MAIS DANS LA PRATIQUE C'EST PROCÉDURIER, HANDICAPANT, ET ÇA RALENTIT ÉNORMÉMENT LE TRAVAIL. SI VOUS VOULEZ DES IAs EFFICACES, OUBLIEZ CE TRUC.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Asimov's%20laws"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Artificial%20intelligence"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Skynet%20(Terminator)"/>
+		<dc:source rdf:resource="https://twitter.com/TonAmiSkynet/status/980149411090223106"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">How science works: fail fail fail fail fail fail fail fail fail succeed fail fail fail fail fail fail fail fail fail fail fail fail fail fail fail succeed fail fail fail fail fail fail fail fail fail fail fail fail fail fail fail fail fail fail fail fail fail succeed fail fail</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
 		<dc:source rdf:resource="https://twitter.com/CihrWisdom/status/979408987291463680"/>
