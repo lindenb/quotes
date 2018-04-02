@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I swear all the movies with a "Must rescue the President!" storyline have been ruined for me. I just feel like it's unrealistic now. "SIR! THEY HAVE THE PRESIDENT!" *everyone exchanges glances* "Ahhh...well, that's unfortunate." *goes back to typing*</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Movie"/>
+		<dc:source rdf:resource="https://twitter.com/benostrowsky/status/980287577302405120"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">LES TROIS LOIS D'ASIMOV, ÇA PARTAIT D'UN BON SENTIMENT, MAIS DANS LA PRATIQUE C'EST PROCÉDURIER, HANDICAPANT, ET ÇA RALENTIT ÉNORMÉMENT LE TRAVAIL. SI VOUS VOULEZ DES IAs EFFICACES, OUBLIEZ CE TRUC.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Asimov's%20laws"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Artificial%20intelligence"/>
