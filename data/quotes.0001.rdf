@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">a lot of the use in GATK is predicated on the fear of not using it and getting blamed for this or that</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Genome%20analysis"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Broad%20Institute"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/jermdemo/status/981578359804133376"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I swear all the movies with a "Must rescue the President!" storyline have been ruined for me. I just feel like it's unrealistic now. "SIR! THEY HAVE THE PRESIDENT!" *everyone exchanges glances* "Ahhh...well, that's unfortunate." *goes back to typing*</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Movie"/>
