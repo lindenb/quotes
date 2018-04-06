@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Friend: Does anyone have recommendations for places to vacation? Me: *raises hand* Friend: ...that aren't based on the quality of the local millipede fauna? Me: *slowly lowers hand*</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vacation"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Millipede"/>
+		<dc:source rdf:resource="https://twitter.com/derekhennen/status/982042544845606912"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">a lot of the use in GATK is predicated on the fear of not using it and getting blamed for this or that</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Genome%20analysis"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Broad%20Institute"/>
