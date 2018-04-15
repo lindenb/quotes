@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Physicist: "The most important thing to work on in science is the origin of the universe." 
+Pasko Rakic, Neuroscientist: "Which organ did you use to decide this?"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Physics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Neuroscience"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Origin%20Of%20The%20Universe"/>
+		<dc:source rdf:resource="https://twitter.com/brunocolumbia/status/984873595758407680"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">When I was choosing a major in Iran, computer science was considered the more "feminine" engineering, as opposed to say electrical or mechanical engineering. Weird how whatever brings power gets reclassified as masculine.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Computer%20science"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Iran"/>
