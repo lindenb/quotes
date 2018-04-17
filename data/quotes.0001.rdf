@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Macron bot :
+"Vous ne comprenez pas, il y'a actuellement [insérer une statistique invérifiable], c'est pourquoi nous nous sommes engagés à [insérer une idéologie de gauche], pour cela nous devons [insérer une réforme de droite]  afin de [insérer une notion élitiste] à la France."</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bot"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emmanuel%20Macron"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Statistics"/>
+		<dc:source rdf:resource="https://twitter.com/EdouardLREM/status/985633472235671553"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Physicist: "The most important thing to work on in science is the origin of the universe." 
 Pasko Rakic, Neuroscientist: "Which organ did you use to decide this?"</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Physics"/>
