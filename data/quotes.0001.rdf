@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Non contents d'avoir stoppé la vague de migrants dans les Alpes, notez que, pendant l'opération de Génération Identitaire, on n'a également constaté aucune entrée illégale de : - dragons - zombies - vaisseaux klingons - peste noire - monstroplantes UN PETIT MERCI C'EST LE MINIMUM</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Racism%20in%20France"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Immigration%20to%20France"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Far-right%20in%20France"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Alpes"/>
+		<dc:source rdf:resource="https://twitter.com/OlivierBenis/status/988057576909819906"/>
+		<q:context>des fachos se donnent la mission de stopper les migrant en faisant un cordon dans les alpes</q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Macron bot :
 "Vous ne comprenez pas, il y'a actuellement [insérer une statistique invérifiable], c'est pourquoi nous nous sommes engagés à [insérer une idéologie de gauche], pour cela nous devons [insérer une réforme de droite]  afin de [insérer une notion élitiste] à la France."</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bot"/>
