@@ -6,13 +6,21 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+<q:Quote>
+		<q:quote xml:lang="en">Can you name all 59 women who came forward against Cosby? Can you name half of them? Can you name 5? Would you recognize them out of context? Do you want an autograph? 
+
+Cool so we agree that women don’t make rape accusations to become famous.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bill%20Cosby"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Rape"/>
+		<dc:source rdf:resource="https://twitter.com/OlivierBenis/status/988057576909819906"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="fr">Non contents d'avoir stoppé la vague de migrants dans les Alpes, notez que, pendant l'opération de Génération Identitaire, on n'a également constaté aucune entrée illégale de : - dragons - zombies - vaisseaux klingons - peste noire - monstroplantes UN PETIT MERCI C'EST LE MINIMUM</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Racism%20in%20France"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Immigration%20to%20France"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Far-right%20in%20France"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Alpes"/>
-		<dc:source rdf:resource="https://twitter.com/OlivierBenis/status/988057576909819906"/>
+		<dc:source rdf:resource="https://twitter.com/emrazz/status/989761714794082304"/>
 		<q:context>des fachos se donnent la mission de stopper les migrant en faisant un cordon dans les alpes</q:context>
 	</q:Quote>
 	<q:Quote>
