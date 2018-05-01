@@ -6,7 +6,13 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
-<q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">Au cabinet, interrogatoire médical d'un enfant de 5 ans : - Où est-ce que t'as mal ? - Chez moi.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Physician"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Children"/>
+		<dc:source rdf:resource="https://twitter.com/ArezkiSugar/status/991256674987061248"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Can you name all 59 women who came forward against Cosby? Can you name half of them? Can you name 5? Would you recognize them out of context? Do you want an autograph? 
 
 Cool so we agree that women don’t make rape accusations to become famous.</q:quote>
