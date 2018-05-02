@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">CS group: "So after running GO  enrichment analysis, we find many genes associated with photosynthesis. So we think it it's interesting and there is no literature on this in the mouse genome".</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Gene%20ontology"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Photosynthesis"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mouse"/>
+		<dc:source rdf:resource="https://twitter.com/iddux/status/991420854016802816"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Au cabinet, interrogatoire médical d'un enfant de 5 ans : - Où est-ce que t'as mal ? - Chez moi.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Physician"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Children"/>
