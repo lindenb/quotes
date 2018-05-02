@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">"Objet : TR : TR : Fwd : Fwd : Fwd : Fwd : Fwd : Vidéo incroyable à voir absolument" (Oui, ma mère m'a encore fait suivre un mail.)</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Email"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mother"/>
+		<dc:source rdf:resource="https://twitter.com/GDeleur/status/991424561764847616"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">CS group: "So after running GO  enrichment analysis, we find many genes associated with photosynthesis. So we think it it's interesting and there is no literature on this in the mouse genome".</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Gene%20ontology"/>
