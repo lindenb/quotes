@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">– Papa, je vais construire une machine qui vous rend contents quand je fais une bêtise comme ça vous ne serez pas en colère contre moi. 
+– Ou alors tu ne fais plus de bêtises. 
+– Non, je vais construire une machine.</q:quote>		
+		<dc:source rdf:resource="https://twitter.com/mariejulien/status/996084257633243136"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">"Objet : TR : TR : Fwd : Fwd : Fwd : Fwd : Fwd : Vidéo incroyable à voir absolument" (Oui, ma mère m'a encore fait suivre un mail.)</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Email"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mother"/>
