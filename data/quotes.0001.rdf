@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">- Lt. Gov. Dan Patrick suggests reconsidering "the design of our schools," saying "there are too many entrances and too many exits" to properly guard.
+- Blame the doors? Anything but the weapon. </q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Door"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Santa%20Fe%20High%20School%20shooting"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20shootings%20in%20the%20United%20States"/>
+		<dc:source rdf:resource="https://twitter.com/ABCPolitics/status/997570070971793408"/>
+		<q:context>Mass shooting du jour </q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">– Papa, je vais construire une machine qui vous rend contents quand je fais une bêtise comme ça vous ne serez pas en colère contre moi. 
 – Ou alors tu ne fais plus de bêtises. 
 – Non, je vais construire une machine.</q:quote>		
