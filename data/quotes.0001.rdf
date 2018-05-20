@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">By age 35, you should have saved twice as many PDFs of scientific papers as you could possibly read in your remaining lifetime.
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academy"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Scientific%20paper"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Portable%20Document%20File"/>
+		<dc:source rdf:resource="https://twitter.com/Chemjobber/status/998037883377205249"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">- Lt. Gov. Dan Patrick suggests reconsidering "the design of our schools," saying "there are too many entrances and too many exits" to properly guard.
 - Blame the doors? Anything but the weapon. </q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Door"/>
