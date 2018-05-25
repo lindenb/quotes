@@ -7,6 +7,19 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">*Dans le bus* Fille: *éternue*
+Moi: à tes souhaits
+Elle: j'ai un copain
+Un mec à côté: je suis vegan
+Derrière: parce que c’est notre projet
+Au fond: nous avons mis à jour notre politique de confidentialité afin de respecter vos données</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emmanuel%20Macron"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Veganism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Terms%20of%20service"/>
+		<q:context>tout les sites web mettent à jour leurs politique de données RGPD</q:context>
+		<dc:source rdf:resource="https://twitter.com/TimotheeK/status/1000028249756401664"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">By age 35, you should have saved twice as many PDFs of scientific papers as you could possibly read in your remaining lifetime.
 </q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academy"/>
