@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">How many Brexiteers does it take to change a lightbulb? Two. One to promise a brighter future and the second to screw it up.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Brexit"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Lightbulb"/>
+		<dc:source rdf:resource="https://twitter.com/Helenqu/status/999925525895303169"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">*Dans le bus* Fille: *éternue*
 Moi: à tes souhaits
 Elle: j'ai un copain
