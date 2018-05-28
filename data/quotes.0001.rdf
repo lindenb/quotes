@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Aujourd’hui, maman est morte. Ou peut-être hier, je ne sais pas. J’ai reçu un télégramme de l’asile : "Mise à jour. Politique de confidentialité. Sentiments distingués.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Albert%20Camus"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Internet%20privacy"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Terms%20of%20service"/>
+		<q:context>tout les sites web mettent à jour leurs politique de données RGPD</q:context>
+		<dc:source rdf:resource="https://twitter.com/rachidowsky13/status/1000527563318611968"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">How many Brexiteers does it take to change a lightbulb? Two. One to promise a brighter future and the second to screw it up.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Brexit"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Lightbulb"/>
