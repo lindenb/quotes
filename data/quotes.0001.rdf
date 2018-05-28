@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Man, that new French citizenship test looks tough</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Immigration%20to%20France"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mamoudou+Gassama"/>
+		<dc:source rdf:resource="https://twitter.com/spectatorindex/status/1001024473800163328"/>
+		<q:context>Mamoudou Gassama, sans papier, sauve un enfant en escaladant une serie de balcon</q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">On demandait Christine Boutin mais Serge Dassault fera l'affaire</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Serge%20Dassault"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Christine%20Boutin"/>
