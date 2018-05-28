@@ -7,7 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
-		<q:quote xml:lang="en">Aujourd’hui, maman est morte. Ou peut-être hier, je ne sais pas. J’ai reçu un télégramme de l’asile : "Mise à jour. Politique de confidentialité. Sentiments distingués.</q:quote>
+		<q:quote xml:lang="fr">On demandait Christine Boutin mais Serge Dassault fera l'affaire</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Serge%20Dassault"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Christine%20Boutin"/>
+		<q:context>Mort de Serge Dassault</q:context>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Aujourd’hui, maman est morte. Ou peut-être hier, je ne sais pas. J’ai reçu un télégramme de l’asile : "Mise à jour. Politique de confidentialité. Sentiments distingués.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Albert%20Camus"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Internet%20privacy"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Terms%20of%20service"/>
