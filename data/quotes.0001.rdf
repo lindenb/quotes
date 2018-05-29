@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Quand on voit la proportion d'immigrés qui ne sauvent pas des vies, il faut inventer NationSup, l'algorithme qui détermine si vous méritez la nationalité FR en fonction d'un contrôle continu en escalade et en cache-cache, avec grand oral et lettre de motivation sur votre héroïsme</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hero"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Immigration%20to%20France"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Education%20in%20France"/>
+		<dc:source rdf:resource="https://twitter.com/DrJNaude/status/1001014558276939777"/>
+		<q:context>Mamoudou Gassama, sans papier, sauve un enfant en escaladant une serie de balcon, ParcoursSup pour entrer à l'universite</q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Man, that new French citizenship test looks tough</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Immigration%20to%20France"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mamoudou+Gassama"/>
