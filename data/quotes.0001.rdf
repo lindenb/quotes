@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">“What is your greatest weakness?” “Answering the semantics of a question while ignoring the pragmatics provided by context.” “Interesting. Could you give me an example?” “Yes.”</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Semantics"/>
+		<dc:source rdf:resource="https://twitter.com/Lorin/status/1001204800351023104"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Quand on voit la proportion d'immigrés qui ne sauvent pas des vies, il faut inventer NationSup, l'algorithme qui détermine si vous méritez la nationalité FR en fonction d'un contrôle continu en escalade et en cache-cache, avec grand oral et lettre de motivation sur votre héroïsme</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hero"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Immigration%20to%20France"/>
