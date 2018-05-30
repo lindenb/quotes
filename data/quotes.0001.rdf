@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">The drug maker of Ambien responds to Roseanne Barr: "...While all pharmaceutical treatments have side effects, racism is not a known side effect of any Sanofi medication,” Ashleigh Koss, Head of Media Relations, North America, Sanofi US tells</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Roseanne%20Barr"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Racism%20in%20the%20United%20States"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sanofi"/>
+		<dc:source rdf:resource="https://twitter.com/ElizLanders/status/1001830931668393984"/>
+		<q:context>l'actrive dit avoir eu des propos raciste a cause des medoc</q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">One IBM punched card weighs approximately 2.54 grams, yielding a total of 151,250 grams, or approximately 334 pounds. But the software itself? Oh, it weighs nothing. Because the software is in the holes, not in the cards.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Punched%20card"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Weight"/>
