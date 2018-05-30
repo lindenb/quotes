@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">One IBM punched card weighs approximately 2.54 grams, yielding a total of 151,250 grams, or approximately 334 pounds. But the software itself? Oh, it weighs nothing. Because the software is in the holes, not in the cards.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Punched%20card"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Weight"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Software"/>
+		<dc:source rdf:resource="https://twitter.com/Grady_Booch/status/1001548460124880897"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">La personne qui a inventé cette tisane “nuit tranquille” qui t’oblige à te relever huit fois pour pisser, j’aimerais bien connaître sa définition de la tranquillité.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Urination"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Herbal%20tea"/>
