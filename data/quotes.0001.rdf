@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I was at a hotel. I took my computer down to the bar, and asked the bartender,‘What’s the wifi password?’ He replied, 'You need to buy a drink first.' So I bought a beer and said, OK now, what’s the wifi password?' He replied, ' "youneedtobuyadrinkfirst'</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Wifi"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Password"/>
+		<dc:source rdf:resource="https://twitter.com/CharlesOppenh/status/1003532574248112129"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">The drug maker of Ambien responds to Roseanne Barr: "...While all pharmaceutical treatments have side effects, racism is not a known side effect of any Sanofi medication,” Ashleigh Koss, Head of Media Relations, North America, Sanofi US tells</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Roseanne%20Barr"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Racism%20in%20the%20United%20States"/>
