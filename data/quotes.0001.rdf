@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Nous sommes déjà intervenus par le passé pour signaler qu'Idriss Aberkane n'a jamais été chercheur à l'X. Il a obtenu un diplôme de docteur en science de gestion de l'Université Paris-Saclay auprès d'un professeur de l'X. Nous n'accordons aucune caution scientifique à ses confs.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Idriss%20Aberkane"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ecole%20polytechnique"/>
+		<dc:source rdf:resource="https://twitter.com/Polytechnique/status/1004739230197800960"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I would like to add you to my professional network on GitHub.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/LinkedIn"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Microsoft"/>
