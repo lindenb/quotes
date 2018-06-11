@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Le terme « rhino-pharyngite aiguë » a été inventé par les médecins pour que les hommes aient l’air moins con en vous montrant leur ordonnance pour « un bon gros rhume ».</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Rhinopharyngitis"/>
+		<dc:source rdf:resource="https://twitter.com/tweetleti/status/1006200973533024257"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Nous sommes déjà intervenus par le passé pour signaler qu'Idriss Aberkane n'a jamais été chercheur à l'X. Il a obtenu un diplôme de docteur en science de gestion de l'Université Paris-Saclay auprès d'un professeur de l'X. Nous n'accordons aucune caution scientifique à ses confs.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Idriss%20Aberkane"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ecole%20polytechnique"/>
