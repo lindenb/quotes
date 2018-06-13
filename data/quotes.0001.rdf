@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">The most successful people I know 1) Survivorship bias 2) Survivorship bias 3) Survivorship bias 4) some other sampling bias 5) Survivorship bias 6) Availability heuristic 7) Survivorship bias</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Survivorship%20bias"/>
+		<dc:source rdf:resource="https://twitter.com/sonyaellenmann/status/1006827911104684032"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Enfin, @EmmanuelMacron, il y avait 629 adultes et enfants pauvres à bord d'un bateau qui guettaient un signe du 5ème pays le + riche au monde. Vous avez brandi votre précis de droit maritime pour leur dire non. Leur pauvreté économique est dépassée par votre pauvreté morale.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emmanuel%20Macron"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Beno%C3%AEt%20Hamon"/>
