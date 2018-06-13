@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Enfin, @EmmanuelMacron, il y avait 629 adultes et enfants pauvres à bord d'un bateau qui guettaient un signe du 5ème pays le + riche au monde. Vous avez brandi votre précis de droit maritime pour leur dire non. Leur pauvreté économique est dépassée par votre pauvreté morale.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emmanuel%20Macron"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Beno%C3%AEt%20Hamon"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Aquarius%20(ship)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Refugee%20crisis"/>
+		<dc:source rdf:resource="https://twitter.com/benoithamon/status/1006830361698078720"/>
+	</q:Quote>
+
+	<q:Quote>
 		<q:quote xml:lang="fr">Le terme « rhino-pharyngite aiguë » a été inventé par les médecins pour que les hommes aient l’air moins con en vous montrant leur ordonnance pour « un bon gros rhume ».</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Rhinopharyngitis"/>
 		<dc:source rdf:resource="https://twitter.com/tweetleti/status/1006200973533024257"/>
