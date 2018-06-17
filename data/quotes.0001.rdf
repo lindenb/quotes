@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Je quitte Annecy. Je suis désormais composé à 75% de fromage.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Annecy"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cheese"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Boulet%20(comics)"/>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/1008307925515952128"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">The most successful people I know 1) Survivorship bias 2) Survivorship bias 3) Survivorship bias 4) some other sampling bias 5) Survivorship bias 6) Availability heuristic 7) Survivorship bias</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Survivorship%20bias"/>
 		<dc:source rdf:resource="https://twitter.com/sonyaellenmann/status/1006827911104684032"/>
