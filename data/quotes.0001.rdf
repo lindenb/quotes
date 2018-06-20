@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Je m’attends à voir apparaître à tout moment des articles intitulés « Qui est Mona Lisa, le modèle du tableau rendu célèbre par Jay-Z et Beyoncé ? »</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Beyonc%C3%A9"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Video%20clip"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jay-Z"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Clickbait"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mus%C3%A9e%20du%20Louvre"/>
+		<dc:source rdf:resource="https://twitter.com/ZeldaDorant/status/1009413424059682817"/>
+		<q:context>video clip de beyonce au louvre</q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Je quitte Annecy. Je suis désormais composé à 75% de fromage.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Annecy"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cheese"/>
