@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Neighbor: What do you do?
+Me: I’m a scientist.
+Neighbor: Oh, you must be smart.
+My wife: *snort*</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Scientist"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Wife"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Neighbourhood"/>
+		<dc:source rdf:resource="https://twitter.com/mikefeigin/status/1009244186166652928"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Je m’attends à voir apparaître à tout moment des articles intitulés « Qui est Mona Lisa, le modèle du tableau rendu célèbre par Jay-Z et Beyoncé ? »</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Beyonc%C3%A9"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Video%20clip"/>
