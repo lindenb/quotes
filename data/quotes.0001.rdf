@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I have two questions about Space Force: 1) When will Puerto Rico have electricity? 2) When will Flint have clean water?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Puerto%20Rico"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Flint%20water%20crisis"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hurricane%20Maria"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Space%20force"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/United%20States%20Space%20Force"/>
+		<dc:source rdf:resource="https://twitter.com/PoliteMelanie/status/1009960360625999873"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">2016: "Come on, you're talking like Trump's going to put people in concentration camps" 
 2018: "First of all, I think it's offensive that you refer to them as 'concentration camps'"</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
