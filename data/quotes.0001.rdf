@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Interviewer: Do you think Brazil's 1970 team can beat today's Argentina? Pelé: Yes. Interviewer: By how much? Pelé: 1:0 Interviewer: That's it? Pelé: Well, most of us are over 75 now.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Football"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Brazil"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Argentina%20national%20football%20team"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pel%C3%A9"/>
+		<dc:source rdf:resource="https://twitter.com/Mr_DrinksOnMe/status/1010831902624878592"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I have two questions about Space Force: 1) When will Puerto Rico have electricity? 2) When will Flint have clean water?</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Puerto%20Rico"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
