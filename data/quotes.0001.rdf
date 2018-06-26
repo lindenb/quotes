@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">If I can’t go to Planned Parenthood for a routine pap smear without being screamed at and harassed by Christian protestors then Stephen Miller shouldn’t be able to eat his fucking salad without being called an asshole.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Planned%20Parenthood"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Stephen%20Miller%20(political%20advisor)"/>
+		<dc:source rdf:resource="https://twitter.com/missmayn/status/1011319064893915136"/>
+		<q:context>un restaurateur interdit l'acces a un resto à des employés du gouvernement trump</q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Interviewer: Do you think Brazil's 1970 team can beat today's Argentina? Pelé: Yes. Interviewer: By how much? Pelé: 1:0 Interviewer: That's it? Pelé: Well, most of us are over 75 now.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Football"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Brazil"/>
