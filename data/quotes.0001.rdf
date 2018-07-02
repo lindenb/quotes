@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Watching Jurassic Park for the first time in decades. When I was a kid, this was about cool dinosaurs. Now it's about appeasing investors and securing research funding.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jurassic%20Park"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academy"/>
+		<dc:source rdf:resource="https://twitter.com/SpartanVTyranny/status/1013218611941576704"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Loin de toute polémique, reconnaissons tout de même qu'il sera plus facile de faire ses textos en conduisant à 80 kmh qu'à 90 !</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/SMS"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Speed%20limits%20in%20France"/>
