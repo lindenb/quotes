@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Loin de toute polémique, reconnaissons tout de même qu'il sera plus facile de faire ses textos en conduisant à 80 kmh qu'à 90 !</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/SMS"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Speed%20limits%20in%20France"/>
+		<dc:source rdf:resource="https://twitter.com/sergeJONCOUR/status/1013725055963017217"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">If I can’t go to Planned Parenthood for a routine pap smear without being screamed at and harassed by Christian protestors then Stephen Miller shouldn’t be able to eat his fucking salad without being called an asshole.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Planned%20Parenthood"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Stephen%20Miller%20(political%20advisor)"/>
