@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I had that heartbreaking "but no one ever chooses me and I don't have any friends" conversation with the 5 year old this morning. He was really nice about it and gave me some good advice on being more sociable.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Asociality"/>
+		<dc:source rdf:resource="https://twitter.com/scrapegroat/status/1014445308628078597"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Watching Jurassic Park for the first time in decades. When I was a kid, this was about cool dinosaurs. Now it's about appeasing investors and securing research funding.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jurassic%20Park"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academy"/>
