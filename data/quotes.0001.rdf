@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I deleted Facebook cause I was tired of seeing everyone getting engaged/married and having babies. About to delete Instagram cause I’m tired of seeing people hotter than me. Never gunna delete twitter cause we all miserable here</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Facebook"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Instagram"/>
+		<dc:source rdf:resource="https://twitter.com/_stephthemess/status/1014680938331197441"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I had that heartbreaking "but no one ever chooses me and I don't have any friends" conversation with the 5 year old this morning. He was really nice about it and gave me some good advice on being more sociable.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Asociality"/>
 		<dc:source rdf:resource="https://twitter.com/scrapegroat/status/1014445308628078597"/>
