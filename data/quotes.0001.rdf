@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Les grands médias: « Internet est plein de fake news, il faut le réglementer, nous subventionner car nous nous disons des vraies choses vérifiées. »
+Aussi, les grands médias: « Idriss Aberkane ce génie », l'électrosensibilité, l'homéopathie, « les découvertes du Pr Séralini »
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fake%20news"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Idriss%20Aberkane"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Homeopathy"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/S%C3%A9ralini%20affair"/>
+		<dc:source rdf:resource="https://twitter.com/Blouchtika/status/1015520535290183680"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I deleted Facebook cause I was tired of seeing everyone getting engaged/married and having babies. About to delete Instagram cause I’m tired of seeing people hotter than me. Never gunna delete twitter cause we all miserable here</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Facebook"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
