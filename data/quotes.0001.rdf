@@ -7,6 +7,18 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I am a:
+o Woman
+o Man
+x Genome Scientist
+Looking for a:
+o Woman
+o Man
+x Properly-formatted GTF file</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/rtraborn/status/1025130426124234752"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Les grands médias: « Internet est plein de fake news, il faut le réglementer, nous subventionner car nous nous disons des vraies choses vérifiées. »
 Aussi, les grands médias: « Idriss Aberkane ce génie », l'électrosensibilité, l'homéopathie, « les découvertes du Pr Séralini »
 </q:quote>
