@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Révélation sur la violence de Benalla, son mariage annulé, ses armes cachées et là son compte tinder. J'ai l'impression que la grande gagnante de cette histoire n'est ni la Vérité, ni la presse d'investigation ni même la Démocratie, mais l'ex future madame Benalla qui a eu chaud.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Alexandre%20Benalla"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Wedding"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emmanuel%20Macron"/>
+		<dc:source rdf:resource="https://twitter.com/obgrmb/status/1025366811808808961"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I am a:
 o Woman
 o Man
