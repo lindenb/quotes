@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Pendant le cours de bio-informatique que j'ai regardé orange is the new black !</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Orange%20Is%20the%20New%20Black"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/To_bi_funyyy/status/1042718343642447872"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">À ceux qui me disent : "c'est mal placé cette cicatrice d'opération, c'est dommage tu ne peux plus mettre de décolleté...", j'ai envie de leur répondre : "PUTAIN MAIS EST-CE QUE HARRY POTTER PORTE UNE CAGOULE ??? NON !"</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Harry%20Potter"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Surgery"/>
