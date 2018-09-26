@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Bon maintenant qu'on a mis un visage sur l'origine du monde, on veut voir la chatte de la Joconde</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Joconde"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Origine%20du%20monde"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Genital"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Face"/>
+		<dc:source rdf:resource="https://twitter.com/christopheconte/status/1045054258087890944"/>
+		<q:context>un historien a trouve l identite de la femme du tableau</q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">J’ai beau cherche mais je vois toujours pas l’utilité du cour de bio informatique</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
 		<dc:source rdf:resource="https://twitter.com/NoemieDubar/status/1043903741248917505"/>
