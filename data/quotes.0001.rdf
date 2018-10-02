@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Qui a déjà fais de la bioinformatique svp ? Je suis larguée</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/wlkinghaynes/status/1047098563459780608"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Bon maintenant qu'on a mis un visage sur l'origine du monde, on veut voir la chatte de la Joconde</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Joconde"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Origine%20du%20monde"/>
