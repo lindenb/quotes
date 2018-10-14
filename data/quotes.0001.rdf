@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Drawing is wild. You think you know what Things look like and then 5 minutes later you're googling "bird"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Drawing"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Google"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bird"/>
+		<dc:source rdf:resource="https://twitter.com/KylePlantEmoji/status/1050075535622041600"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Qui a déjà fais de la bioinformatique svp ? Je suis larguée</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
 		<dc:source rdf:resource="https://twitter.com/wlkinghaynes/status/1047098563459780608"/>
