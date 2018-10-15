@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">The mayor from Jaws is still the mayor in Jaws 2. It is so important to vote in your local elections.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jaws%20(film)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mayor"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vote"/>
+		<dc:source rdf:resource="https://twitter.com/adamgoodell/status/921549793704394752"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Drawing is wild. You think you know what Things look like and then 5 minutes later you're googling "bird"</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Drawing"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Google"/>
