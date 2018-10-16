@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Si tu cherches une citation de ministre régalien de la République française pour ta dissertation :
+
+ Verified account @CCastaner https://twitter.com/CCastaner/status/8541156107358209
+ Download the FireFox Twitter Toolbar and RT to win an ipad! http://twitbar.net
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Christophe%20Castaner"/>
+		<dc:source rdf:resource="hhttps://twitter.com/Maitre_de_conf/status/1052172499608330240"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">The mayor from Jaws is still the mayor in Jaws 2. It is so important to vote in your local elections.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jaws%20(film)"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mayor"/>
