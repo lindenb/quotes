@@ -7,13 +7,21 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">How will https://www.uniprot.org/uniprot/P27384  cope, no longer being to most visited entry.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pornography"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/UniProt"/>
+		<dc:source rdf:resource="https://twitter.com/jervenbolleman/status/1055797237593399297"/>
+		<q:context>On the 27th of July this year Google finally figured out that @uniprot does not serve porn :D Cratered our mobile visitors though. How to report this in progress reports...</q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Si tu cherches une citation de ministre régalien de la République française pour ta dissertation :
 
  Verified account @CCastaner https://twitter.com/CCastaner/status/8541156107358209
  Download the FireFox Twitter Toolbar and RT to win an ipad! http://twitbar.net
 </q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Christophe%20Castaner"/>
-		<dc:source rdf:resource="hhttps://twitter.com/Maitre_de_conf/status/1052172499608330240"/>
+		<dc:source rdf:resource="https://twitter.com/Maitre_de_conf/status/1052172499608330240"/>
 	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="en">The mayor from Jaws is still the mayor in Jaws 2. It is so important to vote in your local elections.</q:quote>
