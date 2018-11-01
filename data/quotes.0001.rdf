@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Car, enfin, participer à l’essor d’une civilisation qui monte, bien. Vivre les jours d’un déclin, mieux. Et, placé devant le trépas, l’accepter virilement</q:quote>
+		<dc:source rdf:resource="http://h.20-bal.com/istoriya/125/index.html?page=16"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Civilization"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Decline%20of%20civilization"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Oswald%20Spengler"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">How will https://www.uniprot.org/uniprot/P27384  cope, no longer being to most visited entry.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pornography"/>
