@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Zeus, give him your throne. There is a true boss amongst gods now.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Stan%20Lee"/>
+		<dc:source rdf:resource="https://twitter.com/joannsfar/status/1062061945703071745"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Car, enfin, participer à l’essor d’une civilisation qui monte, bien. Vivre les jours d’un déclin, mieux. Et, placé devant le trépas, l’accepter virilement</q:quote>
 		<dc:source rdf:resource="http://h.20-bal.com/istoriya/125/index.html?page=16"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Civilization"/>
