@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Okay, it's been a couple of days. Some corrections: ...and Jack Kirby... ...and Jack Kirby... ...and Jack Kirby... ...and Jack Kirby... ...and Jack Kirby... ...and Jack Kirby... ...and Jack Kirby... ...and Jack Kirby... ...and Jack Kirby... ...and Jack Kirby...</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Stan%20Lee"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jack%20Kirby"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Biography"/>
+		<dc:source rdf:resource="https://twitter.com/scottmccloud/status/1063454300393869314"/>
+		<q:context>quelques jours apres le deces de Stan lee</q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Zeus, give him your throne. There is a true boss amongst gods now.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Stan%20Lee"/>
 		<dc:source rdf:resource="https://twitter.com/joannsfar/status/1062061945703071745"/>
