@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">How I imagine bank code:
+ fn money_transfer( from: Acct, to: Acct, amount: Number, ) { thread::sleep(5 days); //... }</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bank"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Electronic%20funds%20transfer"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programmer"/>
+		<dc:source rdf:resource="https://twitter.com/Sunjay03/status/1067080904672071680"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Okay, it's been a couple of days. Some corrections: ...and Jack Kirby... ...and Jack Kirby... ...and Jack Kirby... ...and Jack Kirby... ...and Jack Kirby... ...and Jack Kirby... ...and Jack Kirby... ...and Jack Kirby... ...and Jack Kirby... ...and Jack Kirby...</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Stan%20Lee"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jack%20Kirby"/>
