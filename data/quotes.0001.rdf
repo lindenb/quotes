@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Putting this journey into words will not be easy, but I will try. I am finally where I was born to be.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/International%20Space%20Station"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Anne%20McClain"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cupola%20(ISS%20module)"/>
+		<dc:source rdf:resource="https://twitter.com/AstroAnnimal/status/1071058561638252546"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">How I imagine bank code:
  fn money_transfer( from: Acct, to: Acct, amount: Number, ) { thread::sleep(5 days); //... }</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bank"/>
