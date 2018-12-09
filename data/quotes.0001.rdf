@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Hey @Marvel, we heard about Tony Stark. As we know, the first thing you should do is listen in mission control for “@Avengers, we have a problem.” But if he can’t communicate, then we recommend ground teams use all resources to scan the skies for your missing man</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Avengers"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/NASA"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Marvel%20Comics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Tony%20Stark%20(Marvel%20Cinematic%20Universe)"/>
+		<dc:source rdf:resource="https://twitter.com/NASA/status/1071818572056403970"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Putting this journey into words will not be easy, but I will try. I am finally where I was born to be.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/International%20Space%20Station"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Anne%20McClain"/>
