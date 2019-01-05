@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Remember: Every time you misidentify a traffic light in a Captcha, a self-driving car hits a pedestrian</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Artificial%20intelligence"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Self-driving%20car"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/CAPTCHA"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Traffic%20light"/>
+		<dc:source rdf:resource="https://twitter.com/libovness/status/1081258067134693376"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Hey @Marvel, we heard about Tony Stark. As we know, the first thing you should do is listen in mission control for “@Avengers, we have a problem.” But if he can’t communicate, then we recommend ground teams use all resources to scan the skies for your missing man</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Avengers"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/NASA"/>
