@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">It's funny watching Bladerunner now - the year it was meant to take place - and realising how wrong it got some aspects of modern life. For example, they predicted we'd weed out robots masquerading as humans with complex tests, whereas we have simple "I'm not a robot" buttons.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Blade%20Runner"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Turing%20test"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/CAPTCHA"/>
+		<dc:source rdf:resource="https://twitter.com/RKWinvisibleman/status/1086304066806919168"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Remember: Every time you misidentify a traffic light in a Captcha, a self-driving car hits a pedestrian</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Artificial%20intelligence"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Self-driving%20car"/>
