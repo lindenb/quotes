@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">La bioinformatique c'est la pire matière existant sur cette planète.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/JulieDchp/status/1087982352062693377"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">It's funny watching Bladerunner now - the year it was meant to take place - and realising how wrong it got some aspects of modern life. For example, they predicted we'd weed out robots masquerading as humans with complex tests, whereas we have simple "I'm not a robot" buttons.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Blade%20Runner"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Turing%20test"/>
