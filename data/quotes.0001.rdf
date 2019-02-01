@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">165 years ago, UK Parliament legalized public libraries where people could read for free. Just as publishers warned, no book written since.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Library"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Book"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Open%20access"/>
+		<dc:source rdf:resource="https://twitter.com/Falkvinge/status/556505929685168128"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">La bioinformatique c'est la pire matière existant sur cette planète.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
 		<dc:source rdf:resource="https://twitter.com/JulieDchp/status/1087982352062693377"/>
