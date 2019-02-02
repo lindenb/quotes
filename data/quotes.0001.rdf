@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Why programmers like cooking: You peel the carrot, you chop the carrot, you put the carrot in the stew. You don’t suddenly find out that your peeler is several versions behind and they dropped support for carrots in 4.3</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programmer"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cooking"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Software%20versioning"/>
+		<dc:source rdf:resource="https://twitter.com/rkoutnik/status/1085633512839888896"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">165 years ago, UK Parliament legalized public libraries where people could read for free. Just as publishers warned, no book written since.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Library"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Book"/>
