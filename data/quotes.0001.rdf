@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Entendu ce soir: “il paraît que physiquement, Louis XVI était la copie conforme de Louis XIV”
+Moi, hurlant presque: “MAIS IL FAISAIT UNE TÊTE DE MOINS”
+J’étais trop excité j’ai gâché ma blague alors qu’elle était super, et je n’aurai plus jamais une autre occasion de la placer </q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Louis%20XIV%20of%20France"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Louis%20XVI%20of%20France"/>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/1096887256164548609"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Je comprends un peu ce que ça doit faire de refiler une MST quand on retweete un truc dans lequel j'ai fait une faute.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sexual%20disease"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
