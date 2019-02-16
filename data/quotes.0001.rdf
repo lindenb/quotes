@@ -7,14 +7,23 @@
 	xml:lang="en"
 	>
 	<q:Quote>
-		<q:quote xml:lang="en">"Doctor, my foot hurts when I drop a book on it." Real doctor: "Don't drop a book on your foot." Software Doctor: "Do you have that book and can I drop it on your foot again?"</q:quote>
+		<q:quote xml:lang="fr">Je comprends un peu ce que ça doit faire de refiler une MST quand on retweete un truc dans lequel j'ai fait une faute.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sexual%20disease"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Typographical%20error"/>
+		<dc:source rdf:resource="https://twitter.com/AdrienMenielle/status/29088080773"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">"Doctor, my foot hurts when I drop a book on it."
+Real doctor: "Don't drop a book on your foot."
+Software Doctor: "Do you have that book and can I drop it on your foot again?"</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Physician"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Medicine"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Software%20development"/>
 		<dc:source rdf:resource="https://twitter.com/rhemalinder/status/1095713555335311360"/>
 	</q:Quote>
 	<q:Quote>
-		<q:quote xml:lang="en">Why programmers like cooking: You peel the carrot, you chop the carrot, you put the carrot in the stew. You don’t suddenly find out that your peeler is several versions behind and they dropped support for carrots in 4.3</q:quote>
+		<q:quote xml:lang="en">Why programmers like cooking:  ou peel the carrot, you chop the carrot, you put the carrot in the stew. You don’t suddenly find out that your peeler is several versions behind and they dropped support for carrots in 4.3</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programmer"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cooking"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Software%20versioning"/>
