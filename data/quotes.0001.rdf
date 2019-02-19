@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">My PhD advisor told me to put a ten dollar bill between the pages of my thesis in the university library. "So I can check to see if anyone read it?", I asked. "No, of course no one will read it," he replied, "but when you come back into town you'll always have money for lunch."</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/PhD%20thesis"/>
+		<dc:source rdf:resource="https://twitter.com/CT_Bergstrom/status/1097787078560034817"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Entendu ce soir: “il paraît que physiquement, Louis XVI était la copie conforme de Louis XIV”
 Moi, hurlant presque: “MAIS IL FAISAIT UNE TÊTE DE MOINS”
 J’étais trop excité j’ai gâché ma blague alors qu’elle était super, et je n’aurai plus jamais une autre occasion de la placer </q:quote>
