@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">...We re-analyzed data, found discrepancy was because of major data error in @NatureGenet study: many R2 reads were randomly shuffled among study subjects! This error is responsible for the incorrect report of high viral diversity among flu-infected humans in Hong Kong.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Software%20error"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Genetics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Next-generation%20sequencing"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/jbloom_lab/status/1100070325272817664"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">My PhD advisor told me to put a ten dollar bill between the pages of my thesis in the university library. "So I can check to see if anyone read it?", I asked. "No, of course no one will read it," he replied, "but when you come back into town you'll always have money for lunch."</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/PhD%20thesis"/>
 		<dc:source rdf:resource="https://twitter.com/CT_Bergstrom/status/1097787078560034817"/>
