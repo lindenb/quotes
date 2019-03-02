@@ -7,11 +7,17 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Columbus was an asshole. I say we replace him with Columbo Day where everyone wears trenchcoats, smokes cigars, and pretends to be confused. Who’s with me?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Christopher%20Columbus"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Columbo%20(character)"/>
+		<dc:source rdf:resource="https://twitter.com/Super70sSports/status/1101622725104275456"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">ooh, first of March! I can open the first window on my Brexit advent calendar! *opens* aww, it's a little picture of insulin shortages</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Brexit"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Insulin"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Advent%20calendar"/>
-		<dc:source rdf:resource="hhttps://twitter.com/TomChivers/status/1101413906201931778"/>
+		<dc:source rdf:resource="https://twitter.com/TomChivers/status/1101413906201931778"/>
 	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="en">...We re-analyzed data, found discrepancy was because of major data error in @NatureGenet study: many R2 reads were randomly shuffled among study subjects! This error is responsible for the incorrect report of high viral diversity among flu-infected humans in Hong Kong.</q:quote>
