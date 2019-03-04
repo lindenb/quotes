@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">La bio-informatique c'est vraiment de la grosse merde</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/RaphzDefaix/status/1102235642052923392"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Columbus was an asshole. I say we replace him with Columbo Day where everyone wears trenchcoats, smokes cigars, and pretends to be confused. Who’s with me?</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Christopher%20Columbus"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Columbo%20(character)"/>
