@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">« Je ne suis pas contre la vaccination, en cas d’épidémie il faut vacciner. Mais pourquoi vouloir passer en force...</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Antivax"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mich%C3%A8le%20Rivasi"/>
+		<dc:source rdf:resource="https://twitter.com/MicheleRivasi/status/905003179250778112"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">La bio-informatique c'est vraiment de la grosse merde</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
 		<dc:source rdf:resource="https://twitter.com/RaphzDefaix/status/1102235642052923392"/>
