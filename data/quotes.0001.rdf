@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Les anglais ont braillé jusqu'à ce qu'on leur ouvre la porte de l'UE, et maintenant que c'est fait ils ne savent pas si ils veulent sortir ou rester dedans. Je soupçonne les chats d'avoir pris le pouvoir en Angleterre...</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Brexit"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cat"/>
+		<dc:source rdf:resource="https://twitter.com/ComplotsFaciles/status/1106139483660013569"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Days since last off-by-one incident: -1</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Off-by-one%20error"/>
 		<dc:source rdf:resource="https://twitter.com/mathias/status/1105523337181171712"/>
