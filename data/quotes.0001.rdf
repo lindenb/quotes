@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Sur @lci, à un député LREM qui s’inquiète que la chaîne ne diffuse pas de reportage/marche pr le climat, réponse du journaleux : « on ne va pas diffuser d’images, car on sait que ça se passe bien »! Voilà qui a le mérite d’être clair sur les choix du rédacteur en chef.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/LCI%20(France)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Climate%20change"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Yellow%20vests%20movement"/>
+		<dc:source rdf:resource="https://twitter.com/mamylune/status/1106955641451675648"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Les anglais ont braillé jusqu'à ce qu'on leur ouvre la porte de l'UE, et maintenant que c'est fait ils ne savent pas si ils veulent sortir ou rester dedans. Je soupçonne les chats d'avoir pris le pouvoir en Angleterre...</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Brexit"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Cat"/>
