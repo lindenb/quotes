@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">The black plague disappeared without a vaccine, just saying...</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Antivaccination"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Black%20plague"/>
+		<dc:source rdf:resource="https://twitter.com/CalderRobinson/status/1094660680521826304"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Sur @lci, à un député LREM qui s’inquiète que la chaîne ne diffuse pas de reportage/marche pr le climat, réponse du journaleux : « on ne va pas diffuser d’images, car on sait que ça se passe bien »! Voilà qui a le mérite d’être clair sur les choix du rédacteur en chef.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/LCI%20(France)"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Climate%20change"/>
