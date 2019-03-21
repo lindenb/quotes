@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Moi: Je dessine
+LinkedIn: NOUS AVONS TROUVÉ 235 OFFRES D'EMPLOI POUR VOUS DONT "PDG DE UNIVERSAL STUDIOS" ET "RÉALISATEUR MILLIONAIRE CHEZ NETFLIX"
+Moi *clique sur le lien*
+LinkedIn: Vous avez 0 des 577 compétences requises pour ce travail</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/LinkedIn"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Clickbait"/>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/1108793523761897473"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">The black plague disappeared without a vaccine, just saying...</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Antivaccination"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Black%20plague"/>
