@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">thats for the dinosaurs u bastard</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Asteroid"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20Extinction"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Dinosaur"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hayabusa2"/>
+		<dc:source rdf:resource="https://twitter.com/VICE/status/1114482930578018304"/>
+		<q:context>Hayabusa2 was launched with a five-gram bullet and an explosive, both meant for the Ryugu asteroid 200 million miles from Earth.</q:context>
+	</q:Quote>
+
+	<q:Quote>
 		<q:quote xml:lang="fr">Moi: Je dessine
 LinkedIn: NOUS AVONS TROUVÉ 235 OFFRES D'EMPLOI POUR VOUS DONT "PDG DE UNIVERSAL STUDIOS" ET "RÉALISATEUR MILLIONAIRE CHEZ NETFLIX"
 Moi *clique sur le lien*
