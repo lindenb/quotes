@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">The first rule of the Journal Club is that nobody wants to talk at the Journal Club.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Journal%20club"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fight%20Club"/>
+		<dc:source rdf:resource="https://twitter.com/iddux/status/1115275277796610048"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">thats for the dinosaurs u bastard</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Asteroid"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mass%20Extinction"/>
