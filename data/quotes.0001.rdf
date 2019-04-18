@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Victor Hugo remercie tous les généreux donateurs prêts à sauver Notre-Dame de Paris et leur propose de faire la même chose avec Les Misérables.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Notre-Dame%20de%20Paris"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Victor%20Hugo"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Les%20Mis%C3%A9rables"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Notre-Dame%20de%20Paris%20fire"/>
+		<dc:source rdf:resource="https://twitter.com/opourriol/status/1118124953772199936"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">The first rule of the Journal Club is that nobody wants to talk at the Journal Club.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Journal%20club"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fight%20Club"/>
