@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Moi: *Commence à lire le tome 2 d'une série* *[Personnage] arrive* Moi: "Allons bon, c'est qui déjà, [Personnage] ?" Moi: *Google [Personnage]* Google: "SÉRIE FANDOM: [PERSONNAGE], STATUT: DÉCÉDÉ. MEURT À LA FIN DE [TOME 2]" Moi: …</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Spoiler"/>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/1121467119827181568"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Victor Hugo remercie tous les généreux donateurs prêts à sauver Notre-Dame de Paris et leur propose de faire la même chose avec Les Misérables.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Notre-Dame%20de%20Paris"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Victor%20Hugo"/>
