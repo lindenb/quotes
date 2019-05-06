@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Les forêts précèdent les hommes, les déserts les suivent.</q:quote>
+		<dc:source rdf:resource="https://citations.ouest-france.fr/citation-francois-rene-de-chateaubriand/forets-precedent-hommes-deserts-suivent-101656.html"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Fran%C3%A7ois-Ren%C3%A9%20de%20Chateaubriand"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Climate%20change"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Moi: *Commence à lire le tome 2 d'une série* *[Personnage] arrive* Moi: "Allons bon, c'est qui déjà, [Personnage] ?" Moi: *Google [Personnage]* Google: "SÉRIE FANDOM: [PERSONNAGE], STATUT: DÉCÉDÉ. MEURT À LA FIN DE [TOME 2]" Moi: …</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Spoiler"/>
 		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/1121467119827181568"/>
