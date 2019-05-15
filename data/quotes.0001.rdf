@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">#Balkany : Patrick Balkany vient d'entrer dans le prétoire et de s'installer. L'audience n'est pas encore ouverte. Son portable vient de sonner. Et là, c'est la musique des Tontons flingueurs qui retentit dans le prétoire.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Patrick%20Balkany"/>
+		<dc:source rdf:resource="https://twitter.com/vvantighem/status/1128621850198671360"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Les forêts précèdent les hommes, les déserts les suivent.</q:quote>
 		<dc:source rdf:resource="https://citations.ouest-france.fr/citation-francois-rene-de-chateaubriand/forets-precedent-hommes-deserts-suivent-101656.html"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Fran%C3%A7ois-Ren%C3%A9%20de%20Chateaubriand"/>
