@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">How did abortions get banned faster than assault rifles? Raise your hand if you’re sick and tired of Republicans using “1984” and “The Handmaid’s Tale” as fucking instruction manuals.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Abortion%20in%20the%20United%20States"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nineteen%20Eighty-Four"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/The%20Handmaid's%20Tale"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Gun%20control"/>
+		<dc:source rdf:resource="https://twitter.com/Strandjunker/status/1136998469766385665"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">#Balkany : Patrick Balkany vient d'entrer dans le prétoire et de s'installer. L'audience n'est pas encore ouverte. Son portable vient de sonner. Et là, c'est la musique des Tontons flingueurs qui retentit dans le prétoire.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Patrick%20Balkany"/>
 		<dc:source rdf:resource="https://twitter.com/vvantighem/status/1128621850198671360"/>
