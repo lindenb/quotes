@@ -6,6 +6,18 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+<q:Quote>
+		<q:quote xml:lang="en">*google an issue*
+* find relevant GitHub Issue*
+&gt; Ah, 2017! This must've been fixed by now!
+*scroll through 4 pages
+* _h4t0n commented 7 days ago_
+ &gt; any progress on this?
+GODDAMMIT.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/GitHub"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bug%20(software)"/>
+		<dc:source rdf:resource="https://twitter.com/iamdevloper/status/1138792943794343936"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="en">How did abortions get banned faster than assault rifles? Raise your hand if you’re sick and tired of Republicans using “1984” and “The Handmaid’s Tale” as fucking instruction manuals.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Abortion%20in%20the%20United%20States"/>
@@ -15,7 +27,7 @@
 		<dc:source rdf:resource="https://twitter.com/Strandjunker/status/1136998469766385665"/>
 	</q:Quote>
 	<q:Quote>
-		<q:quote xml:lang="en">#Balkany : Patrick Balkany vient d'entrer dans le prétoire et de s'installer. L'audience n'est pas encore ouverte. Son portable vient de sonner. Et là, c'est la musique des Tontons flingueurs qui retentit dans le prétoire.</q:quote>
+		<q:quote xml:lang="fr">Patrick Balkany vient d'entrer dans le prétoire et de s'installer. L'audience n'est pas encore ouverte. Son portable vient de sonner. Et là, c'est la musique des Tontons flingueurs qui retentit dans le prétoire.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Patrick%20Balkany"/>
 		<dc:source rdf:resource="https://twitter.com/vvantighem/status/1128621850198671360"/>
 	</q:Quote>
