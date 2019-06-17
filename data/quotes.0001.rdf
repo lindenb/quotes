@@ -6,6 +6,11 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+	<q:Quote>
+		<q:quote xml:lang="en">Meta-imposter syndrome: When you know a lot of people have imposter syndrome, but you've witnessed how competent they are. So they're not like you, the real imposter.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Impostor%20syndrome"/>
+		<dc:source rdf:resource="https://twitter.com/mshelton/status/1140410386753003520"/>
+	</q:Quote>
 <q:Quote>
 		<q:quote xml:lang="en">*google an issue*
 * find relevant GitHub Issue*
