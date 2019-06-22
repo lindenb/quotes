@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Fouuu en vrai jsuis deg je savais pas que la BioInfo ca allait être si chiant du coup j'avais pas révisé du tout les stats, j'aurais du le valider jsuis deg monsieur si vous passez par là mettez moi 17 pour mon excellente copie svp mdr</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/JulieDchp/status/1142069808223215618"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Meta-imposter syndrome: When you know a lot of people have imposter syndrome, but you've witnessed how competent they are. So they're not like you, the real imposter.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Impostor%20syndrome"/>
 		<dc:source rdf:resource="https://twitter.com/mshelton/status/1140410386753003520"/>
