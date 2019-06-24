@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">1999: you can't write real software without types 
+2009: types are the worst. We can code faster without them! 
+2019: types stop all the bugs! 
+2029: you don't need types when ML can figure out the types for you 
+2039: developers are dead due to climate change</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programming%20language"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Climate%20change"/>
+		<dc:source rdf:resource="https://twitter.com/k_2052/status/1142098853887242240"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Fouuu en vrai jsuis deg je savais pas que la BioInfo ca allait être si chiant du coup j'avais pas révisé du tout les stats, j'aurais du le valider jsuis deg monsieur si vous passez par là mettez moi 17 pour mon excellente copie svp mdr</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
 		<dc:source rdf:resource="https://twitter.com/JulieDchp/status/1142069808223215618"/>
