@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Internet went down in the middle of a Zoom call. Walk out of my office to find that my 4 year old daughter had filled up a plastic tub with water and foaming soap to give her toys a bath. She was using the router as a boat.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Router%20(computing)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Children"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Toy"/>
+		<dc:source rdf:resource="https://twitter.com/Ryan_Holdaway/status/1142177916140134400"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">1999: you can't write real software without types 
 2009: types are the worst. We can code faster without them! 
 2019: types stop all the bugs! 
