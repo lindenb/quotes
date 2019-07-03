@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">If having a coffee in the morning doesn't wake you up, try deleting a table in a production database instead.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Coffee"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sleep%20deprivation"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Database"/>
+		<dc:source rdf:resource="https://twitter.com/UserInputSucks/status/1141287680447324166"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Also, I think scientists naturally gravitate to Twitter because they are already comfortable with narcissism and word limits.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Scientist"/>
