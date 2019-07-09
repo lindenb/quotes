@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">1999: there are millions of websites all hyperlinked together
+2019: there are four websites, each filled with screenshots of the other three.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/1999"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/2019"/>
+		<dc:source rdf:resource="https://twitter.com/badnetworker/status/1133363823728091136"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">If having a coffee in the morning doesn't wake you up, try deleting a table in a production database instead.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Coffee"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sleep%20deprivation"/>
