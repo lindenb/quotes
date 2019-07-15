@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Dans les films je suis émerveillé quand le héros saute dans l'eau et descend en ligne droite à 7m en 10s pour sortir quelqu'un d'une voiture de nuit. Moi pour descendre au fond du grand bain je gigote 20s en perdant mon air, je vois rien et j'ai les oreilles qui me font mal.
+
+Si c'était moi dans le film, tu verrais la voiture tomber à l'eau et le plan suivant serait une longue scène embarrassante où je serais assis pour ôter mes chaussures et où je me mettrais de l'eau sur la nuque avant de sauter. (En poussant des petits cris à cause du froid)</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Action%20movie"/>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/1150852569473986562"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Me: Wow can't believe I'm meeting a robot!
 Scientist: He has limited functionality. He can't hold a conversation or express emotion
 Me: ok
