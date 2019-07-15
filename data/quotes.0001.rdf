@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Me: Wow can't believe I'm meeting a robot!
+Scientist: He has limited functionality. He can't hold a conversation or express emotion
+Me: ok
+Scientist: I'm talking to the robot</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Robotics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Artificial%20intelligence"/>
+		<dc:source rdf:resource="https://twitter.com/ArfMeasures/status/1150769250988154881"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">A maths meme that is actually funny rather than stupid: Solve carefully! 230 - 220 x 0.5 = You probably won’t believe it but the answer is 5!</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mathematics"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Factorial"/>
