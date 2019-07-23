@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Unite behind the science.”</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Climate%20change%20denial"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Greta%20Thunberg"/>
+		<dc:source rdf:resource="https://twitter.com/GretaThunberg/status/1153693427487387648"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">[teaching a programming class to 6 yo kids]
 &gt; hey kids! welcome to your first "intro to programming" class! ready to learn? ok. today we're gonna learn how to write jira tickets, navigate office politics and how to avoid meetings! coding? nope, you'll rarely get the chance!</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programming"/>
