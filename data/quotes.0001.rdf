@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">The collapse of everything is timed to coincide with the death of the last Baby Boomer.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Climate%20change"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Baby%20boomers"/>
+		<dc:source rdf:resource="https://twitter.com/WernerTwertzog/status/1154396027119636480"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Unite behind the science.”</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Climate%20change%20denial"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
