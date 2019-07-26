@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">therapist: and what do we do when we are overwhelmed?
+me: create a jira ticket
+therapist: no</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Psychotherapy"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jira%20(software)"/>
+		<dc:source rdf:resource="https://twitter.com/oihamza/status/1154445257766887424"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">The collapse of everything is timed to coincide with the death of the last Baby Boomer.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Climate%20change"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Baby%20boomers"/>
