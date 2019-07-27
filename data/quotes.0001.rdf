@@ -6,6 +6,15 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+<q:Quote>
+		<q:quote xml:lang="en">How Twitter works:
+Me: 
+"I prefer mangoes to oranges..."
+Random Person: 
+"So basically what you're saying is that you hate oranges? You also failed to mention pineapples, bananas and grapefruits. Educate yourself."</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<dc:source rdf:resource="https://twitter.com/ZubyMusic/status/1155116741602750464"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="en">therapist: and what do we do when we are overwhelmed?
 me: create a jira ticket
