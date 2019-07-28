@@ -6,7 +6,14 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
-<q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">If people don't understand the difference between Git and GitHub, tell them to think about it as Porn and PornHub.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pornography"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Git"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/GitHub"/>
+		<dc:source rdf:resource="https://twitter.com/PPathole/status/1154732547852521472"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">How Twitter works:
 Me: 
 "I prefer mangoes to oranges..."
