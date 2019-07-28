@@ -7,6 +7,18 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Ma copine: je te présente mon père
+Père: bonsoir, jeune homme.
+Moi: hm votre salon est allumé alors qu'il n'y a personne. je ne pense pas être à Versailles pourtant
+Père, à ma copine: hm ma puce?
+Ma copine: oui?
+Père, me regardant droit dans les yeux: il a ma bénédiction.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Parent-in-law"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Versailles"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Energy-saving%20lighting"/>
+		<dc:source rdf:resource="https://twitter.com/karibahut/status/1155041132574887939"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">If people don't understand the difference between Git and GitHub, tell them to think about it as Porn and PornHub.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pornography"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Git"/>
