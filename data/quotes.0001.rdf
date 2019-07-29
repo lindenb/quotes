@@ -7,7 +7,19 @@
 	xml:lang="en"
 	>
 	<q:Quote>
-		<q:quote xml:lang="en">Ma copine: je te présente mon père
+		<q:quote xml:lang="en">Trump on cities
+Atlanta: "falling apart"
+Baltimore: "a filthy place"
+Chicago: "totally out of control"
+Philadelphia: "struggling"
+San Francisco: "disgusting," "not even recognizable"
+Moscow, Russia: "a great city" and "an amazing place"
+Perhaps he should move.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<dc:source rdf:resource="https://twitter.com/BFriedmanDC/status/1155506170406346752"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Ma copine: je te présente mon père
 Père: bonsoir, jeune homme.
 Moi: hm votre salon est allumé alors qu'il n'y a personne. je ne pense pas être à Versailles pourtant
 Père, à ma copine: hm ma puce?
