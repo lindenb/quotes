@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Some people complain that this is the hottest summer in the last 125 years, but I like to think of it as the coolest summer of the next 125 years! Glass half full!</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Climate%20change"/>
+		<dc:source rdf:resource="https://twitter.com/CarterBays/status/1152648650725756928"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Trump on cities
 Atlanta: "falling apart"
 Baltimore: "a filthy place"
