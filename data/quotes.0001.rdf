@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Next time you make a mistake in lab, just remember: at least you didn't spill Tardigrades on the moon.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Tardigrade"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Moon"/>
+		<dc:source rdf:resource="https://twitter.com/SusannaLHarris/status/1158909168499200001"/>
+		<q:context>une sonde s est ecrase sur la lune avec des tardigrades</q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">SHOOTER: I was inspired by trump. 
 MEDIA: what could have caused this?
 SHOOTER: look at this cool photo of the word “trump” spelled out in firearms 
