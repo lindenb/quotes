@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Space could be filled with vampires, but we would never know, because telescopes use mirrors.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vampire"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Telescope"/>
+		<dc:source rdf:resource="https://twitter.com/WitchyDruss/status/1161964174953594880"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Next time you make a mistake in lab, just remember: at least you didn't spill Tardigrades on the moon.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Tardigrade"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Moon"/>
