@@ -7,6 +7,23 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">
+ {\__/} 
+( • . •)      
+/ &gt;
+
+ look at all the science I did!
+
+{\__/}   
+( o_o)   
+/&gt; 
+
+ You want me to write it all down??</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Scientific%20publication"/>
+		<dc:source rdf:resource="https://twitter.com/eviejmorris/status/1172454517453066240"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Space could be filled with vampires, but we would never know, because telescopes use mirrors.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vampire"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Telescope"/>
