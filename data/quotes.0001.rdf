@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">How I code:
+
+1. Make it work
+2. Make it pretty
+3. Make it work again because I probably broke it while trying to make it pretty</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programming%20style"/>
+		<dc:source rdf:resource="https://twitter.com/kvlly/status/1172502159168102400"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">
  {\__/} 
 ( • . •)      
