@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Academia is basically a bunch of people emailing each other with: "sorry for the late reply" until they get tenure.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academy"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Email"/>
+		<dc:source rdf:resource="https://twitter.com/iddux/status/1184137675600613376"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">How I code:
 
 1. Make it work
