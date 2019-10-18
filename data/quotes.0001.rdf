@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I heard #MarkZuckerberg's ‘free expression’ speech, in which he referenced my father. I'd like to help Facebook better understand the challenges #MLK faced from disinformation campaigns launched by politicians. These campaigns created an atmosphere for his assassination.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mark%20Zuckerberg"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Martin%20Luther%20King%20Jr."/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Free%20Speech"/>
+		<dc:source rdf:resource="https://twitter.com/BerniceKing/status/1184907469719592960"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Academia is basically a bunch of people emailing each other with: "sorry for the late reply" until they get tenure.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academy"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Email"/>
