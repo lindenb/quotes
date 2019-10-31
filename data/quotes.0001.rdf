@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">McDonald’s apologizes for its Halloween-themed dessert called "Sundae Bloody Sundae," which references one of the deadliest episodes in the history of the Troubles in Northern Ireland</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sunday%20Bloody%20Sunday"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/McDonald's"/>
+		<dc:source rdf:resource="https://twitter.com/POLITICOEurope/status/1189899091490344960"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I heard #MarkZuckerberg's ‘free expression’ speech, in which he referenced my father. I'd like to help Facebook better understand the challenges #MLK faced from disinformation campaigns launched by politicians. These campaigns created an atmosphere for his assassination.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Mark%20Zuckerberg"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Martin%20Luther%20King%20Jr."/>
