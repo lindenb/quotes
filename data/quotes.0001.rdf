@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Here’s a good rule on code correctness. All code you haven’t tested is wrong. All code you have tested is also wrong, but appears to work by coincidence. And code you’ve proven correct does the wrong thing, correctly.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Software%20testing"/>
+		<dc:source rdf:resource="https://twitter.com/TimSweeneyEpic/status/1190383627340783618"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">McDonald’s apologizes for its Halloween-themed dessert called "Sundae Bloody Sundae," which references one of the deadliest episodes in the history of the Troubles in Northern Ireland</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sunday%20Bloody%20Sunday"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/McDonald's"/>
