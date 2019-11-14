@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">github being down is the closest thing you get to a snow day at school as an adult</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/GitHub"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Snow"/>
+		<dc:source rdf:resource="https://twitter.com/iamdevloper/status/1194945144295960576"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Ça vaut vraiment le coup de polluer le ciel avec un avion qui annonce à la plage, sur une banderole, que les sardines ne sont pas chères à Géant Casino ?</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Geant%20Casino"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Advertising"/>
