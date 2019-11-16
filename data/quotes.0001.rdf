@@ -6,6 +6,19 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+<q:Quote>
+		<q:quote xml:lang="en">A list of remaining Republican justifications:
+
+Crime ain't no crime
+He's too dumb to crime
+Nobody cares about crime
+Yes but he failed at the crime
+Talking about crime is SO boring
+But what about other people's crimes
+But what about these things he did that aren't crimes</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<dc:source rdf:resource="https://twitter.com/JuliusGoat/status/1195701730098450433"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="en">github being down is the closest thing you get to a snow day at school as an adult</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/GitHub"/>
