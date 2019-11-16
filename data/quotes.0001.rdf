@@ -6,6 +6,13 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+	<q:Quote>
+		<q:quote xml:lang="en">My husband and I decided we don't want to have children.
+
+We will be telling them tonight.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Parenthood"/>
+		<dc:source rdf:resource="https://twitter.com/dramadelinquent/status/1193970644909744128"/>
+	</q:Quote>
 <q:Quote>
 		<q:quote xml:lang="en">A list of remaining Republican justifications:
 
