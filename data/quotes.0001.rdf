@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">“I’m not sure WHY you posted that on LinkedIn, but I assume it’s because you didn’t want me to read it.”
+ —everyone.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/LinkedIn"/>
+		<dc:source rdf:resource="https://twitter.com/cmdrtaco/status/1196905505366691841"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">My husband and I decided we don't want to have children.
 
 We will be telling them tonight.</q:quote>
