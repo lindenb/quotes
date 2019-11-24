@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Programmer tweets be like:
+
+I can't seem to get the flargenbarg to shimsham with the shemanoo. I tried switching to qualerlions but the spongaloo still gives me errors. Anyone know a alternate method?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programmer"/>
+		<dc:source rdf:resource="https://twitter.com/saampahlavan/status/1197903060611321857"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">“I’m not sure WHY you posted that on LinkedIn, but I assume it’s because you didn’t want me to read it.”
  —everyone.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/LinkedIn"/>
