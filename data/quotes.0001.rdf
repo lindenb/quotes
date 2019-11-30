@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">"Tout ce qui nous effrayait du communisme
+- perdre nos maisons, nos épargnes et être forcé de travailler pour un salaire minable sans avoir de pouvoir politique -
+s'est réalisé grâce au capitalisme."
+- Bernie Sanders -</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bernie%20Sanders"/>
+		<dc:source rdf:resource="https://twitter.com/raslecul2207/status/1200519550921519110"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Programmer tweets be like:
 
 I can't seem to get the flargenbarg to shimsham with the shemanoo. I tried switching to qualerlions but the spongaloo still gives me errors. Anyone know a alternate method?</q:quote>
