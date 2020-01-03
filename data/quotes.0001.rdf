@@ -7,6 +7,19 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">
+Jan 1st: New decade going fairly well, all things considered.
+Jan 2nd: Australia appears to be on fire.
+Jan 3rd: World War III announced.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/New%20Year's%20Eve"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Australia"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Climate%20change%20in%20Australia"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/World%20War%20III"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ghassem%20Soleimani"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Iran%E2%80%93United%20States%20relations"/>
+		<dc:source rdf:resource="https://twitter.com/haveigotnews/status/1213039775831265281"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">"Tout ce qui nous effrayait du communisme
 - perdre nos maisons, nos épargnes et être forcé de travailler pour un salaire minable sans avoir de pouvoir politique -
 s'est réalisé grâce au capitalisme."
