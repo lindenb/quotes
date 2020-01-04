@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">My son asked me
+"Where does poo come from?"
+I was a little uncomfortable but gave him an honest explanation. 
+He looked a little perplexed, and stared at me in stunned silence for a few seconds and asked, "And Tigger?"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Winnie-the-Pooh"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Feces"/>
+		<dc:source rdf:resource="https://twitter.com/ColdHeart_Prj/status/1212694262711603201"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">
 Jan 1st: New decade going fairly well, all things considered.
 Jan 2nd: Australia appears to be on fire.
