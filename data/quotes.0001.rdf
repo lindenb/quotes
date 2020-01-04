@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">About half the scientists that have ever lived are alive today (this has been true since 1650). So for a scientist, your chance of dying is about 0.5</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Statistics"/>
+		<dc:source rdf:resource="https://twitter.com/WanderingGaia/status/1213514681173848070"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">My son asked me
 "Where does poo come from?"
 I was a little uncomfortable but gave him an honest explanation. 
