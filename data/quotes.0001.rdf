@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Il paraît que les filles drôles, cultivées et qui aiment le sexe ça court pas les rues. 
+Ah parce qu'en plus faudrait que je fasse du sport !?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Woman"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sport"/>
+		<dc:source rdf:resource="https://twitter.com/IncipitInfini/status/1212995341156573185"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">About half the scientists that have ever lived are alive today (this has been true since 1650). So for a scientist, your chance of dying is about 0.5</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Statistics"/>
