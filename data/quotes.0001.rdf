@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Somewhere right now a serial killer is desperately trying to talk their second cousin out of doing 23andMe</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/23andMe"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Serial%20killer"/>
+		<dc:source rdf:resource="https://twitter.com/PJVogt/status/1138838016993112064"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">google: tell us which of these pictures have a stop sign in them. only humans can do this
 
 elon musk: self driving cars are totally safe</q:quote>
