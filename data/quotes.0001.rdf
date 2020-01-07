@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">google: tell us which of these pictures have a stop sign in them. only humans can do this
+
+elon musk: self driving cars are totally safe</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Elon%20Musk"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Google%20car"/>
+		<dc:source rdf:resource="https://twitter.com/ctrlshifti/status/1214136727444418560"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Il paraît que les filles drôles, cultivées et qui aiment le sexe ça court pas les rues. 
 Ah parce qu'en plus faudrait que je fasse du sport !?</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Woman"/>
