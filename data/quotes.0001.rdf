@@ -6,6 +6,19 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+<q:Quote>
+		<q:quote xml:lang="en">I'm a molecular biologist.
+
+Skill people think I have:
+- Knowledge of health problems
+- Plant identification 
+
+Skills I actually have:
+- Measuring very small volumes
+- Recalling which clear liquids have already been</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Molecular%20biology"/>
+		<dc:source rdf:resource="https://twitter.com/rnaErin/status/1217582380371804160"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="en">Somewhere right now a serial killer is desperately trying to talk their second cousin out of doing 23andMe</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/23andMe"/>
