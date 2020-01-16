@@ -7,6 +7,19 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Université de Rennes 2, cours de littérature espagnole.
+L'enseignant : " Le jour où Franco a crevé..."
+Une étudiante le coupe :
+" Monsieur, on ne dit pas crever, mais mourir. "
+Lui, du tac au tac, très solennel :
+" Mademoiselle, un homme meurt, un chien crève..."</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/School"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Teacher"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Franco"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Spanish%20Civil%20War"/>
+		<dc:source rdf:resource="https://twitter.com/topito_com/status/1217735082733162497"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">"Un QI d'la température ambiante ! Et encore, il fait chaud ! "</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/School"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Teacher"/>
