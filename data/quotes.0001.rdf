@@ -6,7 +6,13 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
-<q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">"Un QI d'la température ambiante ! Et encore, il fait chaud ! "</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/School"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Teacher"/>
+		<dc:source rdf:resource="https://twitter.com/H0p_h0p/status/1217737155352637440"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I'm a molecular biologist.
 
 Skill people think I have:
