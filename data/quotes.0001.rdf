@@ -7,6 +7,17 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">All of the expertise on code readability you will ever need:
+
+1. Can YOU read it?
+2. Can YOUR COWORKERS read it?
+3. Will 1 and 2 be true in the FUTURE? 
+
+If all three check out, the code is officially "readable". You can throw out all code readability guides and blogposts now.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programming%20style"/>
+		<dc:source rdf:resource="https://twitter.com/BenLesh/status/1218620495307911173"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Université de Rennes 2, cours de littérature espagnole.
 L'enseignant : " Le jour où Franco a crevé..."
 Une étudiante le coupe :
