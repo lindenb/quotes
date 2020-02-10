@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">the number of Chinese people in Britain with confirmed cases of coronavirus is still fewer than the number of Chinese people doing comedy
+
+so if you see a Chinese person on the tube and assume they are a comedian that would be statistically less racist</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Racism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Coronavirus%20outbreak%202020"/>
+		<dc:source rdf:resource="https://twitter.com/kenchengcomedy/status/1226536648105746433"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">All of the expertise on code readability you will ever need:
 
 1. Can YOU read it?
