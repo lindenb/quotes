@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Twitter : « Il faut valoriser le doctorat et la recherche » 
+Also Twitter : « Vous ne devez pas utilisez le terme Dr. si vous avez un doctorat, uniquement si vous êtes médecin » 
+
+Est-ce qu’on a demandé à Doctor Strange ou Doctor Who s’ils avaient bac+8 où soignaient des gens ?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/PhD"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Marvel%20Comics"/>
+		<dc:source rdf:resource="https://twitter.com/LUppsala/status/1227208356357603329"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">the number of Chinese people in Britain with confirmed cases of coronavirus is still fewer than the number of Chinese people doing comedy
 
 so if you see a Chinese person on the tube and assume they are a comedian that would be statistically less racist</q:quote>
