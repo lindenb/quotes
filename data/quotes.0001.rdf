@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">COVID-19 helping people realise that some meetings can be emails.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Covid-19"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Email"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Meeting"/>
+		<dc:source rdf:resource="https://twitter.com/Nazeefah/status/1237638858700984322"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">i think the impulse for many people is to look at things closing down or events cancelling right now as a sign of doom, but for the most part i think it's cause for optimism—someone in charge of something is taking this seriously, and doing what they can to limit interactions</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Coronavirus%20outbreak%202020"/>
 		<dc:source rdf:resource="https://twitter.com/amandamull/status/1238177080011096066"/>
