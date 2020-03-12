@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">What a year the last hour has been.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Coronavirus%20outbreak%202020"/>
+		<dc:source rdf:resource="https://twitter.com/marinafang/status/1237916078723997697"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Twitter : « Il faut valoriser le doctorat et la recherche » 
 Also Twitter : « Vous ne devez pas utilisez le terme Dr. si vous avez un doctorat, uniquement si vous êtes médecin » 
 
