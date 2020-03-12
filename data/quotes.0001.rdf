@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">i think the impulse for many people is to look at things closing down or events cancelling right now as a sign of doom, but for the most part i think it's cause for optimism—someone in charge of something is taking this seriously, and doing what they can to limit interactions</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Coronavirus%20outbreak%202020"/>
+		<dc:source rdf:resource="https://twitter.com/amandamull/status/1238177080011096066"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">What a year the last hour has been.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Coronavirus%20outbreak%202020"/>
 		<dc:source rdf:resource="https://twitter.com/marinafang/status/1237916078723997697"/>
