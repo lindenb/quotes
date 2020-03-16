@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Work from home update --
+
+Number of papers I've read: 0
+Number of times I've watched Frozen 2: 137</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Home%20worker"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Frozen%20II"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20epidemic"/>
+		<dc:source rdf:resource="https://twitter.comhttps://twitter.com/blekhman/status/1239637980584738822"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">COVID-19 helping people realise that some meetings can be emails.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Covid-19"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Email"/>
