@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Quelqu'un a centralisé les promesses de don des milliardaires pour soutenir le système hospitalier?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20epidemic"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Notre-Dame%20de%20Paris"/>
+		<dc:source rdf:resource="https://twitter.com/DevilleSy/status/1239951994900680706"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Work from home update --
 
 Number of papers I've read: 0
