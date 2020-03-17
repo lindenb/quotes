@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">A vrai dire, on ne s'ennuie pas trop à la maison mais il est étrange que dans un paquet de coquillettes d’1 Kg il y a 4624 pâtes et que dans un autre du même poids et de même marque il y en a 4392. Bizarre...</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20epidemic"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Quarantine"/>
+		<dc:source rdf:resource="https://twitter.com/Abdokro/status/1239928269635551232"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Quelqu'un a centralisé les promesses de don des milliardaires pour soutenir le système hospitalier?</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20epidemic"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Notre-Dame%20de%20Paris"/>
