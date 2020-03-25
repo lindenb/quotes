@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Quand je pense à tous ces gens qui attendaient avec impatience leurs rendez-vous chez l'ophtalmo pris en 2015.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Quarantine"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20epidemic"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ophthalmology"/>
+		<dc:source rdf:resource="https://twitter.com/GUAL41/status/1240057397676302336"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">On a cru qu'on allait tous lire 342 livres alors qu'en réalité on fait tous du pain</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bread"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Book"/>
