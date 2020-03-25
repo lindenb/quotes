@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Pour le corona à 60 ans t'es vieux et fragile, mais pour la retraite à 60 ans t'es jeune et en pleine forme</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20epidemic"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Retirement"/>
+		<dc:source rdf:resource="https://twitter.com/Marie_France_P/status/1242369995545415680"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">If there's a baby boom in 9 months, it'll consist entirely of first-born children.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20epidemic"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Parenting"/>
