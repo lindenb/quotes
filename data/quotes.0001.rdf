@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">BBC News: "It is not possible to say how Prince Charles contracted coronavirus, due to the number of people he meets on public engagements."
+Or, to put it another way, it's not possible to say how many he's transmitted it to.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Prince%20charles"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20epidemic"/>
+		<dc:source rdf:resource="https://twitter.com/TripeUK/status/1242769130857562112"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">My husband purchased a world map.... gave me a dart and said "throw this and wherever it lands I'm taking you for a holiday when this pandemic is over". Turns out we're spending two weeks behind the fridge. </q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20epidemic"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fridge"/>
