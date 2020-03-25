@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">On a cru qu'on allait tous lire 342 livres alors qu'en réalité on fait tous du pain</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bread"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Book"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20epidemic"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Quarantine"/>
+		<dc:source rdf:resource="https://twitter.com/marieboiseau/status/1242745883118231552"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">BBC News: "It is not possible to say how Prince Charles contracted coronavirus, due to the number of people he meets on public engagements."
 Or, to put it another way, it's not possible to say how many he's transmitted it to.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Prince%20charles"/>
