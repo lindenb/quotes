@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">If there's a baby boom in 9 months, it'll consist entirely of first-born children.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20epidemic"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Parenting"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Baby%20boom"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Quarantine"/>
+		<dc:source rdf:resource="https://twitter.com/winston_chang/status/1242507862229676033"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">So, asking for a friend: has anyone tried turning capitalism off and then turning it back on again after 18 months?</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID%E2%80%9319%20epidemic"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/2020"/>
