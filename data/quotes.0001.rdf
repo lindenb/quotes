@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">My husband purchased a world map.... gave me a dart and said "throw this and wherever it lands I'm taking you for a holiday when this pandemic is over". Turns out we're spending two weeks behind the fridge. </q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20epidemic"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fridge"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Holiday"/>
+		<dc:source rdf:resource="https://twitter.com/feistyoneme/status/1242552008369995781"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Pour le corona à 60 ans t'es vieux et fragile, mais pour la retraite à 60 ans t'es jeune et en pleine forme</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20epidemic"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Retirement"/>
