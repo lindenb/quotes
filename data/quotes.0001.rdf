@@ -7,7 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
-		<q:quote xml:lang="en">Quand je pense à tous ces gens qui attendaient avec impatience leurs rendez-vous chez l'ophtalmo pris en 2015.</q:quote>
+		<q:quote xml:lang="fr">Est-ce que maintenant les gens font des cauchemars dans lesquels il arrivent habillés au télétravail ?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Quarantine"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Telecommuting"/>
+		<dc:source rdf:resource="https://twitter.com/depitdubonsens/status/1242838069453164544"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Quand je pense à tous ces gens qui attendaient avec impatience leurs rendez-vous chez l'ophtalmo pris en 2015.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Quarantine"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20epidemic"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ophthalmology"/>
