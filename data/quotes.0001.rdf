@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">A lot of you probably have coronavirus bc one symptom is having no taste</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20epidemic"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Taste%20(sociology)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Taste"/>
+		<dc:source rdf:resource="https://twitter.com/camillepawglia/status/1243316575626768384"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Est-ce que maintenant les gens font des cauchemars dans lesquels il arrivent habillés au télétravail ?</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Quarantine"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Telecommuting"/>
