@@ -7,6 +7,20 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">*asteroid approaches*
+
+SCIENTISTS: If we don't stop this, it will destroy Earth.
+
+PEOPLE: Oh no. How many people has it killed so far?
+
+SCIENTISTS: None yet.
+
+PEOPLE, SUDDENLY ARMED WITH STATISTICS: Why, that's fewer than traffic accidents! Fewer than vending machines! Fewer than</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20epidemic"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Asteroid%20impact%20prediction"/>
+		<dc:source rdf:resource="https://twitter.com/benorlin/status/1243700005698969601"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">A lot of you probably have coronavirus bc one symptom is having no taste</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20epidemic"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Taste%20(sociology)"/>
