@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Bruno Le Maire: "Il faut un nouveau capitalisme, plus respectueux des personnes"</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bruno%20Le%20Maire"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Capitalism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20epidemic"/>
+		<dc:source rdf:resource="https://twitter.com/BFMTV/status/1244519745535295488"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">les gens qui achètent 50 paquets de pâtes et 0 paquet de parmesan ils appellent vraiment ça de la survie, sérieusement ?</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Quarantine"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pasta"/>
