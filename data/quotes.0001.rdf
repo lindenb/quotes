@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">les gens qui achètent 50 paquets de pâtes et 0 paquet de parmesan ils appellent vraiment ça de la survie, sérieusement ?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Quarantine"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pasta"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Parmesan"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20epidemic"/>
+		<dc:source rdf:resource="https://twitter.com/FibreTigre/status/1244220950159204352"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">*asteroid approaches*
 
 SCIENTISTS: If we don't stop this, it will destroy Earth.
