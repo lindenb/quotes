@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">My son just asked me if I when I was little I had to stay inside for COVIDs 1 through 18</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Covid%2019%20pandemic"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Children"/>
+		<dc:source rdf:resource="https://twitter.com/KerryHowley/status/1245403701533081600"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I’m a full-time ER doc getting ready to work a 24 hour shift in the emergency department. I am genuinely more concerned about going to work tomorrow morning than I was the day I launched on the space shuttle. 1.5% shuttle mortality vs 9-12% if I get COVID-19.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Space%20Shuttle"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Physician"/>
