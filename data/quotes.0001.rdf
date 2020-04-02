@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I’m a full-time ER doc getting ready to work a 24 hour shift in the emergency department. I am genuinely more concerned about going to work tomorrow morning than I was the day I launched on the space shuttle. 1.5% shuttle mortality vs 9-12% if I get COVID-19.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Space%20Shuttle"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Physician"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Covid%2019%20pandemic"/>
+		<dc:source rdf:resource="https://twitter.com/DrBillFisher/status/1245415106835513344"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Bonjour tout le monde ! Je m'appelle Thorn.
 (Bonjour Thorn !)
 Alors voilà, si je suis ici, c'est parce que je suis confinée depuis 15 jours et que j'ai toujours pas fait mon pain.</q:quote>
