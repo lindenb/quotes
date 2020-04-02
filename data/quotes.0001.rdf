@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Bonjour tout le monde ! Je m'appelle Thorn.
+(Bonjour Thorn !)
+Alors voilà, si je suis ici, c'est parce que je suis confinée depuis 15 jours et que j'ai toujours pas fait mon pain.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bread"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Quarantine"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Covid%2019%20pandemic"/>
+		<dc:source rdf:resource="https://twitter.com/thorn_bulle/status/1245427931113021451"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">according to my model nearly 50% of Americans will be epidemiologists if we don’t adopt strict intellectual humility guidelines</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Epidemiology"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20epidemic"/>
