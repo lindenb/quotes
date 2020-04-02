@@ -7,6 +7,19 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">no one:
+
+absolutely no one:
+
+no one:
+
+someone in each lab: since we have all this free and relaxed time, we should start a journal club!</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Journal%20club"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Quarantine"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19"/>
+		<dc:source rdf:resource="https://twitter.com/Caroline_Bartma/status/1245704171589980160"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">My son just asked me if I when I was little I had to stay inside for COVIDs 1 through 18</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Covid%2019%20pandemic"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Children"/>
