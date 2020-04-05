@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">The governor of New Jersey just put out the call on live TV that he is desperate for Cobol programmers right now.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COBOL"/>
+		<dc:source rdf:resource="https://twitter.com/manicode/status/1246497036389793792"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">no one:
 
 absolutely no one:
