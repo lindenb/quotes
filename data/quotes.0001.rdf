@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Indeed. I mean Excel can have up to 16384 columns and there's no way there are that many species in the world</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Microsoft%20Excel"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Metadata"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Taxonomy%20(biology)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19"/>
+		<dc:source rdf:resource="https://twitter.com/BioMickWatson/status/1247133803673456640"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">The governor of New Jersey just put out the call on live TV that he is desperate for Cobol programmers right now.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COBOL"/>
 		<dc:source rdf:resource="https://twitter.com/manicode/status/1246497036389793792"/>
