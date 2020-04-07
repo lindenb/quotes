@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Fun fact: China also never reported a single death at Tiananmen Square</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/1989%20Tiananmen%20Square%20protests"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/China"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20crisis"/>
+		<dc:source rdf:resource="https://twitter.com/iowahawkblog/status/1247488220608200706"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Indeed. I mean Excel can have up to 16384 columns and there's no way there are that many species in the world</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Microsoft%20Excel"/>
