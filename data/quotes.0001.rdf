@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">For those who wanted a world without vaccines, witness the world without one vaccine.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vaccine"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20vaccine"/>
+		<dc:source rdf:resource="https://twitter.com/davidasinclair/status/1248707930532306944"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Fun fact: China also never reported a single death at Tiananmen Square</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/1989%20Tiananmen%20Square%20protests"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/China"/>
