@@ -6,6 +6,17 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+<q:Quote>
+		<q:quote xml:lang="en">I also don’t get this whole R vs python thing. They clearly have got very different strengths and weaknesses.
+
+R: analyze tabular data and make visualizations.
+
+python: strangle small mammals to death and crush their bones.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/R%20(programming%20language)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Python"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Python%20(programming%20language)"/>
+		<dc:source rdf:resource="https://twitter.com/ClausWilke/status/1250629830816739328"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="en">For those who wanted a world without vaccines, witness the world without one vaccine.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vaccine"/>
