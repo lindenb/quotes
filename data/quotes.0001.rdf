@@ -6,7 +6,14 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
-<q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">If you could end Covid-19 by sacrificing a JavaScript framework, which one would you choose and why Angular?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20crisis"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/JavaScript%20framework"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Angular%20(web%20framework)"/>
+		<dc:source rdf:resource="https://twitter.com/dabit3/status/1251597948472999936"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I also don’t get this whole R vs python thing. They clearly have got very different strengths and weaknesses.
 
 R: analyze tabular data and make visualizations.
