@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Puisqu'on va rentrer dans la séquence où des éditorialistes vont nous dire qu'on doit accepter des morts pour relancer l'économie, reprenons cette modeste proposition venue des Etats-Unis : on a qu'à buter les 50 personnes les plus riches du pays et redistribuer leur fortune.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Economy"/>
+		<dc:source rdf:resource="https://twitter.com/pandovstrochnis/status/1252513734548955138"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">If you could end Covid-19 by sacrificing a JavaScript framework, which one would you choose and why Angular?</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20crisis"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/JavaScript%20framework"/>
