@@ -7,7 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
-		<q:quote xml:lang="en">Puisqu'on va rentrer dans la séquence où des éditorialistes vont nous dire qu'on doit accepter des morts pour relancer l'économie, reprenons cette modeste proposition venue des Etats-Unis : on a qu'à buter les 50 personnes les plus riches du pays et redistribuer leur fortune.</q:quote>
+		<q:quote xml:lang="en">Zoom should charge for the 40 minute cutoff version and make the endless meeting one free.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Zoom%20Video%20Communications"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Web%20conferencing"/>
+		<dc:source rdf:resource="https://twitter.com/misscrisp/status/1255882340473208832"/>
+		<q:context>les conf zoom qui n'en finissent pas pendant la periode de confinement</q:context>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Puisqu'on va rentrer dans la séquence où des éditorialistes vont nous dire qu'on doit accepter des morts pour relancer l'économie, reprenons cette modeste proposition venue des Etats-Unis : on a qu'à buter les 50 personnes les plus riches du pays et redistribuer leur fortune.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Economy"/>
 		<dc:source rdf:resource="https://twitter.com/pandovstrochnis/status/1252513734548955138"/>
