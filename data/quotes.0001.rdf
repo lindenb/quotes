@@ -7,6 +7,17 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Let's say 1 person who's convinced of misinformation, on average, convinces 3 others. This means R0 = 3.
+
+But! If you teach just 67% of people basic epidemiology/statistics, you can get R &lt; 1, containing the info-demic!
+
+This is called "nerd immunity"</q:quote>
+		<dc:source rdf:resource="https://twitter.com/i/timeline"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20crisis"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fake%20news"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Herd%20immunity"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Zoom should charge for the 40 minute cutoff version and make the endless meeting one free.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Zoom%20Video%20Communications"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Web%20conferencing"/>
