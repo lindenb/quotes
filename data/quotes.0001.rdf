@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Capitalism is: being allowed to see your boss before being allowed to see your family</q:quote>
+		<dc:source rdf:resource="https://twitter.com/kostoula/status/1259927137563312130"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Capitalism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20crisis"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Dear epidemiologists, 
 We feel for you.
 Love,
