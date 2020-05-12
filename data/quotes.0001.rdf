@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Dear epidemiologists, 
+We feel for you.
+Love,
+Climate scientists</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20crisis"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Climate%20change"/>
+                <dc:source rdf:resource="https://twitter.com/bethsawin/status/1259953904005132288"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Let's say 1 person who's convinced of misinformation, on average, convinces 3 others. This means R0 = 3.
 
 But! If you teach just 67% of people basic epidemiology/statistics, you can get R &lt; 1, containing the info-demic!
