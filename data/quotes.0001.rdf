@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Imagine a world where where civil engineers have decided that the most popular and frequently used building material is chewing gum.
+</q:quote>
+		<dc:source rdf:resource="https://twitter.com/mariofusco/status/1266310992000057346"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/JavaScript"/>
+		<q:context>test comparatif, c'est javascript le plus utilisé</q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Capitalism is: being allowed to see your boss before being allowed to see your family</q:quote>
 		<dc:source rdf:resource="https://twitter.com/kostoula/status/1259927137563312130"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Capitalism"/>
