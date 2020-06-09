@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">psssssst — judge dredd is cuts-to-the-bone satire, not an instruction manual.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/iAmTheWarax/status/1270353618311557123"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Judge%20Dredd"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/George%20Floyd%20protests"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Black%20Lives%20Matter"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Future historians will be asked which quarter of 2020 they specialize in.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/DBGerrard/status/1270134800519700481"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/2020"/>
