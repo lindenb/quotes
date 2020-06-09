@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Future historians will be asked which quarter of 2020 they specialize in.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/DBGerrard/status/1270134800519700481"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/2020"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/George%20Floyd%20protests"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Black%20Lives%20Matter"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Imagine a world where where civil engineers have decided that the most popular and frequently used building material is chewing gum.
 </q:quote>
 		<dc:source rdf:resource="https://twitter.com/mariofusco/status/1266310992000057346"/>
