@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">In C++ we don't say "Missing asterisk" we say "error C2664: 'void std::vector&lt;block,std::allocator&lt;_Ty&gt;&gt;::push_back(const block &amp;)': cannot convert argument 1 from 'std::_Vector_iterator&lt;std::_Vector_val&lt;std::_Simple_types&lt;block&gt;&gt;&gt;' to 'block &amp;&amp;'" and i think that's beautiful</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/C++"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programming%20exception"/>
+		<dc:source rdf:resource="https://twitter.com/mcclure111/status/1002648636516282368"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">psssssst — judge dredd is cuts-to-the-bone satire, not an instruction manual.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/iAmTheWarax/status/1270353618311557123"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Judge%20Dredd"/>
