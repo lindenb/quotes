@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Vous vous rendez compte que ça débat sans fin sur les statues alors qu'on pourrait tous se concerter et aller détruire le sacré-coeur</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Belletapisserie/status/1276180993913901059"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Black%20Lives%20Matter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Statue"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Sacr%C3%A9-C%C5%93ur,%20Paris"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">My conspiracy theory is that time travel IS real &amp; someone keeps trying to fix 2020 by changing something but every time they do, they unwittingly make it worse. How else do you explain the sudden disappearance of murder hornets? They saved us from those but at what cost?!?!</q:quote>
 		<dc:source rdf:resource="https://twitter.com/NSLCpunk/status/1275822899279073280"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Conspiracy%20theory"/>
