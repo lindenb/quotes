@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">You can have an edit button when everyone wears a mask</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Twitter/status/1278763679421431809"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20the%20United%20States"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Vous vous rendez compte que ça débat sans fin sur les statues alors qu'on pourrait tous se concerter et aller détruire le sacré-coeur</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Belletapisserie/status/1276180993913901059"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Black%20Lives%20Matter"/>
