@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Top 2 des trucs qui redémarrent :
+- la chenille
+- le Covid</q:quote>
+		<dc:source rdf:resource="https://twitter.com/ingridzerbib/status/1282583361144401921"/>
+		<q:keyword rdf:resource="https://fr.wikipedia.org/wiki/La_Chenille_(chanson)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">You can have an edit button when everyone wears a mask</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Twitter/status/1278763679421431809"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
