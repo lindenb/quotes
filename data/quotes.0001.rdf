@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Le 18 juin 1940, avec l’accord de Churchill, de Gaulle prononce le discours fondateur de la Résistance française depuis Londres. Cet appel national invite tous les Français à rejoindre les Forces françaises libres pour combattre l’Allemagne nazie, dont il deviendra le chef.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Syntax"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/General%20de%20Gaulle"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Nazism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/18%20June%201940%20speech"/>
+		<dc:source rdf:resource="https://twitter.com/Armee_de_lair/status/1282925002267009025"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Top 2 des trucs qui redémarrent :
 - la chenille
 - le Covid</q:quote>
