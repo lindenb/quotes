@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Il faut marcher sur votre tweet du pied gauche, ça porte bonheur</q:quote>
+		<dc:source rdf:resource="https://twitter.com/sychazot/status/1304432866747613185"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Shit"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Chance"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Funny how it's always "The Simpsons predicted the future" and never "We created ourselves a nightmare world beyond parody".</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Duerer95/status/1290508854074187776"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/The%20Simpsons"/>
