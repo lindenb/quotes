@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Il y a deux manière de regarder cette carte.
+- Elle nous montre l'un des étés les plus chauds des cent dernières années.
+- Elle nous montre l'un des étés les moins chauds des cent prochaines années.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/nicohaeringer/status/1305398754288205824"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Climate%20change"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Every 9/11 anniversary I'm reminded how grateful I am social media didn't exist in 2001.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/BridgetPhetasy/status/1304465406241861632"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Social%20media"/>
