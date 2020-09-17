@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">As the UK intercepts 12 boats trying to cross the Channel, border agents confirm they were people from Bolton trying to get to their nearest test centre in La Rochelle.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20testing"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Immigration%20to%20Europe"/>
+		<dc:source rdf:resource="https://twitter.com/haveigotnews/status/1306589826020302848"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Il y a deux manière de regarder cette carte.
 - Elle nous montre l'un des étés les plus chauds des cent dernières années.
 - Elle nous montre l'un des étés les moins chauds des cent prochaines années.</q:quote>
