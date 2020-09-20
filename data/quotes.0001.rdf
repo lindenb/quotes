@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Trump : "You have good genes, you know that, right? You have good genes. A lot of it is about the genes, isn't it, don't you believe? The racehorse theory. You think we're so different? You have good genes in Minnesota." </q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Minnesota"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Eugenics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<dc:source rdf:resource="https://twitter.com/atrupar/status/1307124621389463553"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">As the UK intercepts 12 boats trying to cross the Channel, border agents confirm they were people from Bolton trying to get to their nearest test centre in La Rochelle.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20testing"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Immigration%20to%20Europe"/>
