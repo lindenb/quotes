@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">On ne dit plus plan de licenciement massif, on dit plan de sauvegarde de l'emploi. On ne dit plus parasite, on dit premier de cordée. On ne dit plus démanteler le code du travail, on dit libérer les énergies.
+La petite dernière : on ne dit plus mentir on dit «affirmer à tort».</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Florence%20Parly"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20France"/>
+		<dc:source rdf:resource="https://twitter.com/JoeChiiip/status/1308513227588993026"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Il n'y a qu'en France où l'on peut, la même semaine, dénoncer une femme voilée à l'Assemblée nationale, au nom du féminisme et de l'émancipation – et ordonner à des lycéennes de cacher leur nombril, pour éviter de provoquer les garçons…</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/France"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Feminism"/>
