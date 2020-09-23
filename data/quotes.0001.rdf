@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Il n'y a qu'en France où l'on peut, la même semaine, dénoncer une femme voilée à l'Assemblée nationale, au nom du féminisme et de l'émancipation – et ordonner à des lycéennes de cacher leur nombril, pour éviter de provoquer les garçons…</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/France"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Feminism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hidjab"/>
+		<dc:source rdf:resource="https://twitter.com/gunthert/status/1308043747624710145"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Trump : "You have good genes, you know that, right? You have good genes. A lot of it is about the genes, isn't it, don't you believe? The racehorse theory. You think we're so different? You have good genes in Minnesota." </q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Minnesota"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Eugenics"/>
