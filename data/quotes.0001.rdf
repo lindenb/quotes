@@ -7,6 +7,17 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Lundi : « font chier à tout vouloir interdire »
+Mardi : « pourquoi ils agissent pas »
+Mercredi : « ils agissent toujours trop tard »
+Jeudi : « ils pensent à nous ? »
+Vendredi : « on est infantilisés »
+Samedi : « t’as vu les chiffres ! Vite des actions »
+Dimanche : brunch</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20France"/>
+		<dc:source rdf:resource="https://twitter.com/fxmenage/status/1309021948152864769"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">N’empêche qu’un virus qui ne te vise qu’en dehors de tes heures de taf, que dans les lieux où tu t’amuses, que dans les endroits où tu peux échanger avec les autres, bah ça ressemble quand même beaucoup à un virus évadé d’un labo du Medef...</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20France"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/MEDEF"/>
