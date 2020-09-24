@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">N’empêche qu’un virus qui ne te vise qu’en dehors de tes heures de taf, que dans les lieux où tu t’amuses, que dans les endroits où tu peux échanger avec les autres, bah ça ressemble quand même beaucoup à un virus évadé d’un labo du Medef...</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20France"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/MEDEF"/>
+		<dc:source rdf:resource="https://twitter.com/PitchouTacou/status/1308834650555658244"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">On ne dit plus plan de licenciement massif, on dit plan de sauvegarde de l'emploi. On ne dit plus parasite, on dit premier de cordée. On ne dit plus démanteler le code du travail, on dit libérer les énergies.
 La petite dernière : on ne dit plus mentir on dit «affirmer à tort».</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Florence%20Parly"/>
