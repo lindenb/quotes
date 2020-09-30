@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">This is embarrassing. A debate on vim vs emacs would be more productive.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Joe%20Biden"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/2020%20presidential%20election%20in%20the%20united%20states"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vim%20(text%20editor)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emacs"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Debate"/>
+		<dc:source rdf:resource="https://twitter.com/kelseyhightower/status/1311114426766909440"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Lundi : « font chier à tout vouloir interdire »
 Mardi : « pourquoi ils agissent pas »
 Mercredi : « ils agissent toujours trop tard »
