@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Trump is an asshole.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/StephenKing/status/1311425105734643712"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Stephen%20King"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">That debate was the worst thing I've ever seen &amp; I was in The Star Wars Holiday Special.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/HamillHimself/status/1311198722001235968"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Mark%20Hamill"/>
