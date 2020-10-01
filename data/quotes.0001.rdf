@@ -7,6 +7,22 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Ce matin, moi, enseignante-chercheuse en informatique habilitée à diriger des recherches et tutti quanti, je me suis fait nuisance-splainer Scratch.
+Vie de merde.
+
+
+Et ça continue.
+Moi : "alors mon chéri, tu vois si je fais +50 sur x, ça déplace par là. Ah non. Bon sang ça déplace pas MAIS POURQUOI CA DEPLACE PAS C'EST QUOI CE LANGAGE A LA CON".
+
+
+Petite Nuisance, 7 ans : "c'est parce que tu n'as pas mis le drapeau, regarde, tu vas dans les trucs jaunes, tu ajoutes le drapeau, et ça marche, ne t'inquiète pas Maman ça arrive souvent d'oublier le drapeau".
+
+Je déteste Scratch. Je refuse de me mettre à la programmation orientée lutin.
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Scratch%20(programming%20language)"/>
+		<dc:source rdf:resource="https://twitter.com/chtruchet/status/1311703380138565632"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Trump is an asshole.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/StephenKing/status/1311425105734643712"/>
 		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Stephen%20King"/>
