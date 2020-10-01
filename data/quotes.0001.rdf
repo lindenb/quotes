@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">That debate was the worst thing I've ever seen &amp; I was in The Star Wars Holiday Special.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/HamillHimself/status/1311198722001235968"/>
+		<dc:author rdf:resource="http://en.wikipedia.org/wiki/Mark%20Hamill"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Star%20Wars%20Holiday%20Special"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Joe%20Biden"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/2020%20presidential%20election%20in%20the%20united%20states"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">This is embarrassing. A debate on vim vs emacs would be more productive.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Joe%20Biden"/>
