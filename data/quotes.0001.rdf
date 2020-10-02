@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I've never gotten so many prayers from atheists in My life.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/TheTweetOfGod/status/1311888942111678464"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Atheism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Prayer"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump%202020%20presidential%20campaign"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20the%20United%20States"/>
+		<q:context>Trump teste positif pour le covid un mois avant les elections</q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Ce matin, moi, enseignante-chercheuse en informatique habilitée à diriger des recherches et tutti quanti, je me suis fait nuisance-splainer Scratch.
 Vie de merde.
 
