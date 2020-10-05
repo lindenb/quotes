@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">If you have any kind of data scientist or IT person in your life, be gentle with them right now. If you find them rocking in the corner howling "Excel is a spreadsheet, not a database!", just bring them a cup of tea and a biscuit and leave them alone for a while.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/OiShinyThings/status/1313067454256549888"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Microsoft%20Excel"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20the%20United%20Kingdom"/>
+		<q:context>https://www.dailymail.co.uk/news/article-8805697/Furious-blame-game-16-000-Covid-cases-missed-Excel-glitch.html Issue due to Excel spreadsheet hitting maximum size and failing to update more The technical issue has now been resolved by splitting the Excel files into batches.</q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I've never gotten so many prayers from atheists in My life.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/TheTweetOfGod/status/1311888942111678464"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Atheism"/>
