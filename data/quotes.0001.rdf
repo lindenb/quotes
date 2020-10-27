@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Puisqu'on est définitivement sûrs que souhaiter « bonne année » le jour de l'an ne fonctionne pas, est-ce qu'on peut se mettre d'accord pour changer de slogan pour, par exemple, « bonne chance » ?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/New%20Year's%20Eve"/>
+		<dc:source rdf:resource="https://twitter.com/laurentchemla/status/1321036281221160961"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">If you have any kind of data scientist or IT person in your life, be gentle with them right now. If you find them rocking in the corner howling "Excel is a spreadsheet, not a database!", just bring them a cup of tea and a biscuit and leave them alone for a while.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/OiShinyThings/status/1313067454256549888"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Microsoft%20Excel"/>
