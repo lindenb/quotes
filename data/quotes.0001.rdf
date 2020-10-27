@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Monsieur @EmmanuelMacron
+ , est il possible de faire en sorte que toutes les villes de France diffusent la musique de Fort Boyard à 20h50 pour motiver les gens à rentrer chez eux avant le couvre feu ?</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Guillaumenv/status/1320810182344060928"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emmanuel%20Macron"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20France"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fort%20Boyard%20(game%20show)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Puisqu'on est définitivement sûrs que souhaiter « bonne année » le jour de l'an ne fonctionne pas, est-ce qu'on peut se mettre d'accord pour changer de slogan pour, par exemple, « bonne chance » ?</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/New%20Year's%20Eve"/>
