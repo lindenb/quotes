@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Plus j’y pense, plus je vois la complexité de ce nouveau confinement, plus je me dis que c’est le premier confinement qui a été modifié après les commentaires des trois reviewers</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20France"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Scientific%20review"/>
+		<dc:source rdf:resource="https://twitter.com/TwelveSharp/status/1322447131962212353"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Monsieur @EmmanuelMacron
  , est il possible de faire en sorte que toutes les villes de France diffusent la musique de Fort Boyard à 20h50 pour motiver les gens à rentrer chez eux avant le couvre feu ?</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Guillaumenv/status/1320810182344060928"/>
