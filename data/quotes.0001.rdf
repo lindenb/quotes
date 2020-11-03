@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Coronavirus : Inès, l’ex-candidate de Koh-Lanta, affirme qu’il y aura une 3e vague</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20France"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Koh-Lanta"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/CNews"/>
+		<dc:source rdf:resource="https://twitter.com/CNEWS/status/1323586658558791681"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">« C’est peut être l’occasion de réviser notre position vis-à-vis de la vie. On ne tolère plus la mort. Avant, on avait un certain sens de la fatalité. C’est ça la vie, mourir. On ne supporte pas qu’on puisse être sacrifié »</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20France"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Christophe%20Barbier"/>
