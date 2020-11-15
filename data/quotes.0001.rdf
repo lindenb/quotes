@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Non Edgar, le complotisme n’est pas une contestation mais une affirmation. Une affirmation d’une pseudo réalité, étayée au mieux sur rien, au pire sur des preuves fabriquées ou déformées, qui finit toujours par la même conclusion : la démocratie est en fait une dictature.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Conspiracy%20theory"/>
+		<dc:source rdf:resource="https://twitter.com/Maitre_Eolas/status/1327888197410562048"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Coronavirus : Inès, l’ex-candidate de Koh-Lanta, affirme qu’il y aura une 3e vague</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20France"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Koh-Lanta"/>
