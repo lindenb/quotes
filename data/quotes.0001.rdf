@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Never at the beginning of this would I have thought we could get close to the numbers of the 1918 flu pandemic which killed 675K Americans, but we just may very well at this rate AND this is despite 100+ years of public health, scientific and other advances.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20the%20United%20States"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Spanish%20flu"/>
+		<dc:source rdf:resource="https://twitter.com/DrOniBee/status/1328184888504311808"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Non Edgar, le complotisme n’est pas une contestation mais une affirmation. Une affirmation d’une pseudo réalité, étayée au mieux sur rien, au pire sur des preuves fabriquées ou déformées, qui finit toujours par la même conclusion : la démocratie est en fait une dictature.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Conspiracy%20theory"/>
 		<dc:source rdf:resource="https://twitter.com/Maitre_Eolas/status/1327888197410562048"/>
