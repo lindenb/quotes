@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">How privileged is your life where wearing a mask is the most oppressed you’ve ever felt?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic"/>
+		<dc:source rdf:resource="https://twitter.com/JLBarrow/status/1327314019145932800"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Fox News and Facebook did to our parents what they said video games would do to us.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Facebook"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fox%20News"/>
