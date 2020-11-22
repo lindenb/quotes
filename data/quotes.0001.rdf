@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Cédric O annonce l'arrivée des stories dans StopCovid.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/C%C3%A9dric%20O"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Stories"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20France"/>
+		<dc:source rdf:resource="https://twitter.com/FrancisTapin/status/1330112511081910274"/>
+		<q:context>Stop convid est l application de tracage covid MadeInFrance. Twitter ajoute des 'stories' a son application</q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">How privileged is your life where wearing a mask is the most oppressed you’ve ever felt?</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic"/>
 		<dc:source rdf:resource="https://twitter.com/JLBarrow/status/1327314019145932800"/>
