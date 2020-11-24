@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">At some point I realised that “we should write a paper” is the academic equivalent of “we should start a band”</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academic%20article"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Music%20band"/>
+		<dc:source rdf:resource="https://twitter.com/AugusteNahas/status/1330919071211249666"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Cédric O annonce l'arrivée des stories dans StopCovid.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/C%C3%A9dric%20O"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Stories"/>
