@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Les stations de ski seront ouvertes à Noël mais les remontées mécaniques resteront fermées</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jean%20Castex"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ski"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20France"/>
+		<dc:source rdf:resource="https://twitter.com/afpfr/status/1331911668339773441"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">At some point I realised that “we should write a paper” is the academic equivalent of “we should start a band”</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academic%20article"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Music%20band"/>
