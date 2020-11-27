@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">On attend des policiers modérés qu’ils se désolidarisent de leurs collègues extrémistes.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Police%20brutality%20in%20France"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Islamic%20extremism"/>
+		<dc:source rdf:resource="https://twitter.com/JasonBrokerss/status/1332010293568868356"/>
+		<q:context>lynchage d'un individus par des policier,  filme par une camera</q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Les stations de ski seront ouvertes à Noël mais les remontées mécaniques resteront fermées</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jean%20Castex"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ski"/>
