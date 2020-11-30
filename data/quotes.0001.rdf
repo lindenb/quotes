@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">@WilliamShatner
+ Yes, Standard Orbit, Captain. And we're detecting signs of life on the surface.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/William%20Shatner"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Chris%20Hadfield"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Star%20Trek"/>
+		<dc:source rdf:resource="https://twitter.com/Cmdr_Hadfield/status/286948264236945408"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">On attend des policiers modérés qu’ils se désolidarisent de leurs collègues extrémistes.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Police%20brutality%20in%20France"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Islamic%20extremism"/>
