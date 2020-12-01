@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Sources indicate that Polish diplomats were at the event as well. As someone who has reported on the anti-LGBT sentiments in Poland, I never thought pro-LGBT activists would be able to use the "you had a gangbang in Brussels" argument against the government.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/J%C3%B3zsef%20Sz%C3%A1jer"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/LGBT%20activism"/>
+		<dc:source rdf:resource="https://twitter.com/UnaHajdari/status/1333793816952803331"/>
+		<q:context>József Szájer, Hungarian MEP and founding member of Fidesz was caught in an orgy with 25 people, mainly men, and drugs in Brussels this weekend. Fidesz is the party of Hungarian PM Orbán, protector of conservatism and actively fighting against our LGBTQ+ siblings. </q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">@WilliamShatner
  Yes, Standard Orbit, Captain. And we're detecting signs of life on the surface.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/William%20Shatner"/>
