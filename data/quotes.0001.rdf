@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">When I order a burger &amp; Moderna at the diner &amp; the waiter says, “We got Pfizer. Is Pfizer ok?”</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Moderna%20vaccine"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pfizer%20vaccine"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20vaccine"/>
+		<dc:source rdf:resource="https://twitter.com/Caissie/status/1334161480976015360"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Sources indicate that Polish diplomats were at the event as well. As someone who has reported on the anti-LGBT sentiments in Poland, I never thought pro-LGBT activists would be able to use the "you had a gangbang in Brussels" argument against the government.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/J%C3%B3zsef%20Sz%C3%A1jer"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/LGBT%20activism"/>
