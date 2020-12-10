@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I'm watching Armaggedon and, after what happened this year, it's no longer believable that we'd be able to destroy a huge asteroid and save the world in 18 days when it took us 2 months to figure out that we should wear masks against a respiratory virus.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Armageddon%20(1998%20film)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic"/>
+		<dc:source rdf:resource="https://twitter.com/phl43/status/1336472761628323841"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">When I order a burger &amp; Moderna at the diner &amp; the waiter says, “We got Pfizer. Is Pfizer ok?”</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Moderna%20vaccine"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pfizer%20vaccine"/>
