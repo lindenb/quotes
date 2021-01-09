@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I can’t believe how many things I assumed I wasn’t smart enough to do or try. Whole idiots are running the country.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump%20Jr."/>
+		<dc:source rdf:resource="https://twitter.com/iSmashFizzle/status/1347969840011763712"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Imagine, ton président crée une convention citoyenne au nom de la démocratie, puis, il refuse les propositions des citoyens tirés au sort démocratiquement, pour finalement créer un référendum afin de consulter les citoyens pour plus de... démocratie.
 L'audace.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Citizens%20Convention%20for%20Climate"/>
