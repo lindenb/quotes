@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Ce semestre 4 a l’air genial mais il a fallu que mon premier cours soit Bioinformatique ça gache tout</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/mattheoflrd2/status/1348353917596405767"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Quand je suivais des UEs en commun avec la licence ou le master d'info j'avais littéralement l'impression qu'il y avait 1 ou 2 meufs (hors bioinfo où y en a plus) sur des salles complètes de 40 personnes</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
 		<dc:source rdf:resource="https://twitter.com/_elihal/status/1347632495936892932"/>
