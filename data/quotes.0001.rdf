@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Just realized the only platform that hasn’t banned Trump is OnlyFans so get ready for a very sexy 2021</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/OnlyFans"/>
+		<dc:source rdf:resource="https://twitter.com/BenKissel/status/1349459643513200641"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Question sérieuse: comment peut-il rester encore un seul astrologue/voyant en exercice en 2021 alors que ces innombrables tocards et charlatans n'ont rien vu venir pour 2020 ?)</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Astrology"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic"/>
