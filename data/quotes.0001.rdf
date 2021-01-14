@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">guy who's currently deploying a schema migration to change the type of `presidents.impeached` from bool to int</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Impeachment%20in%20the%20United%20States"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Data%20type"/>
+		<dc:source rdf:resource="https://twitter.com/mountain_ghosts/status/1349510981806936065"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Just realized the only platform that hasn’t banned Trump is OnlyFans so get ready for a very sexy 2021</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/OnlyFans"/>
