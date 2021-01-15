@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Cette vague sensation de traverser ces temps-ci la période "potage à la tomate" du distributeur de la cafétéria de l'existence.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/GDeleur/status/1350122040993443840"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vending%20machine"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">guy who's currently deploying a schema migration to change the type of `presidents.impeached` from bool to int</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Impeachment%20in%20the%20United%20States"/>
