@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">JavaScript makes me want to flip the table and say “Fuck this shit”, but I can never be sure what “this” refers to.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/oscherler/status/660049264903643136"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/JavaScript"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/This%20(computer%20programming)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Cette vague sensation de traverser ces temps-ci la période "potage à la tomate" du distributeur de la cafétéria de l'existence.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/GDeleur/status/1350122040993443840"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic"/>
