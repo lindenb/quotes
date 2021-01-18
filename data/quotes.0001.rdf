@@ -7,6 +7,21 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Netflix fait une série sur les échecs les gens se mettent à jouer.
+Netflix fait une série sur Lupin les gens relisent Lupin.
+Il faut donc que Netflix fasse des séries sur :
+- Isaac Newton
+- Les vaccins
+- La relativité générale
+- La physique quantique
+- La théorie de l'évolution</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Netflix"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ars%C3%A8ne%20Lupin"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Chess"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Antivax"/>
+                <dc:source rdf:resource="https://twitter.com/AtheismisComing/status/1350909704151642112"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">JavaScript makes me want to flip the table and say “Fuck this shit”, but I can never be sure what “this” refers to.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/oscherler/status/660049264903643136"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/JavaScript"/>
