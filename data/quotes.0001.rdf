@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">My biologist origin story is that when I was a young child I found out I was fascinated by grant applications</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Grant%20application"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Biologist"/>
+		<dc:source rdf:resource="https://twitter.com/blekhman/status/1368585139496845314"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Netflix fait une série sur les échecs les gens se mettent à jouer.
 Netflix fait une série sur Lupin les gens relisent Lupin.
 Il faut donc que Netflix fasse des séries sur :
