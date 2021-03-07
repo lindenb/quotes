@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">For this reason, considering the value of standards, their economic and social importance, the costs of their development and maintenance, we and all ISO Members have the interest to protect the value of ISO Publications and National Adoptions, not making them publicly available.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/ISO"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Open%20data"/>
+		<dc:source rdf:resource="https://twitter.com/isostandards/status/1367138676162105344"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">My biologist origin story is that when I was a young child I found out I was fascinated by grant applications</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Grant%20application"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Biologist"/>
