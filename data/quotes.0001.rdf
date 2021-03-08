@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">2001: “I didn’t actually read the book, but I saw the movie...
+2021: “I didn’t see the actual interview, but I saw the tweets...”</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Book"/>
+		<dc:source rdf:resource="https://twitter.com/svaneksmith/status/1368747740814008323"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">For this reason, considering the value of standards, their economic and social importance, the costs of their development and maintenance, we and all ISO Members have the interest to protect the value of ISO Publications and National Adoptions, not making them publicly available.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/ISO"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Open%20data"/>
