@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">C'est un romain qui entre dans une taverne.
+Il lève 2 doigts et dit : "5 bières, s'il-vous-plaît!"</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Boblafrite1/status/1372656250362736641"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Roman%20numerals"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Beer"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">-Cerveau, tu sais si on a fermé la porte à clé ce matin?
 -Aucune idée. Par contre je me souviens de la pub Ricoré de 1996 si ça t'intéresse.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/TaniaKessaouti/status/692395532006920194"/>
