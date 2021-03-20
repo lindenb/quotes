@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">A défaut de vaccin, je propose que la France fasse don à l'humanité du brevet de son concept d'auto-attestation de deux pages à 15 dérogations et qu'elle rende public ses secrets de fabrication.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Michel_Goya/status/1373216962373910529"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20France"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">C'est un romain qui entre dans une taverne.
 Il lève 2 doigts et dit : "5 bières, s'il-vous-plaît!"</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Boblafrite1/status/1372656250362736641"/>
