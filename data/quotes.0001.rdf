@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">À ceux qui rigolent en voyant que les flics ont confondu de l'ecstasy et des fraises Tagada, je vous rappelle que jusqu'à la fin de l'année dernière, la Sécurité sociale confondait les billes de sucre produites par Boiron avec des médicaments. Une confusion encore très courante.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Homeopathy"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Candy"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Drug"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Police%20in%20France"/>
+		<dc:source rdf:resource="https://twitter.com/EdChirac/status/1373162012356841472"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fraise%20Tagada"/>
+		<q:context>Police a confondu un traffic de Fraises Tagada avec de la drogue</q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">A défaut de vaccin, je propose que la France fasse don à l'humanité du brevet de son concept d'auto-attestation de deux pages à 15 dérogations et qu'elle rende public ses secrets de fabrication.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Michel_Goya/status/1373216962373910529"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20France"/>
