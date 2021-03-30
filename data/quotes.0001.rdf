@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Macron parle mercredi. 
+J’ai l’impression de revivre ce moment où mon ex m’a envoyé « Faut qu’on parle ». 
+J’ai envie d’y croire et de me pimper un peu pour l’occasion mais au fond je sais très bien que c’est foutu et que je peux rester en pyjama ...</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emmanuel%20Macron"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20France"/>
+		<dc:source rdf:resource="https://twitter.com/TristanLopin/status/1376479806813040641"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">À ceux qui rigolent en voyant que les flics ont confondu de l'ecstasy et des fraises Tagada, je vous rappelle que jusqu'à la fin de l'année dernière, la Sécurité sociale confondait les billes de sucre produites par Boiron avec des médicaments. Une confusion encore très courante.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Homeopathy"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Candy"/>
