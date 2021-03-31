@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Le mec voit les choses en grand pour sa soutenance de thèse en épidémiologie</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emmanuel%20Macron"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Thesis"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Epidemiology"/>
+		<dc:source rdf:resource="https://twitter.com/lfaliaj/status/1377194783832162305"/>
+		<q:context>Macron se targue de comprendre les travaux des chercheurs, il s'adressera ce soir a la TV</q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Did my experiment work? No. But did I learn from it? No. But did it help me grow as a scientist? Also no.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Science"/>
 		<dc:source rdf:resource="https://twitter.com/AdrinaKocharian/status/1357491655104954376"/>
