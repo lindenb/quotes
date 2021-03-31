@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Imagine being the captain of the first ship to pass through the Suez after it gets unblocked and knowing that you have the potential to do the funniest thing that anyone has ever done ever.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ever%20Given%20grounding%20in%20Suez%20Canal"/>
+		<dc:source rdf:resource="https://twitter.com/SianHarris8/status/1377269362487390209"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Le mec voit les choses en grand pour sa soutenance de thèse en épidémiologie</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Emmanuel%20Macron"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Thesis"/>
