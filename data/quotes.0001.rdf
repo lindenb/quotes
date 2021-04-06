@@ -7,9 +7,35 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Le cours du popcorn vient de dépasser celui du bitcoin.
+		
+&gt; Le patron d'OVH contredit publiquement Jean-Michel Blanquer qui avait évoqué, "d'après les premiers éléments" dont il disposait, les difficultés d'OVH, "qui a eu un incendie à Strasbourg il y a quelques temps et qui n'a donc pas pu faire face à l'afflux de connexions ce matin"
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Education%20in%20France"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Parcoursup"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jean-Michel%20Blanquer"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bitcoin"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/France"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Education"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/OVH"/>
+		<dc:source rdf:resource="https://twitter.com/SophianF/status/1379439572271120386"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">L'occasion de rappeler une devinette impérissable :
+"Vous savez comment faire tomber un serveur de l'administration française ?
+
+- Il suffit d'essayer de s'y connecter."
+
+A jeudi pour l'écroulement du serveur Parcoursup.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Education%20in%20France"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Parcoursup"/>
+		<dc:source rdf:resource="https://twitter.com/Lazarrre/status/1379369470100115456"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Imagine being the captain of the first ship to pass through the Suez after it gets unblocked and knowing that you have the potential to do the funniest thing that anyone has ever done ever.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ever%20Given%20grounding%20in%20Suez%20Canal"/>
 		<dc:source rdf:resource="https://twitter.com/SianHarris8/status/1377269362487390209"/>
+		<q:context>3eme confinement du au coronavirus. Les serveurs de l education nationale sont HS</q:context>
 	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="fr">Le mec voit les choses en grand pour sa soutenance de thèse en épidémiologie</q:quote>
