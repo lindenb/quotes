@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">“English has 28 words for ‘corruption’” – common Inuit saying</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Corruption"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Snow"/>
+		<dc:source rdf:resource="https://twitter.com/samuel_pollen/status/1383746129653690373"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Le cours du popcorn vient de dépasser celui du bitcoin.
 		
 &gt; Le patron d'OVH contredit publiquement Jean-Michel Blanquer qui avait évoqué, "d'après les premiers éléments" dont il disposait, les difficultés d'OVH, "qui a eu un incendie à Strasbourg il y a quelques temps et qui n'a donc pas pu faire face à l'afflux de connexions ce matin"
