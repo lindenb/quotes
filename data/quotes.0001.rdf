@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Unlike silver, gold, and diamonds, which can only be mined in environmentally-destructive ways in a few places on Earth, Bitcoin lets you destroy the environment from anywhere.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bitcoin"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ecology"/>
+		<dc:source rdf:resource="https://twitter.com/AaronHertzmann/status/1384226341663301635"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">“English has 28 words for ‘corruption’” – common Inuit saying</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Corruption"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Snow"/>
