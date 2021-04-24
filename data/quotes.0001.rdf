@@ -7,6 +7,19 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Here's a summary of all the statistical errors:
+
+Type I: False Negative
+Type II: False Positive
+Type III: Mixing up false negative and false positive
+Type IIII: Forgetting how Roman numerals work
+Type V: Putting data into Excel
+Type 6: Inconsistent data types</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Type%20I%20and%20type%20II%20errors"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Microsoft%20Excel"/>
+		<dc:source rdf:resource="https://twitter.com/ben_j_lindsay/status/1385572231447597059"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Unlike silver, gold, and diamonds, which can only be mined in environmentally-destructive ways in a few places on Earth, Bitcoin lets you destroy the environment from anywhere.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bitcoin"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Ecology"/>
