@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">wtf is a “group chat?” i am an adult, i only have two friends and they don’t know each other</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Group%20chat"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Friendship"/>
+		<dc:source rdf:resource="https://twitter.com/jzux/status/1386057746517135360"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Here's a summary of all the statistical errors:
 
 Type I: False Negative
