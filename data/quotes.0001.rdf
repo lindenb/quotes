@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">When you sit on a toilet, you are connecting your butthole, to a city-wide connected butthole network</q:quote>
+		<dc:source rdf:resource="https://twitter.com/__MrAnderson___/status/1135276489396629504"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Toilet"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Anus"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">wtf is a “group chat?” i am an adult, i only have two friends and they don’t know each other</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Group%20chat"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Friendship"/>
