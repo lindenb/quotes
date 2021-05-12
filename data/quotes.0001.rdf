@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Les violences à Jérusalem sont tragiques, mais aussi la meilleure preuve qu'une campagne de vaccination réussie peut nous permettre de reprendre notre vie d'avant.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20Israel"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Palestinian%20rocket%20attacks%20on%20Israel"/>
+		<dc:source rdf:resource="https://twitter.com/wieselT/status/1392384196245704705"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">When you sit on a toilet, you are connecting your butthole, to a city-wide connected butthole network</q:quote>
 		<dc:source rdf:resource="https://twitter.com/__MrAnderson___/status/1135276489396629504"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Toilet"/>
