@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Les participants au concert test d'Indochine doivent avoir moins de 45 ans. 
+Je ne vois pas quel test ils vont pouvoir faire avec une salle vide.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/pheeldoulap/status/1393909636072448001"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Indochine%20(band)"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20France"/>
+		<q:context>concert test d'indochine pour evaluer les concerts en temps de covid</q:context> 
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Les violences à Jérusalem sont tragiques, mais aussi la meilleure preuve qu'une campagne de vaccination réussie peut nous permettre de reprendre notre vie d'avant.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20Israel"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Palestinian%20rocket%20attacks%20on%20Israel"/>
