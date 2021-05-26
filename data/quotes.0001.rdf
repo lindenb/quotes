@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Taking a dog named Shark to the beach is a very bad idea.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Dog"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jaws%20(film)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Les participants au concert test d'Indochine doivent avoir moins de 45 ans. 
 Je ne vois pas quel test ils vont pouvoir faire avec une salle vide.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/pheeldoulap/status/1393909636072448001"/>
