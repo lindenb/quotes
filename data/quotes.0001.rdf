@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Rappel utile : c'est pas les lundis que vous détestez. C'est le capitalisme.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/malopedia/status/1399095911037476865"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Capitalism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Monday"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Taking a dog named Shark to the beach is a very bad idea.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Dog"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jaws%20(film)"/>
