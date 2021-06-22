@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Les accusations de fraude dont je suis l'objet sur Pubpeer relèvent de la diffamation.
+Dans ma carrière, un seul de mes 3500 articles a été rétracté ; article pour lequel je n'avais de responsabilité ni dans la conduite des expériences, ni dans la rédaction.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Didier%20Raoult"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Scientific%20fraud"/>
+		<dc:source rdf:resource="https://twitter.com/raoult_didier/status/1407256075620032512"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Rappel utile : c'est pas les lundis que vous détestez. C'est le capitalisme.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/malopedia/status/1399095911037476865"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Capitalism"/>
