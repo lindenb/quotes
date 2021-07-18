@@ -6,6 +6,12 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+<q:Quote>
+		<q:quote xml:lang="fr">On est d'accord que si tu refuses de te faire vacciner invoquant la liberté individuelle, tu es pour la mariage pour tous et la pma pour tous au nom de cette même liberté individuelle ?</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Madame_Pyjama/status/1416686746331492357"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Antivax"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20France"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="en">I regret to inform you that my brain will think it's the year 2000 until the day I die. When is 30 years ago? 1970. How long ago were the '90s? 10 years ago. thank you for your understanding in this matter.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/2000%20(year)"/>
