@@ -6,7 +6,12 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
-<q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">Do you have the kind of job where you wash your hands before you pee or after you pee?</q:quote>
+		<dc:source rdf:resource="https://twitter.com/BiologyCarly/status/1416565623870611457"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Pee"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">On est d'accord que si tu refuses de te faire vacciner invoquant la liberté individuelle, tu es pour la mariage pour tous et la pma pour tous au nom de cette même liberté individuelle ?</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Madame_Pyjama/status/1416686746331492357"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Antivax"/>
