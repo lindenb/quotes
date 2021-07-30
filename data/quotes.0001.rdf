@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Academic conferences: "We are thrilled to announce that we will hold the next annual meeting in person!"
+
+Delta variant: "I have more of a comment than a question..."</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/SARS-CoV-2%20Delta%20variant"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Conference"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Les toulousains, sachez que quand vous dites "Entre autre", on entend "Âne trotro".</q:quote>
 		<dc:source rdf:resource="https://twitter.com/MateuilB/status/699493934872055808"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Toulouse"/>
