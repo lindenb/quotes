@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">We build our computer(systems) the way we build our cities: over time, without a plan, on top of ruins.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Computer%20science"/>
+		<dc:source rdf:resource="https://twitter.com/CodeWisdom/status/1202286677978419200"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Academic conferences: "We are thrilled to announce that we will hold the next annual meeting in person!"
 
 Delta variant: "I have more of a comment than a question..."</q:quote>
