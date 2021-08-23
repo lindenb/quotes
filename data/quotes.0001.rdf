@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Just a reminder: being “famous” in academia means tops 40 people will recognize you at an international meeting before your talk.
+
+It also means that your barber will also say, “oh cool, what do you teach?”</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academy"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Barber"/>
+		<dc:source rdf:resource="https://twitter.com/hjpimentel/status/1429219947067023360"/>
+	</q:Quote>	
+	<q:Quote>
 		<q:quote xml:lang="en">We build our computer(systems) the way we build our cities: over time, without a plan, on top of ruins.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Computer%20science"/>
 		<dc:source rdf:resource="https://twitter.com/CodeWisdom/status/1202286677978419200"/>
