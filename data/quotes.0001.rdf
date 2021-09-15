@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I'm afraid not all students share my enthusiasm for the equivalence between maximum likelihood estimation under gaussian noise and empirical risk minimization with a well chosen loss, but it's clearly one of my favorite things to teach.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Statistics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Teacher"/>
+		<dc:source rdf:resource="https://twitter.com/cazencott/status/1438142247871074308"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Just a reminder: being “famous” in academia means tops 40 people will recognize you at an international meeting before your talk.
 
 It also means that your barber will also say, “oh cool, what do you teach?”</q:quote>
