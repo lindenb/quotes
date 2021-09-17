@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Most people: “if I won the lottery, I could quit my job!”
+
+Academics: “if I won the lottery, I could keep my job!”</q:quote>
+		<dc:source rdf:resource="https://twitter.com/ak_ringsmuth/status/1438128735136493573"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Lottery"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academics"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I'm afraid not all students share my enthusiasm for the equivalence between maximum likelihood estimation under gaussian noise and empirical risk minimization with a well chosen loss, but it's clearly one of my favorite things to teach.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Statistics"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Teacher"/>
