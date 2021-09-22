@@ -6,6 +6,16 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+<q:Quote>
+		<q:quote xml:lang="fr">On présente à un paysan un chapeau avec 2 billets : un noir qui l'enrôlera dans l'armée et un blanc qui l'en exemptera. Devinant qu'il y a en réalité 2 billets noirs, il en tire un, l'avale et dit :
+
+- Si le billet restant est noir, c'est que j'ai tiré le blanc.
+
+Il sera exempté.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Antho_Repartie/status/1440613877704585224"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Army"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Conscription"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="en">Most people: “if I won the lottery, I could quit my job!”
 
