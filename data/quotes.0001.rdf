@@ -6,7 +6,13 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
-<q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">Not voting is not a protest. It is a surrender.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/nicolas_woehrl/status/1442025291522531329"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Vote"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Democracy"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">On présente à un paysan un chapeau avec 2 billets : un noir qui l'enrôlera dans l'armée et un blanc qui l'en exemptera. Devinant qu'il y a en réalité 2 billets noirs, il en tire un, l'avale et dit :
 
 - Si le billet restant est noir, c'est que j'ai tiré le blanc.
