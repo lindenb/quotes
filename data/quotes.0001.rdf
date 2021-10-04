@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">-Siri? Pourquoi je gâche toujours tout avec les femmes?
+-Euh moi c'est Alexa.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/schacharian/status/1444383125170184201"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Siri"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Alexa"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">If you're the smartest person in the room, you're in the wrong room.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/ProfFeynman/status/1442900123613204485"/>
 	</q:Quote>
