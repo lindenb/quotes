@@ -7,6 +7,22 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">pourquoi les lesbiennes ont 2 trous dans leurs culottes ?
+
+Pour mettre les jambes</q:quote>
+		<dc:source rdf:resource="https://en.wikipedia.org/wiki/Hippopotamus"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Lesbian"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Leg"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Un hippopotame court plus vite qu'un homme. 
+Un hippopotame nage plus vite qu'un homme. 
+Il faut donc tout miser sur le vélo pour battre un hippopotame au triathlon.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/roger_mansuy/status/1445809995417858054"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Triathlon"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Hippopotamus"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">-Siri? Pourquoi je gâche toujours tout avec les femmes?
 -Euh moi c'est Alexa.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/schacharian/status/1444383125170184201"/>
