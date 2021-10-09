@@ -7,10 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Le mec qui a inventé la correction automatique est un gros canard.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Autocorrection"/>
+		<dc:source rdf:resource="https://twitter.com/MathiasUlmann/status/1446513659119865859"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">pourquoi les lesbiennes ont 2 trous dans leurs culottes ?
 
 Pour mettre les jambes</q:quote>
-		<dc:source rdf:resource="https://en.wikipedia.org/wiki/Hippopotamus"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Hippopotamus"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Lesbian"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Leg"/>
 	</q:Quote>
