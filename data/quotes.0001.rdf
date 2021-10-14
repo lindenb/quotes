@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">après avoir échoué cinquante-deux fois au captcha, Véronique s’apprête à annoncer à sa famille qu’elle est un robot.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/i/lists/9595710"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/CAPTCHA"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Robot"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Le mec qui a inventé la correction automatique est un gros canard.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Autocorrection"/>
 		<dc:source rdf:resource="https://twitter.com/MathiasUlmann/status/1446513659119865859"/>
