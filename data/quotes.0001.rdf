@@ -6,6 +6,15 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+<q:Quote>
+		<q:quote xml:lang="en">Person 1: The glass is 1/2 full
+
+Person 2: The glass is 1/2 empty
+
+Excel: The glass is the 1st of February</q:quote>
+		<dc:source rdf:resource="https://twitter.com/ExcelPope/status/1449363985464184836"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Microsoft%20Excel"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="fr">après avoir échoué cinquante-deux fois au captcha, Véronique s’apprête à annoncer à sa famille qu’elle est un robot.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/i/lists/9595710"/>
