@@ -6,7 +6,14 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
-<q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">-Chéri faut que ça s'arrête, j'en peux plus de tes références à des chansons débiles, je le vis mal, j'en dors plus, j'ai plus d'appétit
+
+-Qu'un barracuda ?</q:quote>
+		<dc:source rdf:resource="https://twitter.com/EtienneBoillet/status/1450375885417222144"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Claude%20Fran%C3%A7ois"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Person 1: The glass is 1/2 full
 
 Person 2: The glass is 1/2 empty
