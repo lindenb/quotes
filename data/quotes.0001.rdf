@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Sometimes I try to imagine a world where scientific young minds enjoyed greater rewards for revolutionizing, like, farming methods, manufacturing, or energy, rather than the dark patterns used to optimize ad-clicks at Google and Facebook.
+
+How did we get here?</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Snowden/status/1451343024336875523"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Facebook"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Clickbait"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Agronomy"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">-Chéri faut que ça s'arrête, j'en peux plus de tes références à des chansons débiles, je le vis mal, j'en dors plus, j'ai plus d'appétit
 
 -Qu'un barracuda ?</q:quote>
