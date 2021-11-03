@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">J'y pense (au jour où j'ai envoyé une lettre à ma grand-mère pour lui faire mon coming out et qu'elle m'a répondu qu'elle faisait du vélo d'appartement et que la reine de la pédale c'était elle)</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Leiatmoche/status/1455801101266063365"/>
+		<q:keyword rdf:resource="http://fr.wikipedia.org/wiki/Coming%20out"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bicycle"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Sometimes I try to imagine a world where scientific young minds enjoyed greater rewards for revolutionizing, like, farming methods, manufacturing, or energy, rather than the dark patterns used to optimize ad-clicks at Google and Facebook.
 
 How did we get here?</q:quote>
