@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">This is the slowest imaginable way to teach everyone the Greek alphabet.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/j_houg/status/1464318918357626884"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/SARS-CoV-2%20Omicron%20variant"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Greek%20alphabet"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">So we’re all clear…
 
 It’s our fish
