@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Y a une homéopathe dans mes mentions qui dit qu'elle est anti-vaccin parce que c'est un placébo.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/sandrine2loffre/status/1465056176652095490"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Homeopathy"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Placebo"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Antivax"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">This is the slowest imaginable way to teach everyone the Greek alphabet.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/j_houg/status/1464318918357626884"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/SARS-CoV-2%20Omicron%20variant"/>
