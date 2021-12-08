@@ -7,6 +7,16 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">1970: We're going to build a global network that can withstand a nuclear war.
+
+2021: AWS is down and my coffee machine doesn't work.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/VessOnSecurity/status/1468457819296968705"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Amazon"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Internet"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Internet%20of%20things"/>
+		<q:context>outage amazon aws</q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">You want me to think? The thing that killed Socrates?</q:quote>
 		<dc:source rdf:resource="https://twitter.com/artistfuly/status/1468270717040877569"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Socrates"/>
