@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">You want me to think? The thing that killed Socrates?</q:quote>
+		<dc:source rdf:resource="https://twitter.com/artistfuly/status/1468270717040877569"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Socrates"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Y a une homéopathe dans mes mentions qui dit qu'elle est anti-vaccin parce que c'est un placébo.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/sandrine2loffre/status/1465056176652095490"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Homeopathy"/>
