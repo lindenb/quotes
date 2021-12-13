@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Have just reminded my news editor it's only 18 days since I pitched the story "there's a new variant with 32 mutations, looks horrific, but only four cases confirmed so far"</q:quote>
+		<dc:source rdf:resource="https://twitter.com/janemerrick23/status/1470079154259439619"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/SARS-CoV-2%20Omicron%20variant"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">1970: We're going to build a global network that can withstand a nuclear war.
 
 2021: AWS is down and my coffee machine doesn't work.</q:quote>
