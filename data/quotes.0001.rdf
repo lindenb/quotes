@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I will be you NFT girlfriend, you can’t ever touch me or interact with me in real life but if you pay me enough money you can go around telling people I’m yours.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Non-fungible%20token"/>
+		<dc:source rdf:resource="https://twitter.com/behindyourback/status/1473660238016520192"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Good news: We’ve flattened the curve.
 
 Bad news: It’s against the y-axis.</q:quote>
