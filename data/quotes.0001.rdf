@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Un coup de bite de temps en temps, ça débouche les neurones</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/La%20Manif%20pour%20tous"/>
+		<dc:source rdf:resource="https://twitter.com/skinnytwinky/status/1474122264740253697"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I will be you NFT girlfriend, you can’t ever touch me or interact with me in real life but if you pay me enough money you can go around telling people I’m yours.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Non-fungible%20token"/>
 		<dc:source rdf:resource="https://twitter.com/behindyourback/status/1473660238016520192"/>
