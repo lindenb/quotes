@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Toutes mes condoléances à la famille de Desmond Tutu
+
+en particulier à son frère, Turlu</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Desmond%20Tutu"/>
+		<dc:source rdf:resource="https://twitter.com/Ganeshdeux/status/1475121764363554819"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Un coup de bite de temps en temps, ça débouche les neurones</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/La%20Manif%20pour%20tous"/>
 		<dc:source rdf:resource="https://twitter.com/skinnytwinky/status/1474122264740253697"/>
