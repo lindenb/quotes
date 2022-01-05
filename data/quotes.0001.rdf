@@ -7,6 +7,26 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">La gestion des maladies infectieuses peut amener å remettre en cause
+la liberté individuelle. C'est le cas de l'isolement nécessaire pour
+éviter la contamination lorsque les patients sont contagieux, c'est le
+cas de la déclaration obligatoire des maladies et c'est le cas de la
+vaccination obligatoire dans le cadre des maladies contagieuses. Ce
+peut étre aussi la justification de l'obligation de soins pour
+d'autres maladies contagieuses. Les hommes constituant une espéce
+unique, le comportement individuel des humains peut avoir une
+conséquence sur la santé de l'ensemble de la population. C'est ainsi
+que l'on a pu identifier un étudiant guinéen qui a importé le choléra
+en Afrique noire å partir d'URSS et qui a causé secondairement des
+millions de morts. Ainsi donc, la liberté individuelle de chacun et
+les choix personnels peuvent contredire les besoins de la société
+d'une maniére trés tangible</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Didier%20Raoult"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Liberty"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Infectious%20Disease"/>
+		<dc:source rdf:resource="https://www.vie-publique.fr/sites/default/files/rapport/pdf/034000441.pdf"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Si l’argent des labos n’inondait pas les médecins médiatiques, tout le corps médical serait vent debout contre le #PassVaccinal et autres mesures. Car c’est contraire à toute éthique médicale !
 On doit faire avec pour le moment, mais on nettoiera tout ça à la libération</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Florian%20Philippot"/>
