@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">L'avantage du bordel ambiant c'est que Jeudi je pourrai faire grève en présentiel tout en assurant mes cours en comodalité semi-hybride et déclarer le tout à mon employeur sur la base d'attestations sur l'honneur imprimées en pharmacie.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Affordanceinfo2/status/1480664464076775425"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20France"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Jean%20Castex"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">La gestion des maladies infectieuses peut amener å remettre en cause
 la liberté individuelle. C'est le cas de l'isolement nécessaire pour
 éviter la contamination lorsque les patients sont contagieux, c'est le
