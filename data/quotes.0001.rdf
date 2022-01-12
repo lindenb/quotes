@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">In French we don't say "I organize a COVID party" we say "Protocole sanitaire de l'Education Nationale" and I think it's beautiful.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20France"/>
+		<dc:source rdf:resource="https://twitter.com/Pucheault_Lab/status/1480624048531030017"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">L'avantage du bordel ambiant c'est que Jeudi je pourrai faire grève en présentiel tout en assurant mes cours en comodalité semi-hybride et déclarer le tout à mon employeur sur la base d'attestations sur l'honneur imprimées en pharmacie.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/Affordanceinfo2/status/1480664464076775425"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20France"/>
