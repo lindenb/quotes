@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Vous réalisez que le Pig nose qui a tué une femme on a ni son nom ni son visage mais lui il a son arme et la possibilité de prendre le train partout en France gratuitement ?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Femicide"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Police%20in%20France"/>
+		<dc:source rdf:resource="https://twitter.com/KIydeshah/status/1487453231940882432"/>
+		<q:context>un policier assassine sa femme. SNCF gratuit pour la police<q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">In French we don't say "I organize a COVID party" we say "Protocole sanitaire de l'Education Nationale" and I think it's beautiful.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20France"/>
 		<dc:source rdf:resource="https://twitter.com/Pucheault_Lab/status/1480624048531030017"/>
