@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Type I Zoom error: you think people can hear you, but you’re actually on mute. 
+Type II Zoom error: you think your muted, but actually people can hear you.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Zoom%20Video%20Communications"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Type%20I%20and%20type%20II%20errors"/>
+		<dc:source rdf:resource="https://twitter.com/CynPeacock/status/1487204599538888713"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Vous réalisez que le Pig nose qui a tué une femme on a ni son nom ni son visage mais lui il a son arme et la possibilité de prendre le train partout en France gratuitement ?</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Femicide"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Police%20in%20France"/>
