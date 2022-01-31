@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">I was horrified when my wife told me that my six-year-old son wasn't actually mine.
+
+Apparently I need to pay more attention during school pick-up.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Paternity%20test"/>
+		<dc:source rdf:resource="https://twitter.com/Dadsaysjokes/status/1488248292647526404"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Type I Zoom error: you think people can hear you, but you’re actually on mute. 
 Type II Zoom error: you think your muted, but actually people can hear you.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Zoom%20Video%20Communications"/>
