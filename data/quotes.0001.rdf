@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Stallone: I'm making a movie about composers. I'm playing Beethoven.
+Van Damme: I'll be Mozart.
+Schwarzenegger: Stop it guys, I'm not saying it.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Terminator"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Johann%20Sebastian%20Bach"/>
+		<dc:source rdf:resource="https://twitter.com/mariana057/status/1501345080430448642"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">I was horrified when my wife told me that my six-year-old son wasn't actually mine.
 
 Apparently I need to pay more attention during school pick-up.</q:quote>
