@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Je peux comprendre aussi bien les gens qui souhaitent continuer à porter le masque, que ceux qui sont heureux de ne plus avoir à le porter. Par contre, les gens qui continuent à MAL porter le masque, je dois avouer que c'est un défi pour l'analyse sociologique.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/antoine_abdr/status/1503433503748284419"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic%20in%20France"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Stallone: I'm making a movie about composers. I'm playing Beethoven.
 Van Damme: I'll be Mozart.
 Schwarzenegger: Stop it guys, I'm not saying it.</q:quote>
