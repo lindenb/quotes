@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Être une femme hétéro c’est chaque jour prendre le risque de tomber love d’un gars qui porte une gourmette, c’est arrivé à une pote à moi je suis dévastée
+</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Gourmette"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Heterosexuality"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Drawing Bayesian inferences after extensive sampling, I've determined that it's 99-percent certain that anyone who uses "woke" as pejorative will turn out to be a fuckhead. Please don't blame me for pointing this out--it's just science.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/sfmnemonic/status/1504687870006620163"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Godwin's%20law"/>
