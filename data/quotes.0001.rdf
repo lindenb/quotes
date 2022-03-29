@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">When you're starting with #bioinformatics, you will spend 3 hours writing a script for a task that could have been completed in 30 minutes with an appropriate existing tool. Later, you will spend 3 hours searching for a tool to avoid 30 minutes writing an appropriate script.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<dc:source rdf:resource="https://twitter.com/biomonika/status/1506999611570933760"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Être une femme hétéro c’est chaque jour prendre le risque de tomber love d’un gars qui porte une gourmette, c’est arrivé à une pote à moi je suis dévastée
 </q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Gourmette"/>
