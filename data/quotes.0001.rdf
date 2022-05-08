@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Optimist: The glass is ½ full.
+Pessimist: The glass is ½ empty.
+Excel: The glass is January 2nd.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/SteveALee/status/1523229882112651265"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Microsoft%20Excel"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">When you're starting with #bioinformatics, you will spend 3 hours writing a script for a task that could have been completed in 30 minutes with an appropriate existing tool. Later, you will spend 3 hours searching for a tool to avoid 30 minutes writing an appropriate script.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
 		<dc:source rdf:resource="https://twitter.com/biomonika/status/1506999611570933760"/>
