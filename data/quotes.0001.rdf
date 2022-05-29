@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">being a statistician is fun cause you can tell people that the data they worked so hard to collect isn’t enough or won’t answer the questions they want answers to and move on while everybody hates you</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Biostatistics"/>
+		<dc:source rdf:resource="https://twitter.com/apoorvasriniva/status/1530230546504237057"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Optimist: The glass is ½ full.
 Pessimist: The glass is ½ empty.
 Excel: The glass is January 2nd.</q:quote>
