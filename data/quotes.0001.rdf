@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Good news: Lung cancer rates are down. You can now smoke indoors again, and purchase cigarettes without age restriction. It’s important that we put the lung cancer crisis behind us, and return to normal!</q:quote>
+		<dc:source rdf:resource="https://twitter.com/JonathanCOnP/status/1535604286247280641"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Lung%20cancer"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">"L'abstention est le premier parti de France". "Nous avons entendu le message des Français". "Plus jamais ça". "La crise de la représentation". "La refondation s'impose. "Il faut un un changement de logiciel". "Mon cul sur la commode"
 Quelle phrase ne sera pas prononcée ce soir ?</q:quote>
 		<dc:source rdf:resource="https://twitter.com/guybirenbaum/status/1536014718145544192"/>
