@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">"L'abstention est le premier parti de France". "Nous avons entendu le message des Français". "Plus jamais ça". "La crise de la représentation". "La refondation s'impose. "Il faut un un changement de logiciel". "Mon cul sur la commode"
+Quelle phrase ne sera pas prononcée ce soir ?</q:quote>
+		<dc:source rdf:resource="https://twitter.com/guybirenbaum/status/1536014718145544192"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/2022%20French%20legislative%20election"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">being a statistician is fun cause you can tell people that the data they worked so hard to collect isn’t enough or won’t answer the questions they want answers to and move on while everybody hates you</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Biostatistics"/>
 		<dc:source rdf:resource="https://twitter.com/apoorvasriniva/status/1530230546504237057"/>
