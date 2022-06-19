@@ -7,6 +7,28 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Macron n'aura pas la majorité... Ça va rappeler des bons souvenirs à Brigitte.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/2022%20French%20legislative%20election"/>
+		<dc:source rdf:resource="https://twitter.com/marcais_olive/status/1538606869358514178"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Grosse semaine à venir pour les chasseurs de tête qui vont devoir trouver suffisamment de places au conseil de surveillance d’AXA pour recaser tout ce beau monde.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/2022%20French%20legislative%20election"/>
+		<dc:source rdf:resource="https://twitter.com/RonanPla/status/1538605794505154561"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">15% de sièges au RN en projection. Nos premiers mots doivent aller vers ceux qui, marcheurs, ont refusé le barrage, qui les avait servis: allez vous faire foutre.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/2022%20French%20legislative%20election"/>
+		<dc:source rdf:resource="https://twitter.com/dareljedid/status/1538583403192324097"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Tout de même, la condescendance des macronistes vis à vis des électeurs de la NUPES est assez scandaleuse. 
+
+(Pour les électeurs de la NUPES : être condescendant veut dire prendre quelqu’un de haut)</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/2022%20French%20legislative%20election"/>
+		<dc:source rdf:resource="https://twitter.com/SamuelFitouss10/status/1538482412434382848"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Good news: Lung cancer rates are down. You can now smoke indoors again, and purchase cigarettes without age restriction. It’s important that we put the lung cancer crisis behind us, and return to normal!</q:quote>
 		<dc:source rdf:resource="https://twitter.com/JonathanCOnP/status/1535604286247280641"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/COVID-19%20pandemic"/>
