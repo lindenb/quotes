@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">Alors y’a juste un truc que j’ai pas encore compris : le week-end à Marrakech il est annulé ou pas ?</q:quote>
+		<dc:source rdf:resource="https://twitter.com/ChamboncelLea/status/1538774262307246081"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/2022%20French%20legislative%20election"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Marrakesh"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Les%20Jeunes%20avec%20Macron"/>
+		<q:context>reference a une video des jeunes avec Macron</q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Macron n'aura pas la majorité... Ça va rappeler des bons souvenirs à Brigitte.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/2022%20French%20legislative%20election"/>
 		<dc:source rdf:resource="https://twitter.com/marcais_olive/status/1538606869358514178"/>
