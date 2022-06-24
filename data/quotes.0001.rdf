@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">If this was about babies, there would be universal healthcare. Free education. Free daycare. Southern states would be doing all they can to drop the Black maternal mortality rate. This is about power and control</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Abortion%20in%20the%20United%20States"/>
+		<dc:source rdf:resource="https://twitter.com/dereckapurnell/status/1540352483746349056"/>
+		<q:context>suppression de l'avortement aux USA<q:context>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Alors y’a juste un truc que j’ai pas encore compris : le week-end à Marrakech il est annulé ou pas ?</q:quote>
 		<dc:source rdf:resource="https://twitter.com/ChamboncelLea/status/1538774262307246081"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/2022%20French%20legislative%20election"/>
