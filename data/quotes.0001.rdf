@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">In bioinformatics introduction lectures, I like to say that Excel came before Tinder... in seeing everything as a potential date</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Tinder"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Microsoft%20Excel"/>
+		<dc:source rdf:resource="https://twitter.com/FedeBioinfo/status/1544623300051091457"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">If this was about babies, there would be universal healthcare. Free education. Free daycare. Southern states would be doing all they can to drop the Black maternal mortality rate. This is about power and control</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Abortion%20in%20the%20United%20States"/>
 		<dc:source rdf:resource="https://twitter.com/dereckapurnell/status/1540352483746349056"/>
