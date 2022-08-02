@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">By age 30, you should have a group of friends that drive from town to town and solve mysteries involving supposedly supernatural creatures through a series of antics and missteps. One of them MUST be a dog.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Scooby-Doo"/>
+		<dc:source rdf:resource="https://twitter.com/BigDirtyFry/status/1554494565725470720"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">In bioinformatics introduction lectures, I like to say that Excel came before Tinder... in seeing everything as a potential date</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bioinformatics"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Tinder"/>
