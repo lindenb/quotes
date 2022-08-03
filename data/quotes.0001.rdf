@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">idea: a gameshow called Imposter Syndrome where you take 10 senior developers and tell them that one of them is actually just a sales guy who's been taught to say DevOps buzzwords. to win, they have to figure out who the fake dev is. the trick: there is no sales guy</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Imposter%20Syndrome"/>
+		<dc:source rdf:resource="https://twitter.com/ctrlshifti/status/1554018435012538369"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">By age 30, you should have a group of friends that drive from town to town and solve mysteries involving supposedly supernatural creatures through a series of antics and missteps. One of them MUST be a dog.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Scooby-Doo"/>
 		<dc:source rdf:resource="https://twitter.com/BigDirtyFry/status/1554494565725470720"/>
