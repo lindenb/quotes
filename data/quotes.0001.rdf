@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="fr">L'appli SNCF: "IL RESTE UNE SEULE PLACE, UNE SEULE PLACE DANS TOUT LE TRAIN, VOUS LA PRENEZ ? UNE SEULE PLACE, BORDEL !"
+Moi: "HA ! Oui ! Je prends !"
+L'appli SNCF: "Alors nous avons salle haute, salle basse, duo, carré face à face, vous voyagez à côté d'un proche ?"</q:quote>
+		<dc:source rdf:resource="https://twitter.com/Bouletcorp/status/1555854045985882113"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/SCNF%20French%20Rail"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">idea: a gameshow called Imposter Syndrome where you take 10 senior developers and tell them that one of them is actually just a sales guy who's been taught to say DevOps buzzwords. to win, they have to figure out who the fake dev is. the trick: there is no sales guy</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Imposter%20Syndrome"/>
 		<dc:source rdf:resource="https://twitter.com/ctrlshifti/status/1554018435012538369"/>
