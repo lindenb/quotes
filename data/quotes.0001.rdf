@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">By age 30 you should have learned and forgotten the Krebs cycle at least 3 times</q:quote>
+		<dc:source rdf:resource="https://twitter.com/MBurt34/status/1555694244102377473"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Krebs%20cycle"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">L'appli SNCF: "IL RESTE UNE SEULE PLACE, UNE SEULE PLACE DANS TOUT LE TRAIN, VOUS LA PRENEZ ? UNE SEULE PLACE, BORDEL !"
 Moi: "HA ! Oui ! Je prends !"
 L'appli SNCF: "Alors nous avons salle haute, salle basse, duo, carré face à face, vous voyagez à côté d'un proche ?"</q:quote>
