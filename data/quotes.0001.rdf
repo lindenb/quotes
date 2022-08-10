@@ -6,6 +6,16 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+	<q:Quote>
+		<q:quote xml:lang="en">BREAKING: Donald Trump's personal library was destroyed in the FBI raid of Mar-a-Lago.
+
+Both books are sadly beyond repair, and he hadn't even finished coloring one in yet.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/TranslateThings/status/1556789017407983617"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Donald%20Trump"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Federal%20Bureau%20of%20Investigation"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Coloring%20book"/>
+		<q:context>descente du FBI chez trump Aout 2022.</q.context>
+	</q:Quote>
 <q:Quote>
 		<q:quote xml:lang="fr">Le summum de l'hypocrisie. 
 A thread : 
