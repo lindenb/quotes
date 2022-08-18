@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">If you’re not actively debugging something in a separate window are you even really attending the meeting?</q:quote>
+		<dc:source rdf:resource="https://twitter.com/laurieontech/status/1559938005267357699"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Meeting"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Debugging"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">BREAKING: Donald Trump's personal library was destroyed in the FBI raid of Mar-a-Lago.
 
 Both books are sadly beyond repair, and he hadn't even finished coloring one in yet.</q:quote>
