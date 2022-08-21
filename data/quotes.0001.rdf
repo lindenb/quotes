@@ -7,6 +7,11 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">never take advice. if the person is alive then it's technically survivorship bias</q:quote>
+		<dc:source rdf:resource="https://twitter.com/FinitePhysicist/status/1561353336191963138"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Survivorship%20bias"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">If you’re not actively debugging something in a separate window are you even really attending the meeting?</q:quote>
 		<dc:source rdf:resource="https://twitter.com/laurieontech/status/1559938005267357699"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Meeting"/>
