@@ -7,6 +7,12 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">"Ask a programmer to review ten lines of code, he’ll find ten issues. Ask him to do five hundred lines, and he’ll say it looks good." - Gene Kim, The DevOps Handbook.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/lucalanziani/status/1564213853038182402"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programming"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Code%20review"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">never take advice. if the person is alive then it's technically survivorship bias</q:quote>
 		<dc:source rdf:resource="https://twitter.com/FinitePhysicist/status/1561353336191963138"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Survivorship%20bias"/>
