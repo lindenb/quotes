@@ -7,6 +7,13 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Hey, just a heads-up. Turns out the upcoming Disney Plus series “Andor” isn’t about logic gates at all. It’s just some Star Wars thing.</q:quote>
+		<dc:source rdf:resource="https://twitter.com/loresjoberg/status/1564982311694716929"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bitwise%20operation"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Star%20Wars"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Andor%20(TV%20series)"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">"Ask a programmer to review ten lines of code, he’ll find ten issues. Ask him to do five hundred lines, and he’ll say it looks good." - Gene Kim, The DevOps Handbook.</q:quote>
 		<dc:source rdf:resource="https://twitter.com/lucalanziani/status/1564213853038182402"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Programming"/>
