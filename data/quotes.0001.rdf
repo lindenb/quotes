@@ -6,6 +6,12 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+	<q:Quote>
+		<q:quote xml:lang="fr">Pourquoi de si nombreuses personnes aiment fouiller dans les poubelles ? Pour se rassasier des mauvaises odeurs ou pour masquer leurs propres ordures ? Je me sens de plus en plus attiré vers le Ciel pour me délecter de la bonne odeur du Christ</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Waste%20container"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Christianity"/>
+		<dc:source rdf:resource="https://twitter.com/MichelAupetit/status/1581115704865980416"/>
+	</q:Quote>
         <q:Quote>
 		<q:quote xml:lang="en">I had thought that going into space would be the ultimate catharsis of that connection I had been looking for between all living things—that being up there would be the next beautiful step to understanding the harmony of the universe. In the film “Contact,” when Jodie Foster’s character goes to space and looks out into the heavens, she lets out an astonished whisper, “They should’ve sent a poet.” I had a different experience, because I discovered that the beauty isn’t out there, it’s down here, with all of us. Leaving that behind made my connection to our tiny planet even more profound. It was among the strongest feelings of grief I have ever encountered. The contrast between the vicious coldness of space and the warm nurturing of Earth below filled me with overwhelming sadness. Every day, we are confronted with the knowledge of further destruction of Earth at our hands: the extinction of animal species, of flora and fauna . . . things that took five billion years to evolve, and suddenly we will never see them again because of the interference of mankind. It filled me with dread. My trip to space was supposed to be a celebration; instead, it felt like a funeral.</q:quote>
 		<dc:source rdf:resource="https://variety.com/2022/tv/news/william-shatner-space-boldly-go-excerpt-1235395113/"/>
