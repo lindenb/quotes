@@ -7,6 +7,15 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">French philosophy: I'm uncertain
+English philosophy: I'm unsubtle
+German philosophy: I'm unlimited
+American philosophy: I'm a bat</q:quote>
+		<dc:source rdf:resource="https://twitter.com/janmpdx/status/1582349070185943041"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Batman"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Philosophy"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="fr">Pourquoi de si nombreuses personnes aiment fouiller dans les poubelles ? Pour se rassasier des mauvaises odeurs ou pour masquer leurs propres ordures ? Je me sens de plus en plus attiré vers le Ciel pour me délecter de la bonne odeur du Christ</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Waste%20container"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Christianity"/>
