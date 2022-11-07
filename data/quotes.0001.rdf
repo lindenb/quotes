@@ -6,6 +6,13 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+<q:Quote>
+		<q:quote xml:lang="en">To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Elon%20Musk"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academic%20publishing"/>
+		<dc:source rdf:resource="https://twitter.com/AcademicChatter/status/1589302565325647872"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="en">French philosophy: I'm uncertain
 English philosophy: I'm unsubtle
