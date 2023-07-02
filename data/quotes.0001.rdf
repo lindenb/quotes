@@ -6,7 +6,145 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
-<q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Attaque au couteau à Annecy : "Être en ce moment dans l'hémicycle avec une espèce de bataille de chiffonniers sur une recevabilité ou non d'amendements nous paraît en total décalage par rapport à l'effroi qui submerge notre pays", déclare @auroreberge.
+#PPLLiot #DirectAN #Annecy</q:quote>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/2023_French_pension_reform_unrest"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/2023_Annecy_stabbing"/>
+		<dc:source rdf:resource="https://twitter.com/GMeurice/status/1666860694229200918"/>
+	</q:Quote>
+	
+	<q:Quote>
+		<q:quote xml:lang="fr">On remerciera jamais assez les Thierry 54 ans avec leurs chaînes youtube à 18 abonnés qui se filment avec leur téléphone et un son dégueu pour t'expliquer bénévolement comment changer le mécanisme de ton volet roulant, force à eux</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/YouTube"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Do%20it%20yourself"/>
+		<dc:source rdf:resource="https://twitter.com/marechalboulon/status/1671928719307423762"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Entre le Titanic bis et la guerre civile russe, j’ai l’impression d’habiter dans une vaste fanfic avec des ficelles narratives un peu grosses.</q:quote>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Titan_submersible_implosion"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Titanic"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Wagner_Group_rebellion"/>
+		<dc:source rdf:resource="https://twitter.com/Dorialexander/status/1672524044690677761"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Nous sommes en Europe des gens pathétiques qui tous les quatre ans font une nuit blanche au moment des élections américaines pour savoir ce que votent les électeurs du Wisconsin ou du Michigan, pour savoir si Vilnius ou Varsovie vont être défendues.</q:quote>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Elections_in_the_United_States"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Europe"/>
+		<dc:source rdf:resource="https://twitter.com/franceinter/status/1672916159945924610"/>
+		<dc:author rdf:resource="https://en.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">The phrase "what the entire fuck" implies the existence of fractional fucks. 
+
+"what the absolute fuck" implies the existence of positive and negative fucks. 
+
+"what the actual fuck" implies existence of imaginary fucks. 
+
+Conclusion: fuckery is isomorphic with the complex field.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<dc:source rdf:resource="https://twitter.com/ThomasCadene/status/1673969018217152512"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Existe t il un système de veille aussi efficace que Twitter sur mille sujets en même temps mais qui ne soit pas en même temps une fosse putride abominable et profondément toxique ? 
+
+Ce n'est pas pour un ami, c'est pour une urgence.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fuck"/>
+		<dc:source rdf:resource="https://twitter.com/manisha72617183/status/1481819473627992066"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">(walking up to don quixote) hi i’m a huge fan 
+
+don quixote: *eyes narrowing* you’re a What?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Don%20Quixote"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Fan"/>
+		<dc:author rdf:resource="https://fr.wikipedia.org/wiki/Guillaume_Meurice"/>
+		<dc:source rdf:resource="https://twitter.com/frogsforgirls/status/1664935296171929600"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">On en est où des 100 jours d’apaisement ?</q:quote>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Emmanuel_Macron"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Nahel_Merzouk_protests"/>
+		<dc:source rdf:resource="https://twitter.com/GMeurice/status/1674729575404666882"/>
+		<dc:author rdf:resource="https://fr.wikipedia.org/wiki/Guillaume_Meurice"/>
+		<q:context>Macron demandait 100 jours après les manifs des retraites</q:context>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">"Hordes sauvages"
+"Nous sommes en guerre"
+“Combat contre les nuisibles”
+"En résistance [contre le gouvernent s'il ne nous permet pas d'attaquer les droits fondamentaux des individus]”  
+
+Le registre raciste, impérialiste et fasciste ne peut être plus limpide.</q:quote>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Alliance_Police_nationale"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Nahel_Merzouk_protests"/>
+		<dc:source rdf:resource="https://twitter.com/mstambolis/status/1674771812369178625"/>
+		<q:context>contenu d'un communique de syndicat de police</q:context>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">On n’est pas bien là, avec nos limites de taux dépassées ?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<dc:source rdf:resource="https://twitter.com/GDeleur/status/1675173968855146496"/>
+		<q:context>Twitter HS depuis que Musk a reduit le nombre de post visibles par jour (600)</q:context>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Des années à dénoncer la destruction des services publics, l’abandon des quartiers populaires, la montée de la pauvreté, alors que le seul souci, c’était « les opérateurs de type Snapchat ».</q:quote>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Social_network"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Nahel_Merzouk_protests"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Video_game"/>
+		<dc:source rdf:resource="https://twitter.com/laurentchemla/status/1675062935935242241"/>
+		<q:context>Macron : mes emeutes c'est la fautes des resaux sociaux et des jeux videos</q:context>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Utilisation des réseaux sociaux pour s'organiser pendant les printemps arabes : bien.
+
+Utilisation des réseaux sociaux pour s'organiser dans la lutte contre l'apartheid en France : pas bien.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Nahel_Merzouk_protests"/>
+		<dc:source rdf:resource="https://twitter.com/laurentchemla/status/1675062935935242241"/>
+		<q:context>Twitter HS depuis que Musk a reduit le nombre de post visibles par jour (600)</q:context>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">The news is always like: "America has banned wheelchair ramps because they weren't in the Bible. Finland has made ice cream free."</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Finland"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States"/>
+		<dc:source rdf:resource="https://en.wikipedia.org/wiki/Students_for_Fair_Admissions_v._Harvard"/>
+		<dc:source rdf:resource="https://twitter.com/jessecase/status/1674850537680797707"/>
+		<q:context>La court supreme des USA supprime loi pour les minorites</q:context>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="en">The news is always like: "America has banned wheelchair ramps because they weren't in the Bible. Finland has made ice cream free."</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<dc:source rdf:resource="https://en.wikipedia.org/wiki/Students_for_Fair_Admissions_v._Harvard"/>
+		<dc:source rdf:resource="https://twitter.com/jessecase/status/1674850537680797707"/>
+		<q:context>La court supreme des USA supprime loi pour les minorites</q:context>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Poser une question sociale.
+Recevoir des insultes.
+Quelle meilleure illustration problème ?</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Capitalism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Poverty"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Nahel_Merzouk_protests"/>
+		<dc:author rdf:resource="https://en.wikipedia.org/wiki/Sandrine_Rousseau"/>
+		<dc:source rdf:resource="https://twitter.com/Vogelsong/status/1675085141687914496"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Cette satanée colère des gueux qu’on ne peut pas dissoudre comme le premier mouvement écologiste venu.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Capitalism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Poverty"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Nahel_Merzouk_protests"/>
+		<dc:source rdf:resource="https://twitter.com/Vogelsong/status/1675085141687914496"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Il faut bien comprendre que le capitalisme fonctionne seulement aves des pauvres calmes.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Capitalism"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Poverty"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Nahel_Merzouk_protests"/>
+		<dc:source rdf:resource="https://twitter.com/Vogelsong/status/1675085141687914496"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">To academics annoyed that a billionaire is destroying Twitter, let me introduce you to academic publishing.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Elon%20Musk"/>
