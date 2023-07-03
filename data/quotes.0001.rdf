@@ -6,6 +6,44 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
+	
+	
+	<q:Quote>
+		<q:quote xml:lang="fr">En 2019, il avait fallu 3 mn pour que la majorité réclame l'annulation de la cagnotte de soutien au boxeur qui avait frappé un policier. 
+En 2023, les mêmes regardent leurs godasses pendant que l'extrême-droite crée l'équivalent pour un agent qui a tué un ado.</q:quote>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Nahel_Merzouk_protests"/>
+		<dc:source rdf:resource="https://twitter.com/Padre_Pio/status/1675858693022261248"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Le règne capitaliste est incapable d'établir le moindre rapport entre ses propres méfaits (pauvretés, misères, précarités structurelles, individualismes, dé-solidarités, obscurantisme, torpeur existentielle, ressentiment hagard...) et les violences urbaines devenues folles...</q:quote>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Nahel_Merzouk_protests"/>
+		<dc:source rdf:resource="https://twitter.com/PCHAMOISEAU/status/1675490972950757376"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Ça défend un flic qui tire sur un gamin. Quelques jours plus tard, la milice faf descend dans la rue et certains demandent de tirer à vue sur les arabes de banlieue. 
+Et ça ne comprend pas le procès en fachisme, ils se pensent les gentils.</q:quote>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Nahel_Merzouk_protests"/>
+		<dc:source rdf:resource="https://twitter.com/Linguisticae/status/1675629336202805249"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Vous savez pourquoi on ne voit jamais la Police intervenir contre les manifs d'extrême-droite ?
+Pour la même raison qu'on ne voit jamais Peter Parker et Spiderman ensemble dans la même pièce.</q:quote>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Nahel_Merzouk_protests"/>
+		<dc:source rdf:resource="https://twitter.com/Nain_Portekoi/status/1675610820862935040"/>
+	</q:Quote>
+	
+	<q:Quote>
+		<q:quote xml:lang="fr">Gros débat du jour: "qui va payer ?"
+C'est drôle, quand on voit des crues dévastatrices, des coulées de boue, des cultures ravagées par la sécheresse ou des rivières empoisonnées personne ne se pose la question.</q:quote>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Nahel_Merzouk_protests"/>
+		<dc:source rdf:resource="https://twitter.com/Taigasangare/status/1675514149642665987"/>
+	</q:Quote>
+	<q:Quote>
+		<q:quote xml:lang="fr">Vous savez ce qu'ils ont en commun ses jeunes casseurs ? Ils ont tous vu l'âne Trotro quand ils étaient petits. C'est la faute à l'âne Trotro.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Trotro"/>
+		<q:keyword rdf:resource="https://en.wikipedia.org/wiki/Nahel_Merzouk_protests"/>
+		<dc:source rdf:resource="https://twitter.com/Petit_Fayot/status/1675181841773391873"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="fr">Attaque au couteau à Annecy : "Être en ce moment dans l'hémicycle avec une espèce de bataille de chiffonniers sur une recevabilité ou non d'amendements nous paraît en total décalage par rapport à l'effroi qui submerge notre pays", déclare @auroreberge.
 #PPLLiot #DirectAN #Annecy</q:quote>
@@ -109,13 +147,6 @@ Utilisation des réseaux sociaux pour s'organiser dans la lutte contre l'aparthe
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Finland"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States"/>
-		<dc:source rdf:resource="https://en.wikipedia.org/wiki/Students_for_Fair_Admissions_v._Harvard"/>
-		<dc:source rdf:resource="https://twitter.com/jessecase/status/1674850537680797707"/>
-		<q:context>La court supreme des USA supprime loi pour les minorites</q:context>
-	</q:Quote>
-	<q:Quote>
-		<q:quote xml:lang="en">The news is always like: "America has banned wheelchair ramps because they weren't in the Bible. Finland has made ice cream free."</q:quote>
-		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
 		<dc:source rdf:resource="https://en.wikipedia.org/wiki/Students_for_Fair_Admissions_v._Harvard"/>
 		<dc:source rdf:resource="https://twitter.com/jessecase/status/1674850537680797707"/>
 		<q:context>La court supreme des USA supprime loi pour les minorites</q:context>
