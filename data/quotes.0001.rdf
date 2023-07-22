@@ -7,7 +7,12 @@
 	xml:lang="en"
 	>
 	
-	
+	<q:Quote>
+		<q:quote xml:lang="fr">l'enjeu de ces plateformes (Monmaster, Parcoursup, Affelnet , etc.) est de faire du dysfonctionnement une norme, de l'impossibilité de recours une habitude, et de la résignation devant l'incohérence un instrument de domination.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Parcoursup"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Education%20in%20France"/>
+		<dc:source rdf:resource="https://twitter.com/Affordanceinfo2/status/1682692850775932928"/>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="fr">En 2019, il avait fallu 3 mn pour que la majorité réclame l'annulation de la cagnotte de soutien au boxeur qui avait frappé un policier. 
 En 2023, les mêmes regardent leurs godasses pendant que l'extrême-droite crée l'équivalent pour un agent qui a tué un ado.</q:quote>
