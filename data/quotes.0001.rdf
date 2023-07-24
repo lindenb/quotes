@@ -6,7 +6,13 @@
 	xml:base="https://raw.githubusercontent.com/lindenb/quotes/master/data/"
 	xml:lang="en"
 	>
-	
+	<q:Quote>
+		<q:quote xml:lang="en">C'est sûr qu'un X c'est plus facile à transformer en svastika qu'un piaf.</q:quote>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Twitter"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Svastika"/>
+		<dc:source rdf:resource="https://twitter.com/laurentchemla/status/1683410628810031104"/>
+		<q:context>Elon musk renome twitter en X</q:context>
+	</q:Quote>
 	<q:Quote>
 		<q:quote xml:lang="fr">l'enjeu de ces plateformes (Monmaster, Parcoursup, Affelnet , etc.) est de faire du dysfonctionnement une norme, de l'impossibilité de recours une habitude, et de la résignation devant l'incohérence un instrument de domination.</q:quote>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Parcoursup"/>
