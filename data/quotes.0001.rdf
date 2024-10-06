@@ -7,6 +7,14 @@
 	xml:lang="en"
 	>
 	<q:Quote>
+		<q:quote xml:lang="en">Bruno Retailleau :
+"Je suis partagé sur la mort de Michel Blanc, un Blanc est mort mais ça fait un Bronzé de moins."</q:quote>
+		<dc:source rdf:resource="https://x.com/ceciestmontweet/status/1842100216255619305"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Bruno%20Retailleau"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Michel%20Blanc"/>
+		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Les%20Bronzes"/>
+	</q:Quote>
+	<q:Quote>
 		<q:quote xml:lang="en">Sleep when the baby sleeps, eat when the baby eats, edit your manuscript when the baby edits their manuscript</q:quote>
 		<dc:source rdf:resource="https://x.com/MadS100tist/status/1840249113675247737"/>
 		<q:keyword rdf:resource="http://en.wikipedia.org/wiki/Academic%20journal"/>
